@@ -22,4 +22,4 @@ eleventyNavigation:
     </p>
 
 ## Picture
-{% image "./profile photo.JPG", "A headshot of Toby Culverwell, author of this website" %}
+{% image "./profile photo 25 percent.jpg", "A headshot of Toby Culverwell, author of this website" %}
