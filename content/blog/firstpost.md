@@ -1,7 +1,7 @@
 ---
 title: The first post.
 description: This is my first post on My Blog.
-date: 2023-12-23.
+date: 2023-12-23
 tags:
   - personal
 ---
