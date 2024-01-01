@@ -34,21 +34,23 @@
 		
 	</head>
 	<body>
-		<a href="#skip" class="visually-hidden">Skip to main content</a>
+		{#<a href="#skip" class="visually-hidden">Skip to main content</a>#}
 
-		<header>
+		<header class="bg-light">
 			{#{% image "./bloglogo.png", "Logo for blog"%}#}
 		{#<img id="blog-logo" src="bloglogo.png" alt="Logo for blog">#}
 			<a href="/" class="home-link">{{ metadata.title }}</a>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-				{%- for entry in collections.all | eleventyNavigation %}
-					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-				{%- endfor %}
-				</ul>
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				<div class="container-fluid">
+					<h2 class="navbar-brand">Navigation Menu</h2>
+					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+					{%- for entry in collections.all | eleventyNavigation %}
+						<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+					{%- endfor %}
+					</ul>
+				</div>
 			</nav>
 		</header>
 
