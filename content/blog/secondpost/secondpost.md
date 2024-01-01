@@ -37,7 +37,7 @@ tags:
       </div>
     </div>
     <div class="carousel-item">
-      {% image "./hacr1-en003.jpg", "Red-Eyes Black Dragon" %}
+      {% image "./hac1-en003.jpg", "Red-Eyes Black Dragon" %}
       <div class="carousel-caption d-none d-md-block">
         <h5>Red-Eyes Black Dragon</h5>
         <p>A ferocious dragon with a deadly attack.</p>
