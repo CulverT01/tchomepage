@@ -10,7 +10,7 @@ tags:
   <h1 class="col align-self-center">Pulling the website by its Bootstraps</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-    This post evidences the usage of Bootstrap across the website. Bootstrap is a framework that's used to give styling to your website as well as allow it be dynamic with various components like the Carousel shown below. The cards that are shown are from Yugioh trading card game.
+    This post evidences the usage of Bootstrap across the website. Bootstrap is a framework that's used to give styling to your website as well as allow it be dynamic with various components like the Carousel shown below. The cards that are shown are from Yugioh trading card game that I own.
     </p>
   </div>
   <div class="col align-items-center">
@@ -33,7 +33,8 @@ tags:
             {% image "./yskr-en001.JPG", "Blue-Eyes White Dragon" %}
             <div class="carousel-caption d-none d-md-block">
               <h5>Blue-Eyes White Dragon</h5>
-              <p>This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.</p>
+              <p>This legendary dragon is a powerful engine of destruction. <br/>
+              Virtually invincible, very few have faced this awesome creature and lived to tell the tale.</p>
             </div>
           </div>
           <div class="carousel-item">
