@@ -6,7 +6,7 @@ eleventyNavigation:
 numberOfLatestPostsToShow: 3
 ---
 <div class="container">
-	<div class="row justify-content-center">
+	<div class="col align-self-center">
 		{% set postsCount = collections.posts | length %}
 		{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 		<h1 class="col-6">Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
