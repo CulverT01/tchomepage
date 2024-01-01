@@ -25,23 +25,23 @@ tags:
           <div class="carousel-item active">
             {% image "./ysyr-en001.JPG", "Dark Magician" %}
             <div class="carousel-caption d-none d-md-block">
-              <h5 class="text-dark">Dark Magician</h5>
-              <p class="text-dark">The ultimate wizard in terms of attack and defence.</p>
+              <h5 class="text-info">Dark Magician</h5>
+              <p class="text-info">The ultimate wizard in terms of attack and defence.</p>
             </div>
           </div>
           <div class="carousel-item">
             {% image "./yskr-en001.JPG", "Blue-Eyes White Dragon" %}
             <div class="carousel-caption d-none d-md-block">
-              <h5 class="text-dark">Blue-Eyes White Dragon</h5>
-              <p class="text-dark">This legendary dragon is a powerful engine of destruction. <br/>
+              <h5 class="text-info">Blue-Eyes White Dragon</h5>
+              <p class="text-info">This legendary dragon is a powerful engine of destruction. <br/>
               Virtually invincible, very few have faced this awesome creature and lived to tell the tale.</p>
             </div>
           </div>
           <div class="carousel-item">
             {% image "./hac1-en003.jpg", "Red-Eyes Black Dragon" %}
             <div class="carousel-caption d-none d-md-block">
-              <h5 class="text-dark">Red-Eyes Black Dragon</h5>
-              <p class="text-dark">A ferocious dragon with a deadly attack.</p>
+              <h5 class="text-info">Red-Eyes Black Dragon</h5>
+              <p class="text-info">A ferocious dragon with a deadly attack.</p>
             </div>
           </div>
         </div>
