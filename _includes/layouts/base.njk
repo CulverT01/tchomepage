@@ -9,7 +9,9 @@
 		{#- Atom and JSON feeds included by default #}
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
-
+		<link rel="stylesheet" href= "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      	integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      	crossorigin="anonymous"/>
 		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
 		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
 
@@ -34,23 +36,21 @@
 		
 	</head>
 	<body>
-		{#<a href="#skip" class="visually-hidden">Skip to main content</a>#}
+		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
-		<header class="bg-light">
+		<header>
 			{#{% image "./bloglogo.png", "Logo for blog"%}#}
 		{#<img id="blog-logo" src="bloglogo.png" alt="Logo for blog">#}
 			<a href="/" class="home-link">{{ metadata.title }}</a>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav class="navbar navbar-expand-lg navbar-light bg-light">
-				<div class="container-fluid">
-					<h2 class="navbar-brand">Navigation Menu</h2>
-					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-					{%- for entry in collections.all | eleventyNavigation %}
-						<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-					{%- endfor %}
-					</ul>
-				</div>
+			<nav>
+				<h2 class="visually-hidden">Navigation Menu</h2>
+				<ul>
+				{%- for entry in collections.all | eleventyNavigation %}
+					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+				{%- endfor %}
+				</ul>
 			</nav>
 		</header>
 
@@ -62,4 +62,9 @@
 
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
 	</body>
+	<script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"
+  ></script>
 </html>
