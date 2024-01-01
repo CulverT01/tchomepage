@@ -23,14 +23,13 @@ tags:
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="./ysyr-en001.JPG" class="d-block w-100" alt="Dark Magician">
+      {% image "./ysyr-en001.JPG", "Dark Magician" %}
       <div class="carousel-caption d-none d-md-block">
         <h5>Dark Magician</h5>
         <p>The ultimate wizard in terms of attack and defence.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <!--<img src="./yskr-en001.JPG" class="d-block w-100" alt="Blue-Eyes White Dragon">-->
       {% image "./yskr-en001.JPG", "Blue-Eyes White Dragon" %}
       <div class="carousel-caption d-none d-md-block">
         <h5>Blue-Eyes White Dragon</h5>
@@ -38,7 +37,7 @@ tags:
       </div>
     </div>
     <div class="carousel-item">
-      <img src="./hac1-en003.jpg" class="d-block w-100" alt="Red-Eyes Black Dragon">
+      {% image "./hacr1-en001.jpg", "Red-Eyes Black Dragon" %}
       <div class="carousel-caption d-none d-md-block">
         <h5>Red-Eyes Black Dragon</h5>
         <p>A ferocious dragon with a deadly attack.</p>
