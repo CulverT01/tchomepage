@@ -13,8 +13,8 @@ tags:
     This post evidences the usage of Bootstrap across the website. Bootstrap is a framework that's used to give styling to your website as well as allow it be dynamic with various components like the Carousel shown below. The cards that are shown are from Yugioh trading card game that I own.
     </p>
   </div>
-  <div class="col align-items-center">
-    <div class="col-8">
+  <div class="row align-items-center">
+    <div class="col-6">
       <div id="carouselCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
           <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
