@@ -22,7 +22,7 @@
 		#}
 
 		{#- Add an arbitrary string to the bundle #}
-		{%- css %}* { box-sizing: border-box; }{% endcss %}
+		{%- css %}* { box-sizing: content-box; }{% endcss %}
 		{#- Add the contents of a file to the bundle #}
 		{%- css %}{% include "public/css/index.css" %}{% endcss %}
 		{#- Or add from node_modules #}
@@ -37,7 +37,8 @@
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
-			<img id="blog-logo" src="bloglogo.png" alt="Logo for blog">
+			{% image "./bloglogo.png", "Logo for blog"%}
+		{#<img id="blog-logo" src="bloglogo.png" alt="Logo for blog">#}
 			<a href="/" class="home-link">{{ metadata.title }}</a>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
