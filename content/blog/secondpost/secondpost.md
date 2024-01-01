@@ -21,7 +21,7 @@ tags:
           <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
-        <div class="carousel-inner">
+        <div class="text-dark carousel-inner">
           <div class="carousel-item active">
             {% image "./ysyr-en001.JPG", "Dark Magician" %}
             <div class="carousel-caption d-none d-md-block">
