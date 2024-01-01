@@ -4,7 +4,10 @@ eleventyNavigation:
   key: All Posts
   order: 2
 ---
-<h1 class="col align-self-center">All Posts</h1>
-
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+<div class="container fluid">
+  <h1 class="col align-self-center">All Posts</h1>
+  <div class="col align-self-center">
+  {% set postslist = collections.posts %}
+  {% include "postslist.njk" %}
+  </div>
+</div>
