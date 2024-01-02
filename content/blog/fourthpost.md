@@ -25,22 +25,19 @@ tags:
     }
     //Calling function 1
     Sentence();
-    
     //Function 2
     function FullName(first, last){
         console.log(`${first} ${last}`);
     }
     //Calling function 2
-    FullName('Toby', 'Culverwell');
-    
+    FullName('Toby', 'Culverwell'); 
     //Function 3
     function FullName2(first2, last2){
         const fullName = first2 + ' ' + last2;
         return fullName;
     }
      //Calling function 3
-    console.log(FullName2('Frank', 'Sinatra'));
-    
+    console.log(FullName2('Frank', 'Sinatra')); 
     //Function 4
     function TemperatureCheck(temperature){
         if (temperature < 0) {
