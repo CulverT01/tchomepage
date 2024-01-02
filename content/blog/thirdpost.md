@@ -1,6 +1,6 @@
 ---
 title: Tipping the JavaScript.
-description: This is a post on My Blog about win-win survival strategies.
+description: Evidencing the understanding of JavaScript variables.
 date: 2023-12-31
 tags:
   - javascript
