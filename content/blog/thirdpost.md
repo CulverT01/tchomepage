@@ -12,15 +12,17 @@ tags:
   <div class="row justify-content-center">
     <p class="col-8">
 	As a part of the Coders Guild Bootcamp on for Web Design and Development Skills, I studied and learnt about JavaScript. This post and the next few will demonstrate various key uses of JavaScript. Down below is a program that calculates the cost of the overall bill and from how much it originally cost and the percentage of tip that they will provide.
-    </p>	
+    </p>
+	<h3 class="row">JavaScript Code</h3>
+	<p class="col-8">
+	let foodCost = prompt('Enter the cost of food:');<br/>
+	let tipPercent = prompt('Percentage of cost to be tipped:');<br/> 
+	var tipAmount = (Number(foodCost) * Number(tipPercent))/ 100;<br/>
+	var totalBill = Number(foodCost) + tipAmount;<br/>
+	alert('Total bill is: £' + totalBill.toFixed(2));	
+	</p>
   </div>
 </div>
-```js
-		let foodCost = prompt('Enter the cost of food:');
-		let tipPercent = prompt('Percentage of cost to be tipped:'); 
-		var tipAmount = (Number(foodCost) * Number(tipPercent))/ 100;
-		var totalBill = Number(foodCost) + tipAmount;
-		alert('Total bill is: £' + totalBill.toFixed(2));
-	```
+
 
 
