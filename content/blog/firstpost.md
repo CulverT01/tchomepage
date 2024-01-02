@@ -6,9 +6,6 @@ tags:
   - personal
 ---
 
-## The First Post
-
-
 <div class="container fluid">
   <h1 class="col align-self-center">The First Post</h1>
   <div class="row justify-content-center">
