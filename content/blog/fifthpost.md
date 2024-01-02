@@ -1,7 +1,7 @@
 ---
 title: Functions and Control Flow 2 - Electric Boogaloo.
 description: More Evidence on the understanding of JavaScript functions and control flow.
-date: 2024-01-01
+date: 2024-01-02
 tags: 
     - javascript
     - web skill evidence
