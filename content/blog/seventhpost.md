@@ -27,6 +27,7 @@ tags:
     let number = 7;
     timesTable(number);
     </pre>
+    <h1 class="col align-self-center">Arrays and Objects on Loop.</h1>
     <p class="col-8">
     More key elements of JavaScript are arrays, loops and objects. Arrays are like lists for JavaScript as you can store items, like food items, in them and add or delete items if need be. To output an entire list, you will have to loop through them.<br /> 
     Objects are variables that can store multiple bits of information relating to something. For example, a person can represented by an object as they will have information such as nationality, eye colour, weight, etc. <br />
@@ -47,6 +48,7 @@ tags:
     }
     allFavFoods(favfoods);
     </pre>
+    <h1 class="col align-self-center">Arrays and Objects on Loop.</h1>
     <p class="col-8">
     More key elements of JavaScript are objects, arrays and loops. Arrays are like lists for JavaScript as you can store items, like food items, in them and put in or delete items if need be. To output an entire list, you will have to loop through them.<br /> 
     Objects are variables that can store multiple bits of information relating to something. For example, a person can represented by an object as they will have information such as hometown, hair colour, favourite colour, etc. <br />
