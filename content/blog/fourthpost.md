@@ -2,7 +2,6 @@
 title: Four functions and seven years ago.
 description: Evidencing the understanding of JavaScript functions and control flow.
 date: 2024-01-01
-draft: true
 tags: 
     - javascript
     - web skill evidence
