@@ -11,7 +11,7 @@ tags:
   <h1 class="col align-self-center">Arrays and Objects on Loop (Remix).</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-    Another  2 Examples of an object, an array and a loop. In the 1st example we have an object that can be looped through in order to calculate the total of a shopping cart, taking in account any discounts that may apply, and then outputting the result to the console.<br /> 
+    Another 2 Examples of an object, an array and a loop. In the 1st example we have an object that can be looped through in order to calculate the total of a shopping cart, taking in account any discounts that may apply, and then outputting the result to the console.<br /> 
     The 2nd example takes the same object and stores the items whose total price (item price x item quantity) is between 2 and 5.
     </p>
 	<h3 class="row">JavaScript Code</h3>
