@@ -1,7 +1,7 @@
 ---
 title: Nisekoi Volume 1 - The Promise.
 description: Review of Nisekoi Volume 1.
-date: 2024-01-16
+date: 2024-06-25
 draft: true
 tags:
   - manga review
@@ -138,9 +138,9 @@ tags:
                     aria-labelledby="headingSix"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter begins with a scene between a young Raku and his mystery pendant girl in which he changes the ending to a book she's reading from a sad one to a happy one, but before she can say her name, Raku wakes up to reveal it was a dream. He's still upset over the events that happened in chapter 4, specifically those relating to Onodera, and on his way to school he meets up with Chitoge, who looks drained because members of Beehive wouldn't stop asking her about the date. They now both share a mutral exhaustion to the whole situation and are least thankful that only Onodera knows and Raku can set her straight anyway, so they don't have to keep up the charade at school.<br /> 
+                    The chapter begins with a scene between a young Raku and his mystery pendant girl in which he changes the ending to a book she's reading from a sad one to a happy one, but before she can say her name, Raku wakes up to reveal it was a dream. He's still upset over the events that happened in chapter 4, specifically those relating to Onodera, and on his way to school he meets up with Chitoge, who looks drained because members of Beehive wouldn't stop asking her about the date. They now both share a mutual exhaustion to the whole situation and are least thankful that only Onodera knows and Raku can set her straight anyway, so they don't have to keep up the charade at school.<br /> 
                     However, it turns out that Onodera wasn't the only one who spotted them out on their date, as Itano and Jogasaki (2 of their classmates) also spotted them and has told the entire class and now Raku and Chitoge are being lauded as a happy couple. Raku tries to deny this but before he has chance to he spots Claude and realises that they can't deny their relationship as it would jeopardise the peace that their relationship provides. The day passes by and Raku doen't get to talk to Onodera at all due to Claude constantly watching him in order to catch him being unfaithful to Chitoge, but luckily he does catch her at the end of the day after her student government meeting as the school is autonomous and independent from Japan to need its own government. He attempts to set the record straight, but decides against it because the truth could be construed as an admission of love, which he isn't ready to admit to her, so instead he plays down the compatibility between him and Chitoge which she rightly chastises him for because, in her eyes, it is obvious why Chitoge loves him. <br />
-                    The chapter ends with someone bumping into Onodrea, who then drops an old key. The back of the chapter has 2 more 4-panel manga strips, which follow on from the ones seen at the end of chapter 4. The funniest being Chitoge trying to give some of the animals names.
+                    The chapter ends with someone bumping into Onodera, who then drops an old key. The back of the chapter has 2 more 4-panel manga strips, which follow on from the ones seen at the end of chapter 4. The funniest being Chitoge trying to give some of the animals names.
                     </div>
                 </div>
             </div>
@@ -160,6 +160,8 @@ tags:
                     aria-labelledby="headingSeven"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
+                    The chapter picks up from the cliffhanger of last chapter, with Onodera frantically trying to explaining to the old key before immediately running away. Raku buys her excuses because, as previously established, she's not her pendant girl. The chapter continues onto a new day in which Chitoge and Raku are exhausted from keeping up their act and Raku suggests that she tells a close friend to lessen the pressure, to which she storms off angrily. Raku is annoyed by her reaction and vents to his close friend, Shu, about this and he responds by mentioning that she may not have any close friends as Raku is the only one she has actually spent time with. <br />
+                    Raku goes to find Onodera to set the record straight about his and Chitoge's relationship, only to find that she's gone home. Dejected, he plans to head home only to hear some students talking about Chitoge and how hard it is to approach her, so he changes his mind and finds her instead. When he finds her, he catches her writing notes in a book about her fellow students' interests. She's embarrassed about it, but it is neccessary due to Cluade's overprotectiveness and this confession causes Raku to realise how similar their uprbringing has been and he confesses he did the same thing before and volunteers to help her with her notes, which much to her chagrin, she accepts. The conversation ends, as usual, in an argument which the admit that their reltionship is a lie and this overheard by Onodera.
                     </div>
                 </div>
             </div>
