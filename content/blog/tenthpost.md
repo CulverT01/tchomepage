@@ -1,7 +1,7 @@
 ---
 title: New Content Approaching!!!.
 description: Explaination on new content coming to website.
-date: 2024-01-18 
+date: 2024-06-18 
 tags:
   - personal
   - manga review
