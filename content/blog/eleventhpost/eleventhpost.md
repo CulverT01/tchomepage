@@ -181,6 +181,8 @@ tags:
                     aria-labelledby="headingEight"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
+                    The final chapter focusses on a cooking lesson that the characters are having. Chitoge is stoked, as she believes that the cake she bakes will wow the class and everyone will want to be her friend. However, Raku is unconvinced of her cooking skills (which is proven in the bonus comic at the end of the chapter) and they bicker about it. It is revealed that all of the girls are giving cakes to guys they like which means Raku is immediately interested who Onodera is giving her cake to. Although his attempts to find out are thwarted by the escapades that Chitoge encounters during her attempt to bake her cake, which leads to him to take charge with regards to her cake. The comes out burnt and looks unappetising, but it nonetheless tastes great. Raku does find out who is getting Onodera's cake and gets to have a small cake that she made with leftover ingredients, but it is revealed that her cooking skills aren't great either and he collapses after one bite.<br />
+                    There is also a bonus 4 panel strip called Talent, in which Raku impresses Chitoge at a New Years Party his family is hosting with his singing ability.
                     </div>
                 </div>
             </div>
