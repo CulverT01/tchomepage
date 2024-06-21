@@ -17,7 +17,7 @@ tags:
     <div class="col-2">
     </div>
     {% image "./nisekoi_1_25.jpg", "Cover of volume 1 of Nisekoi" %}
-    <div class="col-8">  
+    <div class="col-6">  
         <div class="accordion" id="accordionObject">
             <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
