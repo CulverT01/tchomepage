@@ -14,7 +14,7 @@ tags:
 <div class="container fluid">
   <h1 class="col align-self-center">Nisekoi Volume 1 - The Promise</h1>
   <div class="row justify-content-center">
-    <div class="col-8">
+    <div class="col-12">
        {% image "./nisekoi_1.jpg", "Cover of volume 1 of Nisekoi" %}
         <div class="accordion" id="accordionObject">
             <div class="accordion-item">
