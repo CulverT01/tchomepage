@@ -14,10 +14,8 @@ tags:
 <div class="container fluid">
   <h1 class="col align-self-center">Nisekoi Volume 1 - The Promise</h1>
   <div class="row justify-content-center">
-    <div class="col-2">
-    {% image "./nisekoi_1.jpg", "Cover of volume 1 of Nisekoi" %}
-    </div>
     <div class="col-8">
+       {% image "./nisekoi_1.jpg", "Cover of volume 1 of Nisekoi" %}
         <div class="accordion" id="accordionObject">
             <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
@@ -189,9 +187,7 @@ tags:
                 </div>
             </div>
         </div>
-    </div>
-    <div class="col-2">
-    {% image "./nisekoi_1.jpg", "Cover of volume 1 of Nisekoi" %}
+        {% image "./nisekoi_1.jpg", "Cover of volume 1 of Nisekoi" %}
     </div>
   </div>
 </div>
