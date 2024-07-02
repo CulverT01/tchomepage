@@ -2,7 +2,6 @@
 title: Designs on a new project.
 description: Detailing the design of the Card Game Player project.
 date: 2024-07-02 
-draft: true
 tags:
   - card game player project
   - technical skills evidence
