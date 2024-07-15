@@ -2,7 +2,6 @@
 title: Nisekoi Volume 2 - Zwansze in Love.
 description: Review of Nisekoi Volume 2.
 date: 2024-07-09
-draft: true
 tags:
   - manga review
   - Nisekoi
