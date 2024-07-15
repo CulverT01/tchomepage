@@ -115,6 +115,7 @@ tags:
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     Raku tries the key, only to find it doesn’t fit and on closer inspection it doesn’t look like the that she dropped back in volume 1. Then the girls return and inform him that he has the key to the girls changing room and proceed with necessary action by tying him up. Raku pleads his innocence, with only Onodera partially believing in him, but that is enough to convince the others to think the same. Ruri thanks Chitoge for allowing them to borrow her boyfriend, which triggers a delayed reaction from her, further fuelling Ruri’s suspicions about them. The practice meet begins and Raku and Chitoge bickering continue which culminate in him reminding her to stretch and she ignoring such advice. This ends up on backfiring on her she gets cramp in both her legs and begins to drown. Raku immediately jumps in to rescue her and brings her poolside before being informed that she isn’t breathing and mouth-to-mouth resuscitation is needed. As he moves in, Chitoge wakes up and responds how you’d expect - violently. Afterwards, Ruri tells Onodera to forget the boy she met 10 years ago and focus on her current love life, as the only thing she can remember about the boy is that he had a lock-shaped pendant which as we all know, were all the rage 10 years ago. Meanwhile Shu has got himself and Raku in trouble with Chitoge by calling her fat.
+                    </div>
                 </div>
             </div>
             <div class="accordion-item">
@@ -179,6 +180,7 @@ tags:
                     I'll mention now that Ruri is the best named character, thanks to the combination of her loyalty, her no-nonsense personality and her deadpan reactions on her face.
                     </div>
                 </div>
+            </div>
             <div class="accordion-item">
             <h2 class="accordion-header" id="headingNine">
                 <button class="accordion-button collapsed" 
