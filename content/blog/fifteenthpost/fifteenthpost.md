@@ -93,7 +93,8 @@ tags:
                     aria-labelledby="headingFour"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter 
+                    Raku has gotten a cold, so Chitoge has gone to visit him as she is his girlfriend and that's what girlfriends do, but she feels partly responsible because the cold is probably from when he fell in the pool during his duel with Tsugumi. Chitoge tries to be nice to Raku, but this sudden change in behaviour freaks him out and they eventually end up arguing again. The war of words is interrupted by Onodera arriving to check on Raku, of which he is very appreciative of and that annoys Chitoge. Onodera volunteers to make some rice porridge and Chitoge decides to join in with Raku initally okay with, until he realises neither can cook and becomes even more terrified when listening to their 'cooking'. Their rice porridges come out looking excactly you'd expect and as Raku stalls, a Shuei-Gumi member called Dragon comes in with his own rice porridge only to take it away as soon as he sees Chitoge's porridge, much to Raku's despair. In the end, Raku decides to bite the bullets and downs both porridges, only for him to collapse and pass out; not recovering until the next morning, bar brief moment of semi-consciousness where he goes to hold the hand of a shadowy figure next to him which turns out to be Chitoge. <br />
+                    At the back of the chapter, ther's an illustration of 2 members scoffing Dragon's rice porridge and commenting on how good it is, whilst he says it needs to thrown away due it not being needed.
                     </div>
                 </div>
             </div>
