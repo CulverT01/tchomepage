@@ -114,7 +114,7 @@ tags:
                     aria-labelledby="headingFive"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The
+                    Tsugumi has started to notice that her heart starts to race, her chest aches, her faces feels hot around someone and when around this person she can’t hardly speak - 3 guesses who it is. She consults Chitoge about it who tells her that she might have some kind of illness, but Tsugumi doesn’t feel ill so she seeks out a second opinion. She asks other people but either fail to give a straight answer or don’t know what she is talking about, however Onodera and Ruri tell that her symptoms are indicative of someone in love, but that is impossible for Tsugumi. As she wrestles with the truth, she returns to Chitoge and tells her about what she has learned, but Chitoge can’t help to confirm as she has never been in love. Tsugumi reminds her that she has, as she had crush on a boy 10 years ago but clearly Chitoge has forgotten. Tsugumi’s reminder does jog Chitoge’ memory, so she tries to find something she had around then that might jog it even further and she finds a diary she had when she was 5 years old - 10 years ago.
                     </div>
                 </div>
             </div>
@@ -134,7 +134,9 @@ tags:
                     aria-labelledby="headingSix"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter 
+                    The chapter begins with Chitoge reading her diary from when she was 5. There details an event where she was attacked by a strag dog, but her crush back then saved but got a scar on his head for his troubles. After helping nurse him back to Chitoge, spent as much time as possible with her crush until she had to leave for the United States, but not before making a promise with her crush. The diary abruptly ends there, leaving her and the readers frustrated at her 5 year old self, however it does contain an old key that she decides to take as it might relate to the promise. Tsugumi interrupts her to ask she's okay as she's missed dinner and Chitoge responds whether or not Tsugumi remembers anything about her crush, but she doesn't, although any investigation will have to wait, as there's a class trip tomorrow.<br />
+                    The trip begins will all the characters (bar Shu) sat on the backrow of seats of the coach in the order: Ruri, Onodera, Raku, Chitoge, Tsugumi. The journey to their destination consists of Ruri shoving Onodera into Raku at every curve, everyone else be damned. While the journey is considered a positive one by some, the instiagators (Shu and Ruri) are likely to retribution later. The class's first task on the trip is to make some curry and Raku takes charge of his group, knowing the cooking abilities of 2 of his groups members and during this task, Chitoge spills hot water on his head forcing him to reveal a scar on his forehead and Chitoge to reveal the key she found earlier in this chapter. <br />
+                    I'll say this now, but Chitoge is an alright character when she's not trying to wind up Raku.
                     </div>
                 </div>
             </div>
@@ -154,7 +156,10 @@ tags:
                     aria-labelledby="headingSeven"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter 
+                    The chapter continues on from the last one and Chitoge asks Raku where his scar came from. He doesn't know, but assumes it's from an animal that scratched him becasue he used to play with them alot when he was younger. As this doesn't confirm or deny Chitoge's suspicions, she begins to continue her questioning only to realise that she could be his promise girl and that would be <i>like the worst!</i>. <br /> 
+                    The action moves to the room in the inn they're staying, where Shu suggests playing a game of Old Maid with a penalty of revealing your first crush, a decision reached with some 'input' from Ruri, which no one wants to do, so thus they can't lose. There is one problem, some have obvious reactions and only after Raku mentions it, are poker faces deployed. The game ends with Raku and Chitoge facing each other, but the game is abandoned when their teacher brings them down for dinner. <br />
+                    After dinner, the boys head to the hot springs to, although without Raku who's summoned to the front desk, as he has a phone call. No one answers when Raku picks up the call, so he heads to the hot springs, only for Claude to appear and switch the banners hanging over the entrance, meaning Raku has entered the women's bath rather than the men's. Raku realises this once he encounters Chitoge, who soon realises this predicament is Claude's doing after Raku defends himself, however before he can leave Onodera, Ruri and Tsugumi all arrive; making escape that more harder.<br />
+                    The back illsustration is Chitoge, Tsugumi and Onodera trying to do their best poker faces.
                     </div>
                 </div>
             </div>
@@ -174,7 +179,8 @@ tags:
                     aria-labelledby="headingEight"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The
+                    Ruri and Onodera are preoccupied with teaching Tsugumi the proper etiquette with washing in a hot spring bath, so Raku heads towards a staff only door, whilst Chitoge will try to distract those who there by pointing out a raccoon dog. Unfortunatly, more girls enter the springs, including their teacher, upping the risk of Raku being caught, which he nearly is as Tsugumi throws a shampoo bottle at the wooden bucket Raku is hiding under. He insteads hides behind Chitoge, but she herself is cornered by 2 of their fellow classmates, who want know how for she and Raku have gone. She deflects by exclaiming that Tsugumi has a crush on someone, pushing the focus on her allowing Raku to escape through a hole he's found that is human sized and will head to the men's bath. Meanwhile, Tsugumi deflects her grilling by asking about Onodera's crush who, out of embarrassment, runs away and sits in front of Raku's exit hole. Chitoge tries to move Onodera out of the way, but in the resultant kerfuffle, kisses Raku's butt as he makes his escape. <br />
+                    They meet up later, so Raku can apologise and Chitoge asks how much of her did he see and he responds that he didn't anything at all due the steam (lie). The chaptert ends back in their room with Shu going to spy on the girls whilst they sleep, only to be caught by Ruri immediately who hangs both he and an innocent Raku upside down outside their room.
                     </div>
                 </div>
             </div>
