@@ -2,7 +2,6 @@
 title: Nisekoi Volume 3 - What's in a Name.
 description: Review of Nisekoi Volume 3.
 date: 2024-07-23
-draft: true
 tags:
   - manga review
   - Nisekoi
@@ -200,7 +199,8 @@ tags:
                     aria-labelledby="headingNine"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter 
+                    Raku is still awkward around Chitoge and Onodera after the events of last night, whilst Chitoge can least appear calm and collected. The main conversation over breakfast is the test of courage that will take place that evening, with a special rule that the boy/girl pairings will have to hold hands. Shu and Ruri both pledge to give their numbers to their friends, so Raku and Onodera can end up together.<br />
+                    The evening arrives and Raku checks that Chitoge will be okay, due to her fear of the dark, with her responding that she’ll be fine as they’ll all be in pairs. Everyone draws their numbers and by divine intervention, Raku and Onodera are paired together, with Ruri and Tsugumi a pair and Chitoge and Shu another. Onodera asks if Raku is ok with her, because he was awkward with her earlier in the day and he responds that its due to them sharing a suite as to why he is so awkward around her. Meanwhile, Chitoge overhears that one of the ‘ghosts’ is ill and someone needs to fill in and she volunteers to help as they do give her a torch, but they do leave her on her own and the torch doesn’t work, so she is now alone in the dark. Raku pops into her head as real-life Raku sets out begin the trial with Onodera.
                     </div>
                 </div>
             </div>
@@ -220,7 +220,7 @@ tags:
                     aria-labelledby="headingTen"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The final chapter 
+                    Both Raku and Onodera are super nervous about being paired up together, but before they can set off, they’re informed that Chitoge has gone missing and her torch doesn’t have any batteries in it. Everyone is not too worried about her, except for Raku, as he knows about her fear of the dark and he dashes off into the forest to find her. Meanwhile, an absolutely petrified Chitoge remembers a time where she got stuck in a hole, but her crush from all those years ago came to save her as he always did and as she remembers this, Raku appears before her. He chides for getting into such a situation despite her fear, so she responds by asking if he was worried about her and responds that he wasn’t - clearly his girlfriend’s attitude is rubbing off on him. Chitoge asks Raku to call her by her first name (a big deal in Japanese culture) and vice versa to which he agrees. They eventually exit the forest, but the trial is over so Raku misses his chance to hold hands with Onodera and Tsugumi asks Chitoge if she wants to research her crush from 10 years ago, but she politely declines as it is not a priority for her right now.
                     </div>
                 </div>
             </div>
