@@ -23,8 +23,8 @@ tags:
      I have yet to test to test these methods, but I plan to do this next time along with the programming of a few Support Card classes; an explanation as to why will be given in the changes section. 
     </p>
     {% image "./player_draw_method.png", "Screenshot of the draw behaviour method of the player class" %}
-    {% image "./creature_card_attack_method1.png", "Screenshot of the first part of the creature_attack behaviour method of the creature card class" %}
-    {% image "./creature_card_attack_method2.png", "Screenshot of the second part of the creature_attack behaviour method of the creature card class" %}
+    {% image "./creature_card_attack_method1.png", "Screenshot of the first part of the attack behaviour method of the creature card class" %}
+    {% image "./creature_card_attack_method2.png", "Screenshot of the second part of the attack behaviour method of the creature card class" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>
