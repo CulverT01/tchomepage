@@ -1,5 +1,5 @@
 ---
-title: Nisekoi Volume 2 - Zwansze in Love.
+title: Nisekoi Volume 2 - Zwasze in Love.
 description: Review of Nisekoi Volume 2.
 date: 2024-07-09
 tags:
@@ -12,7 +12,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">Nisekoi Volume 2 - Zwansze in Love</h1>
+  <h1 class="col align-self-center">Nisekoi Volume 2 - Zwasze in Love</h1>
   <div class="row justify-content-center">
     <div class="col-8">  
         <div class="accordion" id="accordionObject">
