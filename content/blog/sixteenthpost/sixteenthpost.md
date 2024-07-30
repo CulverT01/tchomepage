@@ -2,7 +2,6 @@
 title: Testing! Attention Please.
 description: Second update of programming the Card Game Player project.
 date: 2024-07-30
-draft: true
 tags:
   - card game player project
   - object orientated programming skills evidence
