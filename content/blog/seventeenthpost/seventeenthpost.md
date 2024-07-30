@@ -1,7 +1,7 @@
 ---
 title: Nisekoi Volume 4 - Making Sure.
 description: Review of Nisekoi Volume 4.
-date: 2024-08-6
+date: 2024-08-06
 draft: true
 tags:
   - manga review
