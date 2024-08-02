@@ -73,7 +73,7 @@ tags:
                     aria-labelledby="headingThree"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Tsugumi 
+                    Tsugumi calls Ruri, Onodera and Raku over to discuss Chitoge's birthday that is today and Tsugumi wishes for them to come over to celebrate. Ruri takes this as a chance to set Onodera and Raku on date to buy Chtioge's present after school. They meet in a cafe, where before entering Onodera smartens herself up before entering by using the window the shop, not noticing that Raku is inside on the other side of the window and can see everything. They then go out shopping, which over so quickly there's no panel of them actually shopping (the best we get is an back illsustration showing the present in the next chapter), so Onodera invites Raku on a detour to secret spot, that only she knows of, which gives one a great view of their hometown. Onodera sharing this secret is her way of thanking Raku and stoked by the honour of sharing a secret with Onodera, he promises not divulge the secret. He then decides to ask her about her birthday, but the words that come out instead ask if she was his promise girl to which she responds with yes. Roll credits: the series is over folks, the mystery has been solved.
                     </div>
                 </div>
             </div>
@@ -93,7 +93,8 @@ tags:
                     aria-labelledby="headingFour"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Raku 
+                    The chapter continues from the revelation of the last chapter, with Onodera backpedalling a bit as she cannot confirm that she is his promise girl as she can't remember what the boy looked like, but he had a pendant like Raku and that came with a key that she has. Also, the likelihood that he isn't the boy she met is so low, that may as well be impossible, besides no one else has a key like hers anyway. The tension is broken when Tsugumi calls Raku to berate him for not being Chitoge's house already, so they leave for the party - the pendant can wait until tomorrow. They all meet up, including Shu who is there for some reason, at Chitoge's house, surprising her as well as making her nervous because, her family's business has been a turn off for many a prospective friend. Raku immediately rips this plaster of a situation off, by telling everyone th truth and they okay with as they know how to deal with this as they're friends with Raku. Everyone moves inside and begins handing out presents, with Claude trying to make it a competition with Raku, only to predicably lose.<br /> 
+                    Later, both Raku and Chitoge go outside to get some air and Chitoge immediately begins to criticise Raku's present, so he tells her get rid of it if she doesn't like it only for her to say that she'll take care of it , because that is what good grlfriends do - it's not like she likes it or anything, idiot! She then asks him if he still in love with the girl he 10 years ago and he assumes that it is still Onodera, so he confirms that and she responds by asking if 'Zawsze in Love' mean anything - the words that the promise of 10 years ago were made under.
                     </div>
                 </div>
             </div>
@@ -113,7 +114,8 @@ tags:
                     aria-labelledby="headingFive"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Tsugumi 
+                    The chapter continues from the cliffhanger of the last chapter with Chitoge explaining how she knows the words 'Zawsze in Love' as well as how she came to be in possession of a key. They both realise that they may have made that promise, but that can't be as the girl Raku met and the boy that Chitoge met are nothing like each other are now and we all know people's personalities don't change between age 5 and 15. Regardless, they stil decide to try Chitoge's key in Raku's Pendant and in the process, Chitoge's key snaps inside the lock, meaning it can't be opened. <br />
+                    They both leave, seperately, to return to the party and on the way back Raku meets Chitoge's Dad, Adelt, and he asks Raku how he and Chitoge are getting on, whilst accepting the situation they're in doesn't help much. Raku gives a middling answer, which Adelt takes as him being modest and mentions how comptabile they are given that they met 10 years ago. As Raku begins to deal with this information, Adelt drops another bombshell when he reveals that Onodera was also there, meaning that Onodera or Chitoge is Raku's promise girl.
                     </div>
                 </div>
             </div>
