@@ -2,7 +2,6 @@
 title: Support of Cards
 description: Third update of programming the Card Game Player project.
 date: 2024-08-13
-draft: true
 tags:
   - card game player project
   - object orientated programming skills evidence
