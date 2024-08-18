@@ -1,0 +1,244 @@
+---
+title: Nisekoi Volume 4 - Typhoon.
+description: Review of Nisekoi Volume 5.
+date: 2024-08-20
+draft: true
+tags:
+  - manga review
+  - Nisekoi
+  - Naoshi Komi
+  - manga romance
+  - manga comedy
+  - manga 13+
+---
+
+<div class="container fluid">
+  <h1 class="col align-self-center">Nisekoi Volume 5 - Typhoon</h1>
+  <div class="row justify-content-center">
+    <div class="col-8">  
+        <div class="accordion" id="accordionObject">
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button" 
+                    type="button" 
+                    data-bs-toggle="collapse" 
+                    data-bs-target="#collapseOne" 
+                    aria-expanded="true" 
+                    aria-controls="collapseOne">
+                    Introduction
+                </button>
+                </h2>
+                <div id="collapseOne" 
+                class="accordion-collapse collapse show" 
+                aria-labelledby="headingOne"
+                data-bs-parent="#accordionObject">
+                <div class="accordion-body">
+                    Welcome to my review of Nisekoi Volume 4. Personally, if you're reading this series, then you're reading it for the romance and interactions between the main leads rather than the comedy but if you can find comedy within these interactions then more power to you.
+                </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseTwo" 
+                aria-expanded="false" 
+                aria-controls="collapseTwo">
+                Chapter 35: Explosion
+                </button>
+                </h2>
+                <div id="collapseTwo" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingTwo"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    The chapter begins 
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseThree" 
+                aria-expanded="false" 
+                aria-controls="collapseThree">
+                Chapter 36: Three Keys
+                </button>
+                </h2>
+                <div id="collapseThree" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingThree"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    Tsugumi 
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFour">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseFour" 
+                aria-expanded="false" 
+                aria-controls="collapseFour">
+                Chapter 37: Greeting
+                </button>
+                </h2>
+                <div id="collapseFour" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingFour"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    The chapter continues from 
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseFive" 
+                aria-expanded="false" 
+                aria-controls="collapseFive">
+                Chapter 38: Work
+                </button>
+                </h2>
+                <div id="collapseFive" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingFive"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    The chapter continues from
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingSix">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseSix" 
+                aria-expanded="false" 
+                aria-controls="collapseSix">
+                Chapter 39: Typhoon
+                </button>
+                </h2>
+                <div id="collapseSix" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingSix"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    Raku' pendant 
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingSeven">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseSeven" 
+                aria-expanded="false" 
+                aria-controls="collapseSeven">
+                Chapter 40: Liar
+                </button>
+                </h2>
+                <div id="collapseSeven" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingSeven"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    The chapter begins
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingEight">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseEight" 
+                aria-expanded="false" 
+                aria-controls="collapseEight">
+                Chapter 41: Stray Dog
+                </button>
+                </h2>
+                <div id="collapseEight" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingEight"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    Raku 
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingNine">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseNine" 
+                aria-expanded="false" 
+                aria-controls="collapseNine">
+                Chapter 42: Festival
+                </button>
+                </h2>
+                <div id="collapseNine" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingNine"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    Raku's dad 
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTen">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseTen" 
+                aria-expanded="false" 
+                aria-controls="collapseTen">
+                Chapter 43: Blessings
+                </button>
+            </h2>
+                <div id="collapseTen" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingTen"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    The chapter begins 
+                </div>
+            </div>
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="headingEleven">
+                <button class="accordion-button collapsed" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#collapseEleven" 
+                aria-expanded="false" 
+                aria-controls="collapseEleven">
+                Chapter 44: Blessings
+                </button>
+            </h2>
+                <div id="collapseEleven" 
+                    class="accordion-collapse collapse" 
+                    aria-labelledby="headingEleven"
+                    data-bs-parent="#accordionObject">
+                    <div class="accordion-body">
+                    The chapter begins 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        {% image "./nisekoi_5.jpg", "Cover of volume 5 of Nisekoi" %}
+    </div>
+  </div>
+</div>
