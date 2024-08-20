@@ -2,7 +2,6 @@
 title: Nisekoi Volume 4 - Typhoon.
 description: Review of Nisekoi Volume 5.
 date: 2024-08-20
-draft: true
 tags:
   - manga review
   - Nisekoi
