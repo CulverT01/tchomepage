@@ -23,7 +23,7 @@ tags:
     All Support Card classes' effect method is now boolean, so the effect can fail and the card not be wasted. Player's playCardFromHand method has also changed to reflect this change and now only sends a Support Card to the wasteland if the effect method returns true boolean value. There is also new methods for KeyFunction class, which checks the wasteland or deck to see if there is a possible target to select within that array. The examples shown below are the updated SupportCardResMa class and its test as well as the checkWasteland and checkDeck methods of KeyFunction.
     </p>
     {% image "./supportcardresma_1.png", "Screenshot of the constructor and the first part of the effect behaviour method of the support card res ma class" %}
-    {% image "./supportcardresma__2.png", "Screenshot of the second part of the effect behaviour method of the support card res ma class" %}
+    {% image "./supportcardresma_2.png", "Screenshot of the second part of the effect behaviour method of the support card res ma class" %}
     {% image "./ksupportcardresmatest_1.png", "Screenshot of the set up for the tests, the test to check support card res mas effect behaviour method works successfully and the first part of the test to check it fails when there is no magic creatures in the wasteland" %}
     {% image "./supportcardresmatest_2.png", "Screenshot of the second part of the test to check support card res mas effect behaviour method fails when there is no magic creatures in the wasteland and the test to check it fails when the frontline is full" %}
     {% image "./keyfunction_5.png", "Screenshot of the check wasteland method and the first part of the check display deck method of the key function class" %}
