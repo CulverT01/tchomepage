@@ -33,7 +33,7 @@ tags:
                 aria-labelledby="headingOne"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
-                    This is my review of Volume 6 of Nisekoi. When first reading this series, I remember not liking Marika Tachibana due to her brazen, homewrecking attitude towards Raku and his relationships with the other girls, that didn't respect his feelings. Maybe rereading the series may give me a chance to see the character in a different light. I'm also start going to refer to Onodera and Tsugumi by the first names (Kosaki and Seishiro) as they're the only main characters who I didn't before, but I won't change earlier reviews to reflect this change.
+                    We are now at volume 6 of Nisekoi. Last volume had one more chapter than both this one and the last few volumes, which was more irritating than you think. 
                 </div>
                 </div>
             </div>
@@ -53,7 +53,8 @@ tags:
                     aria-labelledby="headingTwo"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter 
+                    The chapter continues from the cliffhanger of last volume, but from Chitoge's perspective. Kosaki is absolutely mortified at what she just said, although all those within earshot were either asleep (Raku) or misheard kiss for kimichi (Chitoge), which is a traditional and common Korean side dish made up of salted/fermented vegetables seasoned with seasonings like gochugaru, garlic or ginger. Kosaki runs off leaving Raku to try to meet up with Chitoge before she too bolts. The next day Kosaki asks if everything is alright with Chitoge and she asks for some advice regarding a 'friend' of hers who can't act normal around someone and her heart won't stop pounding when around that person. Kosaki assumes that she is talking about a friend (Seishiro in this case) rather than herself in a twist on the usual schtick and tells Chitoge that her friend is in love. Kosaki suddenly get nostalgic for a time she can't remember and Chitoge shares a similar sentiment, which cheers her up. It's now evening and the gang is lighting sparklers, but Chitoge is doing it alone, so Raku goes out to find and join her, like the responsible 'boyfriend' that he is. He asks if she's okay and she tells him that she is, but he doesn't believe her and she continues to brush off his concern for her, as there's no need for them to get along and she really really really really hates him. <br />
+                    She then asks if they dated for real would they work out and he responds that it wouldn't goes into the same spiel about her negative qualities like it is a part of some comedy bit. Chitoge shuts this negative tirade down almost immediately like she took his words so seriously for once.
                     </div>
                 </div>
             </div>
