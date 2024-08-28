@@ -24,7 +24,7 @@ tags:
     </p>
     {% image "./supportcardresma_1.png", "Screenshot of the constructor and the first part of the effect behaviour method of the support card res ma class" %}
     {% image "./supportcardresma_2.png", "Screenshot of the second part of the effect behaviour method of the support card res ma class" %}
-    {% image "./ksupportcardresmatest_1.png", "Screenshot of the set up for the tests, the test to check support card res mas effect behaviour method works successfully and the first part of the test to check it fails when there is no magic creatures in the wasteland" %}
+    {% image "./supportcardresmatest_1.png", "Screenshot of the set up for the tests, the test to check support card res mas effect behaviour method works successfully and the first part of the test to check it fails when there is no magic creatures in the wasteland" %}
     {% image "./supportcardresmatest_2.png", "Screenshot of the second part of the test to check support card res mas effect behaviour method fails when there is no magic creatures in the wasteland and the test to check it fails when the frontline is full" %}
     {% image "./keyfunction_5.png", "Screenshot of the check wasteland method and the first part of the check display deck method of the key function class" %}
     {% image "./keyfunction_6.png", "Screenshot of the second part of the check display deck method of the key function class" %}
