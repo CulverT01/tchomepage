@@ -74,7 +74,7 @@ tags:
                     aria-labelledby="headingThree"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Marika 
+                    Raku and Chitoge haven't spoken since the events of last chapter and people are getting concerned as the summer holidays are over and they're back at school. Raku asks Chitoge why she hasn't responding to his attempts to contact her, but she coldly brushes him off, which irritates him. The main agenda for homeroom is deciding the cast for Romeo and Juliet, which their class are performing during the school festival that's coming up. Shu nominates the class' power couple, Raku and  Chitoge, as the star-cross'd lovers but Chitoge declines. The roles are then decided by lots with Raku and Kosaki selected as the doomed couple, much to Marikia's chagrin, who has to settle for Kosaki's understudy. Rehearsals begin after school in earnest, so Chitoge leaves soon as school is over with Raku chasing after so they can at least keep up appearances o them dating. He asks if there's something bothering her and if there is anything that he can do and she responds that there's no need for him to worry about her because they aren't pals and certainly don't like each other enough to care about each other. He lets her leave and heads back to start rehearsing. Kosaki is at the teacher's office, picking up the assignments fot the class, she spots the photo from chapter 30 and learns why Raku had in the first place. The chapter ends with Kosaki trying to rehearse with Raku but failing because she is so nervous around and Chiotge hating herself for being in moron - can you guess why?
                     </div>
                 </div>
             </div>
