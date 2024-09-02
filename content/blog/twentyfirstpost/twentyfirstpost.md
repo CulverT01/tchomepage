@@ -27,14 +27,14 @@ tags:
                     aria-controls="collapseOne">
                     Introduction
                 </button>
-                </h2>
+            </h2>
                 <div id="collapseOne" 
                 class="accordion-collapse collapse show" 
                 aria-labelledby="headingOne"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
-                    We are now at volume 6 of Nisekoi. Last volume had one more chapter than both this one and the last few volumes, which was more irritating than you think. 
-                </div>
+                    We are now at volume 6 of Nisekoi. Last volume had one more chapter than both this one and the last few volumes, which was more irritating than you think. I also will be referring to plot points and characters from William Shakespeare's Romeo and Juliet in chapter 49, so <b>Spoilers!</b> if you don't know the plot to Romeo and Juliet (not that they would be many of you).
+                    </div>
                 </div>
             </div>
             <div class="accordion-item">
@@ -53,8 +53,9 @@ tags:
                     aria-labelledby="headingTwo"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter continues from the cliffhanger of last volume, but from Chitoge's perspective. Kosaki is absolutely mortified at what she just said, although all those within earshot were either asleep (Raku) or misheard kiss for kimichi (Chitoge), which is a traditional and common Korean side dish made up of salted/fermented vegetables seasoned with seasonings like gochugaru, garlic or ginger. Kosaki runs off leaving Raku to try to meet up with Chitoge before she too bolts. The next day Kosaki asks if everything is alright with Chitoge and she asks for some advice regarding a 'friend' of hers who can't act normal around someone and her heart won't stop pounding when around that person. Kosaki assumes that she is talking about a friend (Seishiro in this case) rather than herself in a twist on the usual schtick and tells Chitoge that her friend is in love. Kosaki suddenly get nostalgic for a time she can't remember and Chitoge shares a similar sentiment, which cheers her up. It's now evening and the gang is lighting sparklers, but Chitoge is doing it alone, so Raku goes out to find and join her, like the responsible 'boyfriend' that he is. He asks if she's okay and she tells him that she is, but he doesn't believe her and she continues to brush off his concern for her, as there's no need for them to get along and she really really really really hates him. <br />
-                    She then asks if they dated for real would they work out and he responds that it wouldn't goes into the same spiel about her negative qualities like it is a part of some comedy bit. Chitoge shuts this negative tirade down almost immediately like she took his words so seriously for once.
+                    The chapter continues from the cliffhanger of last volume, but from Chitoge's perspective. Kosaki is absolutely mortified at what she just said, although all those within earshot were either asleep (Raku) or misheard kiss for kimichi (Chitoge), which is a traditional and common Korean side dish made up of salted/fermented vegetables seasoned with seasonings like gochugaru, garlic or ginger. Kosaki runs off leaving Raku to try to meet up with Chitoge before she too bolts. <br />
+                    The next day Kosaki asks if everything is alright with Chitoge and she asks for some advice regarding a 'friend' of hers who can't act normal around someone and her heart won't stop pounding when around that person. Kosaki assumes that she is talking about a friend (Seishiro in this case) rather than herself in a twist on the usual schtick and tells Chitoge that her friend is in love. Kosaki suddenly get nostalgic for a time she can't remember and Chitoge shares a similar sentiment, which cheers her up. <br />
+                    It's now evening and the gang is lighting sparklers, but Chitoge is doing it alone, so Raku goes out to find and join her, like the responsible 'boyfriend' that he is. He asks if she's okay and she tells him that she is, but he doesn't believe her and she continues to brush off his concern for her, as there's no need for them to get along and she really really really really hates him. She then asks if they dated for real would they work out and he responds that it wouldn't goes into the same spiel about her negative qualities like it is a part of some comedy bit. Chitoge shuts this negative tirade down almost immediately like she took his words so seriously for once.
                     </div>
                 </div>
             </div>
@@ -74,7 +75,7 @@ tags:
                     aria-labelledby="headingThree"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Raku and Chitoge haven't spoken since the events of last chapter and people are getting concerned as the summer holidays are over and they're back at school. Raku asks Chitoge why she hasn't responding to his attempts to contact her, but she coldly brushes him off, which irritates him. The main agenda for homeroom is deciding the cast for Romeo and Juliet, which their class are performing during the school festival that's coming up. Shu nominates the class' power couple, Raku and  Chitoge, as the star-cross'd lovers but Chitoge declines. The roles are then decided by lots with Raku and Kosaki selected as the doomed couple, much to Marikia's chagrin, who has to settle for Kosaki's understudy. Rehearsals begin after school in earnest, so Chitoge leaves soon as school is over with Raku chasing after so they can at least keep up appearances o them dating. He asks if there's something bothering her and if there is anything that he can do and she responds that there's no need for him to worry about her because they aren't pals and certainly don't like each other enough to care about each other. He lets her leave and heads back to start rehearsing. Kosaki is at the teacher's office, picking up the assignments fot the class, she spots the photo from chapter 30 and learns why Raku had in the first place. The chapter ends with Kosaki trying to rehearse with Raku but failing because she is so nervous around and Chiotge hating herself for being in moron - can you guess why?
+                    Raku and Chitoge haven't spoken since the events of last chapter and people are getting concerned as the summer holidays are over and they're back at school. Raku asks Chitoge why she hasn't responding to his attempts to contact her, but she coldly brushes him off, which irritates him. The main agenda for homeroom is deciding the cast for Romeo and Juliet, which their class are performing during the school festival that's coming up. Shu nominates the class' power couple, Raku and  Chitoge, as the star-cross'd lovers but Chitoge declines. The roles are then decided by lots with Raku and Kosaki selected as the doomed couple, much to Marikia's chagrin, who has to settle for Kosaki's understudy. Rehearsals begin after school in earnest, so Chitoge leaves soon as school is over with Raku chasing after so they can at least keep up appearances o them dating. He asks if there's something bothering her and if there is anything that he can do and she responds that there's no need for him to worry about her because they aren't pals and certainly don't like each other enough to care about each other. He lets her leave and heads back to start rehearsing. Kosaki is at the teacher's office, picking up the assignments fot the class, she spots the photo from chapter 30 and learns why Raku had in the first place. The chapter ends with Kosaki trying to rehearse with Raku but failing because she is so nervous around and Chiotge hating herself for being a moron - can you guess why?
                     </div>
                 </div>
             </div>
@@ -94,7 +95,7 @@ tags:
                     aria-labelledby="headingFour"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Marika 
+                    The class is continuing to rehearse Romeo and Juliet, but Marika keeps on interrupting Kosaki when she is supposed speak. The costumes for the play are revealed and Raku is amazed at the quality of the outfits as well as how Kosaki’s costume looks on her and she compliments Raku on how well his outfit fits him. Raku starts to ponder what Chitoge would look like in that outfit, only to immediately dismiss the thought and hide when he spots Chitoge. Later Raku spots Claude with his usual scowl and chases down Chitoge, so they can be lovey-dovey with each other to ease suspicion amongst the Beehive gang and Shuei-Gumi members. Chitoge doesn’t want to and Raku exasperatedly asks why to which the response is that she doesn’t want associate with him anymore. Raku then asks if that was her reasoning behind refusing to play Juliet and she confirms this by ranting about her current situation fake dating him and wants nothing to with him. This annoys Raku as he had assumed that they had at least tolerated, so he admits that the time they shared wasn’t fun and his father must’ve been lying about them being friends as kids and he’ll talk his father about ending the arrangement, so she slaps him and runs off. 
                     </div>
                 </div>
             </div>
@@ -114,7 +115,7 @@ tags:
                     aria-labelledby="headingFive"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter 
+                    It’s the day of the festival and everyone in the class is excited. Raku and Chitoge still haven’t spoken since she slapped him and what was said has been weighing on their minds. The play is begins at 1pm, but Chitoge will miss as she has volunteered to help at another class’ booth as they’re short-staffed. As Kosaki walks along the stage, a fellow class member falls from a stepladder and she luckily catches her, but spraining her ankle, so the class suddenly have no Juliet as Marika is home sick. Kosaki is upset that her injury will ruin all of the hard work everyone has done and this inspires Raku to go and seek out Chitoge. He finds her and explains the situation and why he thinks she is the only who can play Juliet now. Chitoge questions him, as she believes he hates her based what he said at the beach to her in chapter 45. Raku realises his mistake and apologises for what he said and sets the record straight on how he feels about her, which is enough to convince her. They race back to the stage and immediately everyone begins to get her ready to play Juliet. 
                     </div>
                 </div>
             </div>
@@ -134,7 +135,10 @@ tags:
                     aria-labelledby="headingSix"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Raku 
+                    <b>Spoiler Warning for Romeo and Juliet</b><br />
+                    The play begins with Juliet (Chitoge) lamenting to Romeo (Raku) that that they can never be truly together, due to their families feuding. Chitoge then forgets her next line and breaks character, which amuses the audience. <br /> 
+                    We move onto a later scene where Romeo is about to head to Juliet, who is at her balcony, but his servant (Seishiro) pleads him not to. The reason being because the servant loves Romeo (an alteration added by Shu who is narrating the whole play), so she attempts to confess her love to him, only to pull out at the last second and runs off stage to seek vengance towards Shu. Before Romeo can get very far, a myserious woman appears called Josephine (Marika) claiming to his true love. Romeo reveals that Josephine is his sister, but she isn't bothered by that, so he exaggerates the dangers he faces and wishes not risk any harm towards his sister and this stimulates her too much that she faints. Romeo heads towards the balcony once again, only be interrupted by Frederich (Claude), who chases Romeo around the stage, to injure him and prevent him from seeing Juliet. Romeo is backed up against a background and begins throwing bricks next to him at Frederich, only for the background behind him to collapse on the 2, as the bricks were holding it up somehow. Romeo gets back up and the play, whilst Chitoge realises that she is in love with Raku. <br />
+                    This scene doesn't reflect any real scene in the acual play, with the closest one being Act 3 Scene 5 where Romeo spends his final night as a free man in Verona, after being banished by Prince Escalus for slaying Tybalt (Juliet's cousin and main instigator of violence in the play). Although, towards the end of the scene, Chitoge speaks Juliet's famous lines from Act 2 Scene 2, which doesn't match with the first part as no one, not even Romeo himself, knows that Romeo is going to meet Juliet, he stays behind on Caplulet grounds (after their ball in Act 1) and gets lucky that he spots her. So the chosen scene here is a mixture of the 2. With regards to the other characters, Marika's and Claude's don't exist, the closest being Benvolio and Tybalt respectively (in that they're family). While Romeo has a servant, they are not a: female, and b: play any role with Romeo's romantic affairs, the closest character that fits such role is Friar Lawrence.
                     </div>
                 </div>
             </div>
@@ -154,7 +158,8 @@ tags:
                     aria-labelledby="headingSeven"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Seishiro 
+                    The play continues without any other interruptions and the class recieves a standing ovation from the watching crowd. Raku and Chitoge make up privately, noting the effort both put in making sure the play happened and the similarities between them and Romeo and Juliet. Chitoge apologises for recent behaviour and expresses a wish to return to the way things were between them - constant bickering that neither took too seriously. THeir conversation ends with them bickering and neither takes what the other said seriously. <br />
+                    The class begins their after party in which Shu meets his comeuppance from Seishiro and what happened to Marika after Raku overstimulated her last chapter. Ruri begins to chew Kosaki out over her failure to play Juliet, but decides not to and gets her a crepe which she gives to Raku to bring to her, so the 2 can talk. Kosaki thanks him for what he did to make sure the play happened before telling him why she really wanted to play Juliet. Upon hearing this, Raku decides to take Kosaki up to the school roof where they can perform Act 2 Scene 2 for themselves.  
                     </div>
                 </div>
             </div>
