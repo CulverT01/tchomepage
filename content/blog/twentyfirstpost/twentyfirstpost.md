@@ -2,7 +2,6 @@
 title: Nisekoi Volume 6 - Showtime.
 description: Review of Nisekoi Volume 6.
 date: 2024-09-03
-draft: true
 tags:
   - manga review
   - Nisekoi
