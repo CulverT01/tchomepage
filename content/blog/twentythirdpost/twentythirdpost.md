@@ -2,7 +2,6 @@
 title: Nisekoi Volume 7 - The Reason.
 description: Review of Nisekoi Volume 7.
 date: 2024-09-17
-draft: true
 tags:
   - manga review
   - Nisekoi
