@@ -199,7 +199,7 @@ tags:
                     aria-labelledby="headingNine"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter begins with Raku hustling through documents at a breakneck pace.
+                    The chapter begins with Raku hustling through documents at a breakneck pace, which impresses Hana enough to up his compensation (his pay for working as her secretary) and books the hotel room she mentioned at the end of Chapter 59. However, Raku doesn't want any money nor the hotel room, as he instead wants Hana to spend some free time (that he'll create by working extra hard) with Chitoge, to which she gives a non-commital yes as an answer and that is enough for him. Raku powers ahead and completes all the stuff she needs for next month and now Hana has free time that she can spend with her daughter, although Hana declines his offer and refuses to accept the present he bought for her to give to Chitoge, becauset here is now more time for some more work. Incensed at Hana's response, Raku begins to tell her off only to be interrupted by Hana pulling out a present she was going to give her, but can;t now as she'll misss her chance. Raku is confused he thought she didn't care for Chitoge only for Hana to correct him, explaining that she talks like she does to Chitoge because she gets nervous around her, but has been too hard on her as she is very proud of her daughter. She now believes that Chitoge doesn't like her anymore (hence getting her some alone time with her boyfriend), so Raku then corrects her by explaining how Chitoge really feels about her mother and orders Hana to spend time her daughter, only problem is that she is leaving for the US in 3 hours, so Raku sends her to the hotel room she booked, while he dashes off to get Chitoge. Meanwhile, Hana recieves a message recommending to board her flight earlier to avoid an incoming snowstorm that will ground the aeroplane if it leaves at its scheduled time.
                     </div>
                 </div>
             </div>
@@ -219,7 +219,8 @@ tags:
                     aria-labelledby="headingTen"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Raku
+                    Raku is informed by his limo driver that they're going nowhere due to traffic that has piled up because of the ever inceasing snow. Raku then borrows a nearby bike and rides off with Chitoge to the hotel, whilst explaining the entire situation to her. When they arrive at the hotel, they find out that Hana has left for the airport and then immediately chase her down, but arrive just as the plane takes off. Raku calls Hana to get her come back, only to be told that she is thankful for telling her how Chitoge feels. Raku calls out her cowardice and hands the phone to Chitoge to help convince Hana to come back. The plane Hana was on turns around and lands back at the runway, nearly running Raku and Chioge over. Hana exits the plane before having a heart to heart with Chitoge, in which they patch things up, before Raku hands Hana the keys to the hotal room and promises to limit the damage that occurs from Hana missing the meeting she was going to attend. Whilst in the hotel room, Hana gives Chitoge her Christmas present and reveals that Raku is the reason why she wears her current ribbon. Hana lets her daughter go and be with herboyfriend, who she finds in Hana's office sleeping and thanks him for waht he has done. <br />
+                    There is a bonus comic set after Chapter 57, where Seishiro demonstrates her make-up skils on Chitoge.
                     </div>
                 </div>
             </div>
