@@ -114,7 +114,7 @@ tags:
                     aria-labelledby="headingFive"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter begins 
+                    The chapter begins with Raku's class's teacher deciding to change the seating arrangement of the class because she was supposed to do it last trimester but forgot. The arrangement is decided randomly and everyone is grouped together except Chitoge, who requests a do-over which the teacher agrees to. The new arrangement has Seishiro between Chitoge and Raku, but Marika can't sit where she has been assigned, so requests a do-over. More and more requests do overs, which eventually ends with Raku next Marika, but in an effort to get in his friend's good graces (and score a fast-food meal), Shu asks to switch with Raku (who is at the front) so he can see the board better and this puts Raku next to Kosaki. Their first lesson with this arrangement begins and Raku and Kosaki can't handle being near each other, which is made worse by the drawings that Shu and Ruri left in their textbooks, meaning they have to borrow someone else's textbook. Kosaki admits to being nervous around him now, but with time they'll get used to it. The teacher announces that they're changing seats again and this time Raku ends up between Chitoge and Kosaki, so now he gets the best of both worlds.
                     </div>
                 </div>
             </div>
