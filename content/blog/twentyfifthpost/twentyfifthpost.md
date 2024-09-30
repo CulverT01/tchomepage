@@ -54,7 +54,7 @@ tags:
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     Shu has decided to hold his Christmas party again, because apparently the party was no fun without Chitoge and Raku, but the reason is the entire class wants all details about Raku and Chitoge's hotel stay the day prior. At the party, everyone starts looking at the couple suspiciously and when Raku talks Marika and Kosaki, they run away or can't look him in the eye directly. A couple of the female classmates ask Chitoge for some details, which she provides, but not clearing up misunderstanding that they did the 'deed'. The misunderstanding is quickly cleared up after a male classmate asks directly and out loud for the details of their night together. <br />
-                    On the walk home from the party, Chitoge asks Raku what her mother (Hana) and he talked about at the airport as they saw her off, which is revealed via flashback. The conversation was Hana revealing that she had worked out that 2 were fake dating, although not initially, and asks if his feelings towards Chitoge were just as fake, while he asks if she knew anything about his pendant which she doesn't, but remembers that it was in Chitoge's favourite picture book - whilst on her flight. Raku decides to tell Chitoge anything about this conversation. 
+                    On the walk home from the party, Chitoge asks Raku what her mother (Hana) and he talked about at the airport as they saw her off, which is revealed via flashback. The conversation was Hana revealing that she had worked out that 2 were fake dating, although not initially, and asks if his feelings towards Chitoge were just as fake, while he asks if she knew anything about his pendant which she doesn't, but remembers that it was in Chitoge's favourite picture book - whilst on her flight out of Japan. Raku decides not to tell Chitoge anything about this conversation - maybe Hana was closer to the mark about his feelings towards Chitoge than he likes?. 
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@ tags:
                     aria-labelledby="headingThree"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                   Raku 
+                   Raku is annoyed that his dad has roped him into helping out at nearby shrine on New Years Eve, but cheers up after seeing Kosaki in a shrine maiden (everyone else was there, but they don't move needle for Raku like Kosaki does). The priestess who runs the shrine gathers the girls together to alert them that Raku is being haunted by an evil demon, and if they don't exorcise it before the year is up then his life is in danger. They all take this news gravely seriously because the priestess is really famous medium that once saved the town from a crisis[<i>citation needed</i>]. The best exorcism method is to strike Raku with the temple's bell striker, but the girls wish to try less violent methods, so the priestess comes up with a talisman to be stuck onto Raku in a place nearest to the Daitan and where evil waste is excreted (the butt) and this fails. The second is to get one of them to hug Raku for a minute, as the shrine maiden clothing is imbued with exorcising power, only it does nothing. The final attempt is to get Raku to drink some holy water via mouth to mouth, but this just ends up with Raku being chased into the bell striker, thus exorcising the demon.
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@ tags:
                     aria-labelledby="headingFour"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The rankings 
+                    Raku is awoken by the gang arriving at his house on New Years Day, with only him not knowing about it. Whilst entertaining his guests, Chitoge asks if he has anything sweet to eat, Raku searches the kitchen and finds some chocolates and gives them to her which she takes and passes them around everyone else. Later, Chitoge comes over to Raku asking to kiss him and he taken aback by this, but notices her face is red. He checks the wrappers for the chocolates and it turns out that they were Whiskey Bonbons and Chitoge is drunk. Raku tries to get Shu to help, only for him to be attacked by a drunk Marika, whilst Seishiro also goes in for a kiss, like Chitoge, but luckily Raku manages to switch himself out for a small animal statue. He then encounters Ruri, who is just pessimitic, and Kosaki, who is 'too warm' and is trying strip. He escapes from that situation, only to be caught by Chitoge, who now asks him whether or not he likes her and if he say no, then she'll beat him up. Intrigued by this incitement of violence, the other girls want in and all 4 slowly close on Raku, who then faints. Raku eventually wakes up, but doesn't remember much beyond the girls closing on him and the girls collectively refuse admit anything happened.
                     </div>
                 </div>
             </div>
