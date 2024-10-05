@@ -134,7 +134,7 @@ tags:
                     aria-labelledby="headingSix"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Ruri 
+                    The chapter begins focussing on the three girls making valentine's chocolate (it is tradition in Japan for girls to give out chocolate on Valentine's Day). Kosaki has her sister talking through a chocolate cake recipe, which is going as well as you'd expecet; Chitoge is shaping some chocolate into a more and more horrifying blob each times she does; Marika is welding something. February 14th rolls around and Raku is secretly hoping that someone will give him some chocolate and Chitoge is likely candidate, but she only gives him attitude and Kosaki is no hope either. Marika, however, delivers with a large statue of Raku in chocolate and chases him down with it. Kosaki spots them and is motivated by Marika's tenacity to give her chocolate, but trips and crushes it, rendering it unpresentable to the boy she loves. The chapter ends with her eating it in tears.
                     </div>
                 </div>
             </div>
