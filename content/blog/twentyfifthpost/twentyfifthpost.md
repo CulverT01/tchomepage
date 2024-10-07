@@ -134,7 +134,7 @@ tags:
                     aria-labelledby="headingSix"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter begins focussing on the three girls making valentine's chocolate (it is tradition in Japan for girls to give out chocolate on Valentine's Day). Kosaki has her sister talking through a chocolate cake recipe, which is going as well as you'd expecet; Chitoge is shaping some chocolate into a more and more horrifying blob each times she does; Marika is welding something. February 14th rolls around and Raku is secretly hoping that someone will give him some chocolate and Chitoge is likely candidate, but she only gives him attitude and Kosaki is no hope either. Marika, however, delivers with a large statue of Raku in chocolate and chases him down with it. Kosaki spots them and is motivated by Marika's tenacity to give her chocolate, but trips and crushes it, rendering it unpresentable to the boy she loves. The chapter ends with her eating it in tears.
+                    The chapter begins focussing on the three girls making valentine's chocolate (it is tradition in Japan for girls to give out chocolate on Valentine's Day). Kosaki has her sister talking through a chocolate cake recipe, which is going as well as you'd expecet; Chitoge is shaping some chocolate into a more and more horrifying blob each times she does; Marika is welding something. February 14th rolls around and Raku is secretly hoping that someone will give him some chocolate and Chitoge is likely candidate, but she only gives him attitude and Kosaki is no hope either. Raku spots Seishiro giving Shu some chocolate, as she beleieves that you give it to someone you hate, but Raku assumes the opposite. Marika appears with a large statue of Raku in chocolate and chases him down with it, Kosaki spots them and is motivated by Marika's tenacity to give her chocolate, but trips and crushes it, rendering it unpresentable to the boy she loves. The chapter ends with her eating it in tears.
                     </div>
                 </div>
             </div>
@@ -154,7 +154,7 @@ tags:
                     aria-labelledby="headingSeven"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                      It is 
+                      Raku is looking for Kosaki where he encounters a blood-lust Seishiro, who is chasing Shu after she found out about the trick he pulled in the last chapter. Raku stops her to ask if she has seen Kosaki but she hasn't, so the conversation 
                     </div>
                 </div>
             </div>
