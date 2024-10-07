@@ -154,7 +154,7 @@ tags:
                     aria-labelledby="headingSeven"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                      Raku is looking for Kosaki where he encounters a blood-lust Seishiro, who is chasing Shu after she found out about the trick he pulled in the last chapter. Raku stops her to ask if she has seen Kosaki but she hasn't, so the conversation 
+                      Raku is looking for Kosaki where he encounters a blood-lust Seishiro, who is chasing Shu after she found out about the trick he pulled in the last chapter. Raku stops her to ask if she has seen Kosaki but she hasn't, so the conversation moves onto chocolate giving tradition of Valentine's day and misunderstandings on both sides are cleared up. Seishiro gives Raku some platonic chocolate and he is overjoyed as this is the first time a girl has ever given him chocolate on Valentine's day, before leaving whilst reminding her not to regift chocolate as a lot of effort and courage goes into giving the chocolate. Raku realises immediately how much of hypocrite he is and searches out Marika, who is crying over the remains of her Choco-Raku, as it has crashed into a wall. In order to clear his conscience, Raku begins to eat a chunk of the statue, ignoring Marika's protestations not to, but continues to do so as the chocolate is delicious. Chitoge finds Kosaki and asks about the chocolate that she has. Kosaki explains the chocolate before asking if Chitoge has any chocolate and the boy she'll be giving them to is Raku as she likes him.
                     </div>
                 </div>
             </div>
@@ -174,7 +174,7 @@ tags:
                     aria-labelledby="headingEight"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Now 
+                    The Chapter picks up from where the last one finished, with Chitoge denying that she is in love with Raku and would never give him any chocolate - including platonic chocolate. Chitoge then asks if Kosaki likes anyone and she replies that she does and han't told anyone except Ruri who that is. Chitoge gets Kosaki to agree to support her confessing to the guy she likes (Raku), while she will support Kosaki confessing to the guy Kosaki likes (Raku). They both head to the cookery classroom to make some more chocolate, (don't worry, Chitoge has spare ingredients that she brought to school as she thought she might be making chocolate last minute) which they do as school finishes for the day. Chitoge hands her <b>PLATONIC</b> chocolate to Raku and he calls it delicious, although this is a lie as it's later revealed that Chitoge used salt instead of sugar - don't ask. Kosaki hands Raku her chocolate just before he leaves school and he calls it delicous, although this is the truth and Kosaki reveals it to be platonic, but also a special kind of platonic.
                     </div>
                 </div>
             </div>
