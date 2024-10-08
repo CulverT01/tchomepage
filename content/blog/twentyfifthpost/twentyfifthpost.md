@@ -194,7 +194,8 @@ tags:
                     aria-labelledby="headingNine"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter begins 
+                    Seishiro finds some experimental handcuffs within Beehive that'll explode when the wearer's heart rate goes past a certain number, with Claude allowing her to use them against Raku if needed. She takes them too school, but has 2nd thoughts as the handcuffs are too risky to use, so decides to throw them away, only for her to bump into Raku and get the handcuffs attached to the both of them. Seishiro tries to keep calm, but the threat of exploding and being close to Raku means the meter measuring the heart rate is hitting the limit quickly, but she manages to gather it together when their class catches them; much to their surprise, as incidents occur which would normally annoy her. Seishiro explains everything to Raku (which he responds as you'd expect) and they decide to head to a secluded location to calm down and wait for information from Claude about removing the handcuffs, but before they can do that, a bucket of water is dumped on Seishiro, she has to take off her wet shirt, less she catch a cold, but Raku, ever the gentleman, hands her his school jacket for her to wear. <br />
+                    They arrive at the secluded location (a popular date spot that isn't used too often on weekdays) where Seishiro manages to get her heart rate down, although notices that the meterisn't going down either and realises that Raku is just as nervous, which raises her heart rate enough that the handcuffs pop off. It turns out that there was no bomb in the handcuffs and they unlock when the meter maxes out.
                     </div>
                 </div>
             </div>
