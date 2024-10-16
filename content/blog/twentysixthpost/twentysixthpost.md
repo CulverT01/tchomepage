@@ -2,7 +2,6 @@
 title: Nisekoi Volume 9 - Kamikaze.
 description: Review of Nisekoi Volume 9.
 date: 2024-10-15
-draft: true
 tags:
   - manga review
   - Nisekoi
