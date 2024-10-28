@@ -23,7 +23,7 @@ tags:
     <p class="col-8">
    I have always been fascinated by alternative points formats and how they differ to the current one a motorsport and one of the most unique points formats amongst the motorsport championships I follow is the BTCC, due to its multi-class structure and separate championships for Independent entrants along with the Jack Sears Trophy; a championship for drivers without an outright top 3 result in a race. I have chosen Formula E to try this points-format out for 4 reasons:</p>  
    <ol class="col-8">
-   <li> There are customer teams who run a manufacturer's powertrain which are similar enough to BTCC's Independent entrants</li>
+   <li  class="col-8"> There are customer teams who run a manufacturer's powertrain which are similar enough to BTCC's Independent entrants</li>
    <li> The weekend structure is similar to BTCC's (qualifying session into full-distance race)</li>
    <li> A grid size of 22 cars (2 cars per teams) is small enough to so there isn't too many tables, but there aren't too little either</li>
    <li> I can watch the races in full to keep track of who leads a lap, which is a bonus point available uner BTCC's regular poits format</li>
