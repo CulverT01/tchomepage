@@ -14,7 +14,7 @@ tags:
   <div class="row justify-content-center">
     <p class="col-8">
     This is the first update to my Alternative Formula E Points Format project. So far I have made the tables and have populated them with records. Due to how MongoDB operates, there are some differences between the inital design of the database and its implementation. This will be explained the Changes and Clarifications section.<br />
-    All files and documents are found in the GitHub repository<a href="https://github.com/CulverT01/altfepointsformat">https://github.com/CulverT01/altfepointsformat</a><br/>
+    All files and documents are found in the GitHub repository: <a href="https://github.com/CulverT01/altfepointsformat">https://github.com/CulverT01/altfepointsformat</a><br/>
    Please note that I have removed the username and password for the database from the admin program in the interest of security.
     </p>
   </div>
