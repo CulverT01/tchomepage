@@ -113,7 +113,7 @@ tags:
                     aria-labelledby="headingFive"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter begins 
+                    A swimming meet to decide who attends the national championship is on and Ruri is competing, as she is an avid swimmer as well as the best female swimmer in the entire school by far. She, however, doesn't care about winning and isn't massively enthused when the gang all turn up to cheer her on. Her main competition is Haneko Chonouchi from Shikari Girl's High School, who doesn't think much of Ruri in terms of fans and in appeal (if you know what I mean). The first race goes to Haneko, whose conceited attitude draws the ire from her fellow competitors who try to trip her up, literally, by placing a soda can in her path. Ruri saves Haneko before she can fall, but injures herself in the process and contemplates withdrawing, although Kosaki comes in to explain all her friends are cheering for here and she herself wants to see Ruri competing at the national championship. This motivates Ruri to keep going and she wins the final race to go to Nationals, despite her injury. 
                     </div>
                 </div>
             </div>
@@ -133,7 +133,8 @@ tags:
                     aria-labelledby="headingSix"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter begins  
+                    Paula won't eat her carrots, so Seishiro enlists Raku to help with solving that issue. Paula tries to trick them, but fails, as do they when she manages to suss out which biscuits have grated carrot in them and which ones don't. Seishiro later reveals that Paula can't ride a bike (without stabilisers) and is terrible academically - especially Maths. They slowly make progress with them all as Paula can eat boiled sweet carrots, she begins studying properly and can ride a bike with only one stabiliser.<br /> 
+                    On another day at school, they announce that all the first years are to receive vaccinations and Paula flees school due to a fear of needles. Seishiro gets Raku to find her, as she is too busy with an errand for Chitoge to help, and advises him to look in high places, because thats where she likes to be alone. Raku finds her and gets her down with the use of a scary story, which is enough to get climb down and then Raku promises to go with her, to get her vaccination. All this is enough to convince her, but the doctor administering the vaccine mentions that there are at least 2 (3 according to the back illustration) after Paula has received her first.  
                     </div>
                 </div>
             </div>
@@ -153,7 +154,7 @@ tags:
                     aria-labelledby="headingSeven"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    At the school  
+                    Marika has left her parrot Raku Dearest with his namesake, as she is going away for a day and needs someone to look after Raku (the parrot not the person). Unfortunately for Raku (the person not the parrot), Raku Dearest has picked up quite the vocabulary from his owner and will only eat if he is hand-fed and 'Open up, Raku Dearest! Yummy yum yum!' said to him. Raku Ichijo falls asleep and Raku Dearest escapes, but hasn't gone too far, so Raku Ichijo can still track the parrot by listening for any squawking and inappropriate roleplay between him and Marika. Raku Dearest lands next to Chitoge, who creeps her out enough that Raku Ichijo needs a clobbering, even when he attempts to explain who the true owner of the parrot is. Raku Dearest encounters more of Raku Ichijo's friends, who react as you'd expect, before he checks the notes on how to care for Raku Dearest. The notes, luckily, do explain how to get Raku Dearest back: shout 'Oh Marika my sweet beloved! I love you!'. Marika suddenly appears and explains the situation to everyone and promptly leaves whilst listening to a recording of Raku Ichijo saying 'Oh Marika my sweet beloved! I love you!', revealing her true intentions the whole time - further proof why I think she is one of the worst characters in this series.
                     </div>
                 </div>
             </div>
@@ -220,7 +221,7 @@ tags:
             </div>
         </div>
     </div>
-        {% image "./nisekoi_12.jpg", "Cover of volume 11 of Nisekoi" %}
+        {% image "./nisekoi_12.jpg", "Cover of volume 12 of Nisekoi" %}
     </div>
   </div>
 </div>
