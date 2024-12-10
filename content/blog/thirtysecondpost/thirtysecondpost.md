@@ -1,6 +1,6 @@
 ---
-title: Nisekoi Volume 11 - Bouquet.
-description: Review of Nisekoi Volume 11.
+title: Nisekoi Volume 12 - Festival.
+description: Review of Nisekoi Volume 12.
 date: 2024-12-03
 tags:
   - manga review
@@ -12,7 +12,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">Nisekoi Volume 11 - Bouquet</h1>
+  <h1 class="col align-self-center">Nisekoi Volume 12 - Festival</h1>
   <div class="row justify-content-center">
     <div class="col-8">  
         <div class="accordion" id="accordionObject">
