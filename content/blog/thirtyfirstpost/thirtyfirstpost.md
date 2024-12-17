@@ -14,7 +14,7 @@ tags:
   <div class="row justify-content-center">
     <p class="col-8">
     This is the second update to my Alternative Formula E Points Format project. So far I have made the functions that allow for updates be made to documents, with functions dedicated to updating the various points and positions of the drivers, teams and manufacturers. I have also created a new file called afepf_functions.py to store all of the functions in, so afepf_admin_program.py is less cluttered and time is saved programming the general user program.<br />
-    As always, ll files and documents are found in the GitHub repository: <a href="https://github.com/CulverT01/altfepointsformat">https://github.com/CulverT01/altfepointsformat</a><br/>
+    As always, all files and documents are found in the GitHub repository: <a href="https://github.com/CulverT01/altfepointsformat">https://github.com/CulverT01/altfepointsformat</a><br/>
     Please note that I have removed the username and password for the database from the admin program in the interest of security.
     </p>
   </div>
