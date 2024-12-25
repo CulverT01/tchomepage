@@ -32,7 +32,7 @@ tags:
                     aria-labelledby="headingOne"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    This is my review of Nisekoi Volume 12. This volume contains the series' 100th chapter, which seems impressive until you realise we are not even halfway through the series as there are 26 volumes in this series.
+                    This is my review of Nisekoi Volume 12. This volume contains the series' 100th chapter, which seems impressive until you realise we are just about halfway through the series as there are 25 volumes in this series.
                     </div>
                 </div>
             </div>
