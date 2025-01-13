@@ -46,21 +46,21 @@ tags:
     {% image "./afepf_npjt_drivers_p1-10.png", "Screenshot of the first 10 positions of the Nelson Piquet Jr Trophy, outputted by afepf_viewer_program.py" %}
     {% image "./afepf_npjt_drivers_p11.png", "Screenshot of position 11 of the Nelson Piquet Jr Trophy, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Overall Teams' Championship</h3>
-    <p>
+    <p class="col-8">
     Jaguar wins this championship with 343 points from Porsche who have 316 points. 9 of the 11 teams score more points under my alternate format compared to what they score under the current points format. The 2 which don't are Jaguar and Porsche, who combined win 12 of 16 ePrixs and miss out on the bigger points totals for higher finishing positions as well as all the bonus points for pole position and fastest lap that teams cannot score under my alternate format. There is a change of position in the final standings under my alternate points format compared to the current format as Maserati and ABT switch positions courtesy of ABT's drivers' consistent finishes and Max Guenther's unreliability in the last few ePrixs and Jehan Daruvala's poor performance throughout the season - he scores points 4 times.<br/>
     Below are the overall Teams' Championship standings:
     </p>
     {% image "./afepf_teams_p1-6.png", "Screenshot of the first 6 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
     {% image "./afepf_teams_p7-11.png", "Screenshot of the positions 7 to 11 of the Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Teams' Championship </h3>
-    <p>
+    <p class="col-8">
     Like with the other BTCC exclusive championships, this one is also sealed a round early and this time it is won by Andretti. The point totals here are lot less compared to both the Overall Teams' championship as only the highest finisher in the class can score points for the team. In the BTCC this makes sense, as often there can be Independent teams that only field 1 car (such as Unlimited Motorsport in 2024), so are given a fighting chance against the multi-car operations and I had considered ignoring this as there is always 2 entries from a Customer team, so no-one is at a disadvantage, but kept as-is I wanted to keep the alterations I made to be limited to only the highest placed finishing cars for a manufacturer will score points for them; as normally in the BTCC, manufacturers/constructors must nominate 2 cars before a race to score points for them in that race. Like their drivers, McLaren's poor end-of-season form results them finishing 4th, despite outscoring ABT in the overall Teams' Championship.<br/>
     Below are the Customer Teams' Championship standings:
     </p>
     {% image "./afepf_customer_teams_p1-4.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Manufacturers' Cup</h3>
-    <p>
-    Like with the overall Teams' Championship, Jaguar wins the cup with 436 points from Porsche, who has 433 points, and are the only manufacturers who score less than what they did under the current format. There is also a change of position between Stellantis and Nissan, with Stellantis finishing ahead of Nissan under my alternate format as opposed to finishing behind Nissan under the current format. This is down to Nissan's poor weekend in Portland, as losing their only star driver Oliver Rowland to illness, the inconsistent results that the McLaren team can produce, and uncompetitive pace that both Sacha Fenestraz and Caio Collet have; hit harder when your rival has 2 drivers consistently scoring top 10 finishes.<br/>
+    <p class="col-8">
+    Like with the overall Teams' Championship, Jaguar wins the cup with 436 points from Porsche, who has 433 points, and are the only manufacturers who score less than what they did under the current format. There is also a change of position between Stellantis and Nissan, with Stellantis finishing ahead of Nissan under my alternate format as opposed to finishing behind Nissan under the current format. This is down to Nissan's poor weekend in Portland, as losing their only star driver Oliver Rowland to illness, the inconsistent results that the McLaren team can produce, and uncompetitive pace that both Sacha Fenestraz and Caio Collet have; means it hits harder when your rival has 2 drivers consistently scoring top 10 finishes.<br/>
     Below are the Manufacturers' Cup standings:
     </p>
     {% image "./afepf_manufacturers_p1-6.png", "Screenshot of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
