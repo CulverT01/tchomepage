@@ -32,7 +32,7 @@ tags:
                 aria-labelledby="headingOne"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
-                    This is my review of the Nisekoi Volume 2. The chapters now are lot shorter and so the summaries will be smaller, as one of my personal criticisms with the last review was about how long some of those summaries ended up being.
+                    This is my review of the Nisekoi Volume 2. The chapters now are lot shorter and so the summaries will be smaller, as one of my personal criticisms I had with the last review was that some of those summaries were too long for my liking, but if I had them any shorter, then I am missing out key details which I do want to do.
                 </div>
                 </div>
             </div>
