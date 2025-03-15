@@ -1,7 +1,7 @@
 ---
 title: New Season
 description: Fifth Update of Alternative Formula E Points Format project.
-date: 2024-02-04
+date: 2025-02-04
 tags:
   - alternative formula e points format project
   - procedural programming skills evidence
@@ -28,15 +28,15 @@ tags:
     {% image "./afepf_viewer_program_new1.png", "Screenshot of the first part of afepf_viewer_program.py that evidences the use of while loops to allow easy switching between options the user can do with the program" %}
      {% image "./afepf_viewer_program_new2.png", "Screenshot of the second part of afepf_viewer_program.py that evidences the use of while loops to allow easy switching between options the user can do with the program" %}
     <p class="col-8">
-    The afepf_function program has 2 new functions that check if a driver/team is eligible for a secondary championship (Customer Driver/Team, Nelson Piquet Jr Trophy Driver) and these are the checkDriver and checkTeam respectively. The former takes 2 arguments when called (init and either 'customer' or 'npjt') and performing a search query that outputs either all driver initals for documents whose customer driver points or npjt driver points are more than equal to 0 as well as sorting in asecending order according to those points totals and stores each item in the cursor in a list. The program checks if the value that the init argument stores is in the list and if so, then it returns True otherwise it returns False. The latter function operates the same except it only takes 1 argument (init) and searches the Team collection instead of the Driver collection. The functions are called where the user is asked if the competitor they are entering the results for is a customer driver/team or npjt driver with the if statement below checking i the are equal to True instead of 'yes'.<br/>
+    The afepf_function program has 2 new functions that check if a driver/team is eligible for a secondary championship (Customer Driver/Team, Nelson Piquet Jr Trophy Driver) and these are the checkDriver and checkTeam respectively. The former takes 2 arguments when called (init and either 'customer' or 'npjt') and performing a search query that outputs either all driver initials for documents whose customer driver points or npjt driver points are more than equal to 0 as well as sorting in ascending order according to those points totals and stores each item in the cursor in a list. The program checks if the value that the init argument stores is in the list and if so, then it returns True otherwise it returns False. The latter function operates the same except it only takes 1 argument (init) and searches the Team collection instead of the Driver collection. The functions are called where the user is asked if the competitor they are entering the results for is a customer driver/team or npjt driver with the if statement below checking i the are equal to True instead of 'yes'.<br/>
     The 2 functions are displayed below.
     </p>
-     {% image "./afepf_function_checkDriver_checkTeam.png", "Screenshot of the functions check driver and check team in afepf_functions.py that searches the driver or team collection for all intials of drivers/teams that have more than or equal to 0 customer/npjt points, stores the results in a list and checks if a passed argument is in that list and if so, returns a boolean True value else it returns a boolean False value" %}
+     {% image "./afepf_function_checkDriver_checkTeam.png", "Screenshot of the functions check driver and check team in afepf_functions.py that searches the driver or team collection for all initials of drivers/teams that have more than or equal to 0 customer/npjt points, stores the results in a list and checks if a passed argument is in that list and if so, returns a boolean True value else it returns a boolean False value" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>
     <p class="col-8">
-    As this program was initally designed for only season 10, the database that stored the data was known as AltFePointsFormat and MongoDB prevents you from renaming a database, so it name will stay while all other databases will be named after the season for which they store the results for.
+    As this program was initially designed for only season 10, the database that stored the data was known as AltFePointsFormat and MongoDB prevents you from renaming a database, so it name will stay while all other databases will be named after the season for which they store the results for.
     </p>
   </div>
 </div>
