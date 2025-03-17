@@ -220,7 +220,7 @@ tags:
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     Kosaki has invited to help at an Onodera family business, but it is not Japanese Confections Onodera as instead it is a hot spring resort that her aunt owns. Actually, Nanako (Kosaki's and Haru's mum) had nominated him for the role, so Raku had no choice in the matter. Their role is to tidy up the rooms and lay the futons out and in the first room, Raku sees Kosaki struggling with the futons and heads over to help only to slip on something and falls over onto Kosaki, pinning her down. He tries to get off her, only to catch something and pulls the rest of the futons down on them. They pick themselves up, but Kosaki runs away from Raku, overwhelmed from being too close to him, and so spends the rest of the day avoiding him. Later, the head chef at the resort throws his back out and there is no one else remotely qualified available to take over, but Kosaki nominates Raku to do it as she believes he can, everyone else, including Raku, are more reluctant, but decide anyway to go for it with Raku eventually being able to make food up to the head chef's standards, while Kosaki handles more decorative cuts that are needed. The evening meal goes off without a hitch and the 2 are rewarded for their work with pay as well as a shared room at the resort.<br/>
-                    The bonus comics are about Haru and Yui interactions with the animals in the school menagerie.
+                    The bonus comics are about Haru's and Yui's interactions with the animals in the school menagerie.
                     </div>
                 </div>
             </div>
