@@ -1,5 +1,5 @@
 ---
-title: Nisekoi Volume 2 - Zwasze in Love.
+title: Nisekoi Volume 2 - Zawsze in Love.
 description: Review of Nisekoi Volume 2.
 date: 2024-07-09
 tags:
@@ -12,7 +12,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">Nisekoi Volume 2 - Zwasze in Love</h1>
+  <h1 class="col align-self-center">Nisekoi Volume 2 - Zawsze in Love</h1>
   <div class="row justify-content-center">
     <div class="col-8">  
         <div class="accordion" id="accordionObject">
@@ -134,7 +134,7 @@ tags:
                     aria-labelledby="headingSix"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                   The chapter begins at lunch the next day with Chitoge moaning about Rakus's conduct during the swim meet. Onodera tells her that Raku actually saved her and immediately regrets her actions and resolves to apologise. Attempt 1 results in Raku assuming it is about the comments that Shu made the day previous and he criticizes her diet, which annoys her. Attempt 2 is based around getting Raku a gift, but Chitoge's aggressive nature causes it to fail. Attempt 3 is again devolves around a misunderstanding this time around the mouth-to-mouth incident and that makes her mad. Chitoge retreats to Ruri and Onodera and complains about Raku, to which Ruri questions their relationship and that prompts Chitoge to confide the truth about their relationship before leaving. Now knowing the truth about Raku and Chitoge's relationship, Onodera resolves to confess her feelings.
+                   The chapter begins at lunch the next day with Chitoge moaning about Raku's conduct during the swim meet. Onodera tells her that Raku actually saved her and immediately regrets her actions and resolves to apologise. Attempt 1 results in Raku assuming it is about the comments that Shu made the day previous and he criticizes her diet, which annoys her. Attempt 2 is based around getting Raku a gift, but Chitoge's aggressive nature causes it to fail. Attempt 3 is again devolves around a misunderstanding this time around the mouth-to-mouth incident and that makes her mad. Chitoge retreats to Ruri and Onodera and complains about Raku, to which Ruri questions their relationship and that prompts Chitoge to confide the truth about their relationship before leaving. Now knowing the truth about Raku and Chitoge's relationship, Onodera resolves to confess her feelings.
                     </div>
                 </div>
             </div>
@@ -146,7 +146,7 @@ tags:
                 data-bs-target="#collapseSeven" 
                 aria-expanded="false" 
                 aria-controls="collapseSeven">
-                Chapter 13: Zwasze in Love
+                Chapter 13: Zawsze in Love
                 </button>
                 </h2>
                 <div id="collapseSeven" 
@@ -155,7 +155,7 @@ tags:
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     The chapter moves to focus on Raku, as he heads to care for the animals, noting that the chain on his pendant is damaged and will need replacing soon. He meets up with Chitoge and asks if she was trying to thank him. She responds dismissively before asking why he saved her and that offends him so he insults her back, expecting a comeback (as that is their relationship already), but instead gets a sincere apology (in English), but still gets the gist despite not understanding what she said. Chitoge leaves and on her way out finds Raku's pendant with a broken chain. <br />
-                    Ruri asks Onodera why she likes Raku, which she struggles to put into words. Raku appears and Ruri decides to leave so Onodera will confess her feelings. Both Onodera and Raku are super nervous, especially Onodera, as she shows fever-like temperatures and that panics Raku, further exemplifying why she loves him. She begins to confess her feelings, whilst Chitoge looks at Raku's pendant remembering that she made promise to a boy when she was younger and made the promise by saying "Zwazse in Love"- could she be Raku's promise girl?
+                    Ruri asks Onodera why she likes Raku, which she struggles to put into words. Raku appears and Ruri decides to leave so Onodera will confess her feelings. Both Onodera and Raku are super nervous, especially Onodera, as she shows fever-like temperatures and that panics Raku, further exemplifying why she loves him. She begins to confess her feelings, whilst Chitoge looks at Raku's pendant remembering that she made promise to a boy when she was younger and made the promise by saying "Zawsze in Love"- could she be Raku's promise girl?
                     </div>
                 </div>
             </div>

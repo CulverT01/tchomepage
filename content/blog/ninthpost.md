@@ -12,7 +12,7 @@ tags:
         <div class="row justify-content-center">
             <p class="col-8">
             Below is some JavaScript designed to interact with the DOM to create a to-do list which filled out using a form on html page (not shown). The code allows for new html elements to created and displayed on the webpage. <br />
-            This will be my last post exhibiting work I have done during my time at the The Coders Guild Skills Bootcamp for Web Design and Development, but if you're intrested in them, here is a link to their website:<br />
+            This will be my last post exhibiting work I have done during my time at the The Coders Guild Skills Boot-camp for Web Design and Development, but if you're interested in them, here is a link to their website:<br />
             <a href="https://thecodersguild.org.uk/" class="fs-3">The Coders Guild</a>
             </p>
             <h3 class="row">JavaScript Code</h3>

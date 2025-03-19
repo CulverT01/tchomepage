@@ -11,7 +11,7 @@ tags:
   <h1 class="col align-self-center">Four functions and seven years ago.</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-	This blog exhibts my understanding of functions as well as control flow, through the use of if/else statements. Below are 4 functions which all do different things:<br />
+	This blog exhibits my understanding of functions as well as control flow, through the use of if/else statements. Below are 4 functions which all do different things:<br />
     Function 1 outputs an alert to the users browser when the function is run<br />
     Function 2 outputs to the console a persons first and last name which are taken as arguments in the function<br />
     Function 3 operates the same as 2, but uses a return statement instead to control the data type of the returned value<br />

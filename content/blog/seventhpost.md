@@ -59,39 +59,39 @@ tags:
     <div class="row justify-content-center">
         <p class="col-8">
         More key elements of JavaScript are objects, arrays and loops. Arrays are like lists for JavaScript as you can store items, like food items, in them and put in or delete items if need be. To output an entire list, you will have to loop through them.<br /> 
-        Objects are variables that can store multiple bits of information relating to something. For example, a person can represented by an object as they will have information such as hometown, hair colour, favourite colour, etc. <br />
+        Objects are variables that can store multiple bits of information relating to something. For example, a person can represented by an object as they will have information such as home-town, hair colour, favourite colour, etc. <br />
         Below are examples of objects, loops, arrays, looping through objects with arrays, looping through arrays, objects with arrays.
         </p>
         <h3 class="row">JavaScript Code</h3>
         <pre class="col-8">
         //Example 4
-        const favReceipe = {
+        const favRecipe = {
             title: 'Tomato Ketchup and Cheese Toastie',
             servings: 1,
             ingredients: [['slices of bread', '2'],['Cheese', '50g'],['Tomato Ketchup', '2tbp'],['Butter', '10g']],
             instructions: ['Spread the butter across the 2 slices of bread', 
-            'Grate the cheese and sprinke it over on of the slices', 
+            'Grate the cheese and sprinkle it over on of the slices', 
             'Spread the Tomato Ketchup over the other slice and place it on top of the cheese slice', 
             'PLace on a medium/high grill for 5 minutes or until the cheese has melted'] 
         }
-        function receipeDetails(favreceipe){
-            console.log(`Title: ${favreceipe.title}. \n`);
-            console.log(`servings: ${favreceipe.servings}. \n`);
+        function recipeDetails(favrecipe){
+            console.log(`Title: ${favrecipe.title}. \n`);
+            console.log(`servings: ${favrecipe.servings}. \n`);
             console.log(`Ingredients: \n`);
-            for(let i = 0; i < favreceipe.ingredients.length; i++){
-                console.log(`\t ${favreceipe.ingredients[i]}\n`);
+            for(let i = 0; i < favrecipe.ingredients.length; i++){
+                console.log(`\t ${favrecipe.ingredients[i]}\n`);
             }
             console.log(`Instructions: \n`);
-            for(let i = 0; i < favreceipe.instructions.length; i++){
-                console.log(`\t ${favreceipe.instructions[i]}\n`);
+            for(let i = 0; i < favrecipe.instructions.length; i++){
+                console.log(`\t ${favrecipe.instructions[i]}\n`);
             }
         }
-        receipeDetails(favReceipe);
+        recipeDetails(favRecipe);
         //Example 5
-        function letsCook(receipe){
-            console.log(`I'm Hungry, Hey Let's cook ${receipe.title}`);
+        function letsCook(recipe){
+            console.log(`I'm Hungry, Hey Let's cook ${recipe.title}`);
         }
-        letsCook(favReceipe);
+        letsCook(favRecipe);
         </pre>
   </div>
 </div>

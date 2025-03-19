@@ -10,7 +10,7 @@ tags:
   <h1 class="col align-self-center">Pulling the website by its Bootstraps</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-    This post evidences the usage of Bootstrap across the website. Bootstrap is a framework that's used to give styling to your website as well as allow it be dynamic with various components like the Carousel shown below. The cards that are shown are from Yugioh trading card game that I own.
+    This post evidences the usage of Bootstrap across the website. Bootstrap is a framework that's used to give styling to your website as well as allow it be dynamic with various components like the Carousel shown below. The cards that are shown are from Yu-Gi-Oh! trading card game that I own.
     </p>
   </div>
   <div class="row justify-content-center">

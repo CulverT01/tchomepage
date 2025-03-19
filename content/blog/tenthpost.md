@@ -1,6 +1,6 @@
 ---
 title: New Content Approaching!!!.
-description: Explaination on new content coming to website.
+description: Explanation on new content coming to website.
 date: 2024-06-18 
 tags:
   - personal

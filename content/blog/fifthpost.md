@@ -12,7 +12,7 @@ tags:
   <div class="row justify-content-center">
     <p class="col-8">
     As functions are so integral to JavaScript, I have more examples of them below, this time using a switch case statement instead of a if/else statement. The functions do as described: <br />
-    Function 1 calculates the precentage of a number based on what the user inputs and outputs to the users browser<br />
+    Function 1 calculates the percentage of a number based on what the user inputs and outputs to the users browser<br />
     Function 2 returns a message based on what the value is of the buttonName argument variable passed through, with another argument being the size of the drink itself and that reflected in the message <br />
     Function 3 returns the answer to a calculation based on what 2 numbers and an operator (+,-,*,/) are passed through the function as arguments. 
     </p>

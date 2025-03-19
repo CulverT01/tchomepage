@@ -12,13 +12,13 @@ tags:
   <h1 class="col align-self-center">Designs on a new project</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-    For the first project to display my java programming skills, I decided to build a program that allows 2 players to play a card game of my own design. A more detailed explaination can be found in a docx file on a GitHub repository where this is found <a href="https://github.com/CulverT01/cardgameplayer">(Link Here)</a>, but I have placed key excerpts and examples from that here below.
+    For the first project to display my java programming skills, I decided to build a program that allows 2 players to play a card game of my own design. A more detailed explanation can be found in a docx file on a GitHub repository where this is found <a href="https://github.com/CulverT01/cardgameplayer">(Link Here)</a>, but I have placed key excerpts and examples from that here below.
     </p>
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Card Game Overview</h2>
     <p class="col-8"> 
-    The card game is framed as 2 castles (the players) going into battle against each other using their armies (their decks). The win condition is to lay siege to the other castle (reduce their Defense Points to 0) and to do this direct attack with creatures must be made. A direct attack can only be made when your opponent has no creatures on their front line. The card game will be called Castles of Cards.</p>
+    The card game is framed as 2 castles (the players) going into battle against each other using their armies (their decks). The win condition is to lay siege to the other castle (reduce their Defence Points to 0) and to do this direct attack with creatures must be made. A direct attack can only be made when your opponent has no creatures on their front line. The card game will be called Castles of Cards.</p>
     <h3 class="row">Card Types</h3>
     <p class="col-8">There are 2 categories of Cards: Creature Cards and Support Cards. Each category will be split up into 2 types, so there are 4 types of card. The card types are: Magic Creature, Melee Creature, Magic Support and Item Support. Some Creature cards will also be either ‘Ace’ or ‘Legend’ cards and these cards will be more powerful than most other creature cards, but with the caveat that you can only have 2 Ace Creatures and 1 Legend Creature in your Deck. Creatures will have 2 stats: Health and Attack, with Health relates how much damage a creature can take, while Attack relates how much damage it can inflict.
     </p>
@@ -27,7 +27,7 @@ tags:
     <h2 class="row">Card Game Implementation</h2>
     <h3 class="row">Player Class</h3>
     <p class="col-8">
-    Players of the card game will implemented as their own object class with the same name and will have 6 attributes: Name, Defence Points, Wasteland, Front Line, Hand and Deck. The data types for the attributes are: Name will be a String, Defense Points will be an Integer, Wasteland, Hand and Deck will be ArrayLists that stores the Card object and Front Line will be a 4 element Array that stores the Card object.<br/>
+    Players of the card game will implemented as their own object class with the same name and will have 6 attributes: Name, Defence Points, Wasteland, Front Line, Hand and Deck. The data types for the attributes are: Name will be a String, Defence Points will be an Integer, Wasteland, Hand and Deck will be ArrayLists that stores the Card object and Front Line will be a 4 element Array that stores the Card object.<br/>
     The Behaviours (methods) that a Player object has are: Drawing from the Deck and Playing Cards from the Hand.
     </p>
     <h3 class="row">Card Classes</h3>

@@ -28,7 +28,7 @@ tags:
     </pre>
     <h3 class="row">Alternatives to Pseudocode</h3>
     <p class="col-8">
-    Now if Pseudocode isn't your thing beacuse you can't program working software with it, then there are comments which you can use to add notes to program explaining what each line of code is doing. In JavaScript a for a line to be a comment it must start with a double slash (//) and each programming language will have its own way of commenting.<br />
+    Now if Pseudocode isn't your thing because you can't program working software with it, then there are comments which you can use to add notes to program explaining what each line of code is doing. In JavaScript a for a line to be a comment it must start with a double slash (//) and each programming language will have its own way of commenting.<br />
     As an example, I have included function 4 from 'Four functions and seven years ago' blog post, now with comments which you'll know because they all be in green.
     </p>
 	<h3 class="row">JavaScript Code</h3>

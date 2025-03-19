@@ -11,7 +11,7 @@ tags:
   <h1 class="col align-self-center">Tipping the JavaScript.</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-	As a part of the Coders Guild Bootcamp on for Web Design and Development Skills, I studied and learnt about JavaScript. This post and the next few will demonstrate various key uses of JavaScript. Down below is a program that calculates the cost of the overall bill and from how much it originally cost and the percentage of tip that they will provide.
+	As a part of the Coders Guild Boot-camp on for Web Design and Development Skills, I studied and learnt about JavaScript. This post and the next few will demonstrate various key uses of JavaScript. Down below is a program that calculates the cost of the overall bill and from how much it originally cost and the percentage of tip that they will provide.
     </p>
 	<h3 class="row">JavaScript Code</h3>
 	<pre class="col-8">
