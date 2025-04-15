@@ -33,7 +33,7 @@ tags:
     {% image "./afepf1_drivers_p28-35.png", "Screenshot of the positions 28 to 35 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Teams' Championship</h3>
     <p class="col-8">
-    Team e.dams Renault wins this championship with 230 points from Dragon Racing who have 211 points. Only e.dams fail to score more than they did in real life, but even then the difference is minimal as it only 2 points. There is a change of positions in the final standings under my alternate points format compared to the used format as Venturi finish ahead of both Aguri and Mahindra, thanks to its full time drivers being consistently finishing inside the points. Only 4 times under the alternative format does a Venturi car fail to finish inside the points and the team never fail to score points which is something other 2 teams can claim.<br/>
+    Team e.dams Renault wins this championship with 230 points from Dragon Racing who have 211 points. Only e.dams fail to score more than they did in real life, but even then the difference is minimal as it only 2 points. There is a change of positions in the final standings under my alternate points format compared to the used format as Venturi finish ahead of both Aguri and Mahindra, thanks to its full time drivers being consistently finishing inside the points. Only 4 times under the alternative format does a Venturi car fail to finish inside the points and the team never fail to score points which is something other 2 teams can't claim.<br/>
     Below are the Teams' Championship standings:
     </p>
     {% image "./afepf1_teams_p1-6.png", "Screenshot of the first 6 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
