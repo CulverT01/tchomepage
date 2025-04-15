@@ -1,6 +1,6 @@
 ---
-title: Podium Ceremony
-description: Fourth Update of Alternative Formula E Points Format project.
+title: Throwback
+description: Sixth Update of Alternative Formula E Points Format project.
 date: 2025-04-15
 tags:
   - alternative formula e points format project
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">Podium Ceremony</h1>
+  <h1 class="col align-self-center">Throwback</h1>
   <div class="row justify-content-center">
     <p class="col-8">
     This is my sixth update to my Alternative Formula E Points Format project. The program is now built to handle seasons which don't have 22 starters and don't include a manufacturers championship and now has all the of the results for Season 1 (2014-2015) of Formula E. The quirk with Season 1 in real life is that this allowed for dropped scores, where a driver's worst scoring result would be ignored towards their end of season totals;  e.g: if a driver's worst scoring round resulted in a 10th place finish and thus 1 point, then that point would be ignored towards their end of season total. Only 1 driver is affected by dropped scores as only one driver scored points in all races and that Nicolas Prost, as while he wouldn't finish race 1, he did win the pole and scored 3 points because of this. I elected to ignore this as the BTCC points format then in 2014/15 and now do not include dropped scoring as well as all future Formula E seasons.<br/> 
