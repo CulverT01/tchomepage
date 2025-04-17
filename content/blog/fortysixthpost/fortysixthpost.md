@@ -73,7 +73,8 @@ tags:
                     aria-labelledby="headingThree"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    It 
+                    Marika makes desperate plea to Raku to accept her feelings, but before he can tell her the truth, she collapses on the ground whilst burning up. Honda suddenly appears and carries Marika away, bounding and gagging her to prevent her running off, as well as telling Raku that he should forget about Marika. <br/>
+                    The next day, Yui announces to the class that Marika has changed schools yesterday and has returned home to Kyushu. Raku tries to call Marika (in class) and can't reach her. The next day, the gang all meet up on the school roof and discuss what they can find out about Marika's transfer. They have nothing, as there is almost no documents confirming her being in Bonyari. Chitoge mentions heading to Kyushu to find her, which inspires Raku to call someone.
                     </div>
                 </div>
             </div>
