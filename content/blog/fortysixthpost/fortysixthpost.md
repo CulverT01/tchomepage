@@ -94,7 +94,7 @@ tags:
                     aria-labelledby="headingFour"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    The chapter begins 
+                    The person Raku calls is Mikage who explains that Marika has switched schools as she and her mother made a deal that she could go to Bonyari to try to get Raku to marry her, but if Marika got too sick (in Honda's opinion) or she could win Raku's love before that then: she must come home, marry a man of Marika's mother's choosing, and never go against her ever again. In case you didn't know (which you shouldn't this is the first time this being revealed), Marika's family has been around since the time of the Samurai and is run as a grand matriarchy, so her mother is the head of the family and what she says goes. Mikage reveals more about the relationship between Marika and her mother which boils down to Marika's mother viewing Marika as nothing more than a tool to continue the lineage. Mikage reveals the that Marika's groom-to-be is a divorced steel magnate in his 40s and they are to be wedded tomorrow. Raku is hesitant at what to do, as he wants to save her from this marriage but still has to reject her, so Chitoge snaps him back to reality and he decides to try and rescue Marika with everyone else coming along. The first hurdle is actually getting to Kyushu, but luckily Yui (who has been listening in) has sorted out plane tickets for all of them (except herself) and will stay behind to smooth things over back in Bonyari.
                     </div>
                 </div>
             </div>
