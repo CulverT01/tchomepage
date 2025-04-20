@@ -114,7 +114,8 @@ tags:
                     aria-labelledby="headingFive"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    It 
+                    The gang set off for Kyushu, while Mikage internally regrets not telling them 'the most important part'. Meanwhile, while waiting for her mother, Marika tries to run away but Honda catches and restrains her before she can get far. Marika meets her mother (who is hidden in the shadows) and asks for her weeding to be in the western tradition as well as letting her return to Bonyari and to leave her alone forever. Her mother agrees to the first demand, but refuses to agree to the second part - they made a deal and Marika lost, it is only fair.<br/>
+                    The gang arrive at Marika's home and Raku immediately tries the intercom, but is refused entry. Chitoge notices that a window is broken and has an idea. Meanwhile, Mikage has come to visit Marika and notices the dire state she is in. She remarks that if Marika is so sad, then she must have really enjoyed it and Marika agrees as she was with Raku. Mikage asks about the others which prompts Marika to say good things about the other, but doesn't say anything about Chitoge. Mikage asks she wants to see them again nad Marika does, but knows that she can't as there is no way that they would know where she is. Suddenly, a loud shout calling for Marika is heard.
                     </div>
                 </div>
             </div>
@@ -134,7 +135,7 @@ tags:
                     aria-labelledby="headingSix"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Raku 
+                    Marika dashes to her window and spots her friends outside and immediately tries to go and see them, but is stopped by Honda as her mother has forbidden her from seeing her friends from Bonyari (friends from Kyushu are a-okay, I mean it is not like they are going to collude with those from Bonyari are they?). As the gang are chased away by some guards, Marika chastises Mikage for her actions who remains convinced that this is what Marika wants. Mikage quickly leaves and meets up with the gang nad finds out their reason for visiting and introduces them to a secret passage that will get them into the house. Raku, Chitoge and Seishiro (the main characters and the one with any combat expertise) head through while the rest stay behind (don't worry, Mikage has a use for them). The three finally arrive inside the house and are met by Honda. Raku pleads with her to help Marika, but Honda ignores this as her loyalty lies with the Tachibana family and its grand matriarch - Marika' mother, Chika Tachibana.<i> Now, Beehive could easily moved out of Japan if they had trained Seishiro like this.</i> Also Honda may be employed by the police force in Bonyari, but her primary job since birth has been a secret bodyguard, as her family specialises in intelligence gathering, monitoring, sabotage, other undercover work, etc. This means that Honda is basically a ninja. Undeterred by this revelation, Seishiro is willing to fight Hondo, to allow Chitoge and Raku to find Chika and talk some sense into her - good luck to all.
                     </div>
                 </div>
             </div>
