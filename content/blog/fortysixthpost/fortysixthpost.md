@@ -2,7 +2,6 @@
 title: Nisekoi Volume 21 - To Mari.
 description: Review of Nisekoi Volume 21.
 date: 2025-04-22
-draft: True
 tags:
   - manga review
   - Nisekoi
