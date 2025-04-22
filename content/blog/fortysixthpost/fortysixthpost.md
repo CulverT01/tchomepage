@@ -197,7 +197,10 @@ tags:
                     aria-labelledby="headingNine"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Yui 
+                    Marika finds Honda on the other side and asks what the noise was about. Honda refuses to give any details, so Marika is left to her (correct) assumptions that it was Raku and his friends.<br/>
+                    Meanwhile Chitoge is trying kick down the bars of her cell in the dungeon, while Seishiro contemplates what Honda told her and whether she should Chitoge about it.<br/>
+                    Also meanwhile, Raku has been dropped off in his cell and is mad about how Chika views her daughter. He soon discovers he is not alone, as Marika’s father is in the same cell. He had tried to talk to his wife about Marika’s upcoming marriage, but got less further than Raku (he at least spoke to her). Marika’s father believes that his wife acts like she does towards her daughter because she tried to live her own life (like going to a school of her own choosing), but her parents stopped her so she takes her frustrations out on her daughter under the disguise of tradition. Raku, who wishes to rebel against his own family’s tradition, doesn’t understand why such traditions need to be followed if they are just going to cause harm.<br/>
+                    The next morning, Mikage appears outside Raku’s cell jangling the keys to his cell as she had anticipated that Raku and the others would be captured. Marika’s father decides to stay behind, leaving Mikage and Raku to escape and meet up with Chitoge and Seishiro (if you’re wondering about the guards, Mikage knocked them out with some powerful meds).
                     </div>
                 </div>
             </div>
@@ -218,7 +221,9 @@ tags:
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     <br/>
-                    The bonus comic this volume is penultimate chapter in the world of Magical Confectioner Kosaki as while Dr Maiko's Anti-magic beam has no effect on the magical girls, he has the impenetrable magic barrier that only Rurin knows how to penetrate.
+                    Raku recounts his conversation with Chika to Chitoge, Seishiro, Mikage and Shu before explaining the plan on how stop the wedding - kidnapping Marika. Before he goes any further, he explains the risks associated with the plan (committing crimes) as well as where Marika would be stay - his place. Chitoge disagrees with the last part, so Raku compromises so Marika will stay with Chitoge instead (pray and hope the Beehive isn’t raided). Raku asks if Mikage is ok with the plan and she is: in fact she has 2 operatives stationed inside the house (Kosaki and Ruri of which only 1 knows what they’re doing). They go into more detail about the plan, which is to kidnap Marika as she is being escorted to the wedding venue from her dressing room just before the ceremony. This is the only time they can do this because security is on high alert (after 3 people tried some breaking and entering) and they won’t be able to access the dressing room nor wedding venue, but the corridor in the between them, that is the house’s exhaust port. As Raku and Chitoge set off to put the plan in motion, Seishiro asks Mikage if what Honda said to her is true and if she still is okay with it if the plan succeeds, to which the answer to both parts is yes.<br/>
+                    As Marika is being dressed for the wedding, one of her attendants asks if she wants to wear the marigold hair accessory, to which she does and Marika begins reminiscing about the time Raku gave her that hair accessory.<br/>
+                    The bonus comic this time is the final chapter for Magical Confectioner Kosaki which details life after defeating Dr Maiko, where a surprise visit from Rurin for Kosaki during her class at school.
                     </div>
                 </div>
             </div>
