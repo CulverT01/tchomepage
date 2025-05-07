@@ -1,5 +1,5 @@
 ---
-title: Nisekoi Volume 21 - To Mari.
+title: Nisekoi Volume 22 - Bull's Eye.
 description: Review of Nisekoi Volume 22.
 date: 2025-05-06
 tags:
