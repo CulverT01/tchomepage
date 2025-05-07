@@ -1,6 +1,6 @@
 ---
 title: Nisekoi Volume 21 - To Mari.
-description: Review of Nisekoi Volume 21.
+description: Review of Nisekoi Volume 22.
 date: 2025-05-06
 tags:
   - manga review
@@ -12,7 +12,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">Nisekoi Volume 21 - To Mari</h1>
+  <h1 class="col align-self-center">Nisekoi Volume 22 - Bull's Eye</h1>
   <div class="row justify-content-center">
     <div class="col-8">  
         <div class="accordion" id="accordionObject">
