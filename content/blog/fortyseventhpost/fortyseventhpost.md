@@ -2,7 +2,6 @@
 title: Nisekoi Volume 21 - To Mari.
 description: Review of Nisekoi Volume 21.
 date: 2025-05-06
-draft: true
 tags:
   - manga review
   - Nisekoi
@@ -175,7 +174,7 @@ tags:
                     aria-labelledby="headingEight"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Raku 
+                    Everyone says their goodbyes at the airport before Marika leaves for the USA, with everyone reacting as expected. Chitoge wants to visit a souvenir shop and drags everyone but Raku and Marika away to visit it. Now alone with the guy who rejected her, Marika asks if Raku is going to confess his feelings to his true love - Kosaki. Raku acknowledges he needs to do something about it soon, so Marika asks how he feels about Chitoge. Raku goes for the default answer that she just a friend, but Marika doesn't believe him. Raku is confused as he is sure that he is love with Kosaki, so Marika proposes her own theory that Raku in fact is in love with both of them - revolutionary I know. Marika sets him the task of working out which girl he loves and if he hasn't done that when she get back in 2 years, then he is fair game and she isn't going to hold back. She notices that Raku's hair is messy at the front and volunteers to fix it, which he graciously allows, so she kisses him on the forehead and then heads through the departure gate. There she meets Honda, who will accompany her in the USA. Honda explains that Marika's health was always her number 1 priority and she never envisioned what lengths Marika's friends would go for her. On the plane Marika asks what Honda's first name is and she reveals it to be Yoko, so Marika decides to call her that from now on.
                     </div>
                 </div>
             </div>
@@ -195,7 +194,8 @@ tags:
                     aria-labelledby="headingNine"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Marika 
+                    Raku is trying to get back into the rhythm of everyday life, but Marika's comments from last chapter keep on haunting him, making him tense around Chitoge. He consults with Shu about who he is in love with and Shu thinks similarly to Marika, but is willing to be wrong, also he believes that it is only fair to Marika if makes decision.<br/>
+                    On the way out of school, Raku encounters Kosaki and she offers to walk home with him. On this walk, Kosaki asks why Raku rejected Marika because her opinion, Marika is an attractive option for any guy. Kosaki assumes that it is because Raku is love with someone, which he denies, and his answer is simply that he didn't see Marika as a love interest. Kosaki really admires Marika for her courage and asks Raku to watch her as she tries to channel that.
                     </div>
                 </div>
             </div>
@@ -215,8 +215,8 @@ tags:
                     aria-labelledby="headingTen"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Raku 
-                    The bonus comic this time is the final chapter for Magical Confectioner Kosaki which details life after defeating Dr Maiko, where a surprise visit from Rurin for Kosaki during her class at school.
+                    Chitoge and Raku have a date today and Chitoge is determined to make sure Raku enjoys this date as he hasn't happy since Marika left. Raku, meanwhile is treating this date as a way to gauge his 'love' for Chitoge. Raku notices that Chitoge looks cuter than she normally does, but Chitoge hasn't done anything special. Chitoge is taking the reins for this date and she decided that what Raku wants is to ride roller coaster, so she has taken him to a theme park. They do 30 roller coasters in 2 hours, which exhausts Raku and Chitoge is disappointed with Raku lack of stamina. Chitoge takes Raku to a karaoke place, but forbids him from singing Japanese folk songs and to go for something more upbeat, while she chooses a hard rock song. After the karaoke plan backfires, she takes him to a batting cage, where Raku's lack of athleticism and concern for which parts of Chitoge's body put a damper on the entire event. Other places are visited, but all end in failure, so Raku calls Chitoge out for her bad date choices by calling her violent and rowdy. This triggers a violent and rowdy response from Chitoge, who tries to apologise but Raku is not in the mood for apologies. Chitoge leaves and Raku concludes that he may like Chitoge, the prospect of romance extremely unlikely. He begins to head home, but realises that there won't be any food for him at home (he had told the Shuei-Gumi that he wouldn't be needing dinner) so heads into a nearby ramen restaurant and meets Chitoge 5 bowls deep.<br/>
+                    The bonus comic this time is about Magical Chocolatier Haru who wants to help the magical girl trio, but is always late to fight.
                     </div>
                 </div>
             </div>
