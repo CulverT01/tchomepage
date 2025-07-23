@@ -1,6 +1,6 @@
 ---
 title: Nisekoi Volume 25 - False Love.
-description: Review of Nisekoi Volume 24.
+description: Review of Nisekoi Volume 25.
 date: 2025-06-10
 tags:
   - manga review
