@@ -1,7 +1,7 @@
 ---
-title: 2 Close to Call
-description: Eighth Update of Alternative Formula E Points Format project.
-date: 2025-08-12
+title: 3 Steps of the Podium
+description: Ninth Update of Alternative Formula E Points Format project.
+date: 2025-08-26
 tags:
   - alternative formula e points format project
   - procedural programming skills evidence
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">2 Close to Call</h1>
+  <h1 class="col align-self-center">3 Steps of the Podium</h1>
   <div class="row justify-content-center">
     <p class="col-8">
     This is my ninth update to my Alternative Formula E Points Format project. There no real changes to talk about (both programming and implementation-wise), but in real life there was a change to the bonus points for fastest lap which would now award 1 point as opposed to the 2 it had been previously. The eligibility for this point would change for next season, as no driver on the lead lap would score the bonus point for the fastest lap. This isn't true for the standings below, as the BTCC points system (then and now) only awards the fastest lap point to the driver with the fastest lap amongst those who finished, so for the Monaco ePrix and the final 6 races, someone else scores the bonus point for fastest lap instead of the driver who did in real life. For example, Sebastien Buemi scores the fastest lap in the 2nd Berlin Race (en-route to a victory in which he leads no laps), instead of the actual scorer: Maro Engel.<br/>
