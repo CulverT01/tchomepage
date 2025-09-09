@@ -1,7 +1,7 @@
 ---
 title: Eyes 4ward
 description: Ninth Update of Alternative Formula E Points Format project.
-date: 2025-08-26
+date: 2025-09-09
 tags:
   - alternative formula e points format project
   - procedural programming skills evidence
