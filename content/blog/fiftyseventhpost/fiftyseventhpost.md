@@ -1,7 +1,7 @@
 ---
-title: Top Ten
+title: 
 description: Tenth Update of Alternative Formula E Points Format project.
-date: 2025-09-23
+date: 2025-10-07
 tags:
   - alternative formula e points format project
   - procedural programming skills evidence
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">Top Ten</h1>
+  <h1 class="col align-self-center">Quick Six</h1>
   <div class="row justify-content-center">
     <p class="col-8">
     This is my eleventh update to my Alternative Formula E Points Format project. This season was the complete reverse of last season as it is dominated by 1 driver who sealed the title the earliest anyone has up to this point. Season 6 is noted for 2 other things: the 6 race finale in Berlin brought on by the Covid-19 Pandemic in 2020 which gave some teams excuses to drop underperforming drivers (Abt and Nio) and some drivers excuses to drop underperforming teams (Brendon Hartley and Pascal Wehrlein) and introducing a bonus point for setting the fastest lap during the group stage of qualifying, bringing the maximum points total to 30 (25 for the win, 1 for fastest lap of top 10 finishers, 3 for pole position, 1 for being the fastest in the group stage part of qualifying). Another thing note as well is that the winner of each of the last 4 races was 8th in the standings going into the race and moved up to 2nd in the standings after their win.<br />
