@@ -1,5 +1,5 @@
 ---
-title: 
+title: Quick Six
 description: Tenth Update of Alternative Formula E Points Format project.
 date: 2025-10-07
 tags:
