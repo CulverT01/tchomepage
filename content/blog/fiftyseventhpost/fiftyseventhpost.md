@@ -49,19 +49,20 @@ tags:
     DS Techeetah win their 2nd ever teams title both in real life and under the alternative format with points total of 244 and 225 respectively. 2nd place under both points format is Nissan e.dams who score 167 points in real life and 194 under the alternative format. This means Techeetah must wait until the final round to take the title, but it is never in doubt as they lead the teams' standings from their first win of the season. Techeetah are the only team this season to: score less points under the alternative format and have both their drivers in the top 10 in the driver standings at the end of the season. There is a slight change regarding finishing position between the 2 points formats as Audi Sport Abt Schaeffler Formula E Team finish 4th under the alternative format, moving Envision Virgin Racing and BMW i Andretti Motorsport down a place (5th and 6th respectively). While GEOX Dragon and Nio 333 FE Team have spent the last few seasons as backmarkers, this season takes the cake as the 2 teams have 1 top ten between them - a 9th place achieved by Brendon Hartley in the 2nd Diriyah ePrix after post-race penalties get applied, so didn't even see the chequered flag in the top 10 anyway.<br/>
     Below are the overall Teams' Championship standings:
     </p>
-    {% image "./afepf5_teams_p1-9.png", "Screenshot of the first 9 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
-    {% image "./afepf5_teams_p10-12.png", "Screenshot of the positions 10 to 12 of the Teams' Championship, outputted by afepf_viewer_program.py" %}
+    {% image "./afepf6_teams_p1-9.png", "Screenshot of the first 9 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
+    {% image "./afepf6_teams_p10-12.png", "Screenshot of the positions 10 to 12 of the Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Teams' Championship </h3>
     <p class="col-8">
     As their first season as a customer team, ROKiT Venturi Racing win the Customer Teams' Championship with a round to spare and a points total of 196. The deciding factor is simple: Venturi never had a race where it did not score points for this championship, Envision Virgin Racing has 2 (Diriyah ePrix 2 and Mexico City ePrix). The good news for Virgin is that they won more races than Venturi, 6 races compared to 5 races respectively, so can take some solace in that.<br/>
     Below are the Customer Teams' Championship standings:
     </p>
-    {% image "./afepf5_customer_teams_p1-2.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}
+    {% image "./afepf6_customer_teams_p1-2.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Manufacturers' Cup</h3>
     <p class="col-8">
     After coming up agonisingly short the last 2 seasons to Audi, DS Automobiles finally win that elusive Manufacturers' Cup with points total of 241 over Nissan in 2nd who finish with 212 points. DS Automobiles would also finally win the Manufacturers' Cup with 227 points if it had been run in Season 6, but unlike the teams' and drivers' it must wait until the final round. Audi would finish 2nd with 215 points and are the only team to score less points under the alternative format as their 2 teams (Abt and Virgin) can achieve top 10 results quite easily and consistently. The differences between the 2 final standings are that Audi swap places with Nissan to finish 4th under the alternative format and Jaguar beat out Porsche for 6th under the alternative format, but lose out in hypothetical real life.<br/>
     Below are the Manufacturers' Cup standings:
     </p>
-    {% image "./afepf5_manufacturers_p1-9.png", "Screenshot of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
+    {% image "./afepf6_manufacturers_p1-6.png", "Screenshot of the first 6 positions of theManufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
+    {% image "./afepf6_manufacturers_p7-10.png", "Screenshot of positions 7 to 10 of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
   </div>
 </div>
