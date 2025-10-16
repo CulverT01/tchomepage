@@ -1,7 +1,7 @@
 ---
-title: Top Ten
-description: Tenth Update of Alternative Formula E Points Format project.
-date: 2025-09-23
+title: Quick Six
+description: Eleventh Update of Alternative Formula E Points Format project.
+date: 2025-10-07
 tags:
   - alternative formula e points format project
   - procedural programming skills evidence
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">Top Ten</h1>
+  <h1 class="col align-self-center">Quick Six</h1>
   <div class="row justify-content-center">
     <p class="col-8">
     This is my tenth update to my Alternative Formula E Points Format project. There are some changes to the code of the afepf_functions.py file which improve the user experience from an admin point of view. The results of Formula E's Season 5 have been inputted and this season was highly competitive as we had the most drivers so far eligible to take the title at 3 (technically 4, but one is mathematically eliminated after qualifying) and at one point, the entire top 10 in the standings were within 20 points. Things are only going to get closer from here on out.<br />
