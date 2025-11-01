@@ -105,19 +105,19 @@ tags:
                 </div>
             </div>
             <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFour">
+            <h2 class="accordion-header" id="headingFive">
                 <button class="accordion-button collapsed" 
                 type="button" 
                 data-bs-toggle="collapse" 
-                data-bs-target="#collapseFour" 
+                data-bs-target="#collapseFive" 
                 aria-expanded="false" 
-                aria-controls="collapseFour">
-                Magic 8: Th Phantom Witch
+                aria-controls="collapseFive">
+                Magic 8: The Phantom Witch
                 </button>
                 </h2>
-                <div id="collapseFour" 
+                <div id="collapseFive" 
                     class="accordion-collapse collapse" 
-                    aria-labelledby="headingFour"
+                    aria-labelledby="headingFive"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     Tonight is Walpurgis Night, a Witches' event that used to be for warding off evil spirits of winter and to welcome in spring but now is more of a celebration. The academy celebrates this night by way of reflection on how far each person has grown regarding their abilities as a witch. This is done by having every one dress up in special robes, gather in a courtyard, raise a glass filled with water to the moon where, with a little bit of magic, memories from the past year will appear in your glass. Maruna is struggling to get any memories to play, despite Haruka's assistance, so Miyu suggests sticking an item the glass to help. Maruna runs off to get an item and Haruka follows, only for Maruna to be grabbed another student - the same one which disappeared like ghost in the communal bath and the same one which saved the pair when Haruka fell of the broom. They deduce that she is the prodigy witch that everyone has been talking about and she introduces herself as Oboro Kurokami. Time is of the essence for Oboro, so she briefly explains that there is a room that only appears on Walpurgis Night and that room used to be her mother's lab, who disappeared along with her lab on a Walpurgis Night 10 years ago. The academy considers the matter settled, but it isn't for Oboro, so she intends to find out the truth and Maruna is willing to help her. Haruka is less willing, but Oboro silences his objections by patting down his chest and saying "fake boobs", which briefly panics Haruka into believing that she knows the truth before remembering that it is public knowledge that he pads his bra.<br/>
