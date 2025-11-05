@@ -34,7 +34,7 @@ tags:
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     This is my review of Volume 3 of If Witch Then Which?, the final volume of this series. This volume contains 2 bonus comics which are found on the inside of both the front and back cover of the book and I will review them here as well as all future series that have bonus comics in this section (Laid-Back Camp is notorious for this).<br/>
-                    The one at the front is about Haruka wanting to keep his head cool whilst wearing the wig and thinks about going bald, butMaruna disagrees (which he agrees to), so she suggests tying the wig back to allow the neck to breathe. The one at the back continues on, with Haruka trying out different hairstyles, all of which don't suit him, so he decides to suffer through the heat instead. 
+                    The one at the front is about Haruka wanting to keep his head cool whilst wearing the wig and thinks about going bald, but Maruna disagrees (which he agrees to), so she suggests tying the wig back to allow the neck to breathe. The one at the back continues on, with Haruka trying out different hairstyles, all of which don't suit him, so he decides to suffer through the heat instead. 
                     </div>
                 </div>
             </div>
