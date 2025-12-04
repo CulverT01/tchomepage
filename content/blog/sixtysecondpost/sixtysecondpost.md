@@ -1,6 +1,6 @@
 ---
 title: After Eight
-description:Twelfth Update of Alternative Formula E Points Format project.
+description: Twelfth Update of Alternative Formula E Points Format project.
 date: 2025-11-25
 tags:
   - alternative formula e points format project
