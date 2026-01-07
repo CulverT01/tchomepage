@@ -197,7 +197,7 @@ tags:
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     Marika finds Honda on the other side and asks what the noise was about. Honda refuses to give any details, so Marika is left to her (correct) assumptions that it was Raku and his friends.<br/>
-                    Meanwhile Chitoge is trying kick down the bars of her cell in the dungeon, while Seishiro contemplates what Honda told her and whether she should Chitoge about it.<br/>
+                    Meanwhile Chitoge is trying kick down the bars of her cell in the dungeon, while Seishiro contemplates what Honda told her and whether she should tell Chitoge about it.<br/>
                     Also meanwhile, Raku has been dropped off in his cell and is mad about how Chika views her daughter. He soon discovers he is not alone, as Marika’s father is in the same cell. He had tried to talk to his wife about Marika’s upcoming marriage, but got less further than Raku (he at least spoke to her). Marika’s father believes that his wife acts like she does towards her daughter because she tried to live her own life (like going to a school of her own choosing), but her parents stopped her so she takes her frustrations out on her daughter under the disguise of tradition. Raku, who wishes to rebel against his own family’s tradition, doesn’t understand why such traditions need to be followed if they are just going to cause harm.<br/>
                     The next morning, Mikage appears outside Raku’s cell jangling the keys to his cell as she had anticipated that Raku and the others would be captured. Marika’s father decides to stay behind, leaving Mikage and Raku to escape and meet up with Chitoge and Seishiro (if you’re wondering about the guards, Mikage knocked them out with some powerful meds).
                     </div>
@@ -227,7 +227,7 @@ tags:
             </div>
         </div>
     </div>
-        {% image "./nisekoi_21.jpg", "Cover of volume 21 of Nisekoi" %}
+    <p><img src="./nisekoi_21.jpg" alt="Cover of volume 21 of Nisekoi"></p>
     </div>
   </div>
 </div>

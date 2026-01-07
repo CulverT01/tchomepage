@@ -228,7 +228,7 @@ tags:
             </div>
         </div>
     </div>
-        {% image "./nisekoi_4.jpg", "Cover of volume 4 of Nisekoi" %}
+        <p><img src="nisekoi_4.jpg" alt="Cover of volume 4 of Nisekoi"></p>
     </div>
   </div>
 </div>

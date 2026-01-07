@@ -150,7 +150,7 @@ tags:
             </div>
         </div>
     </div>
-        {% image "./iwtw_3.jpg", "Cover of volume 3 of If Witch Then Which" %}
+       <p><img src="iwtw_3.jpg" alt="Cover of volume 3 of If Witch Then Which"></p>
     </div>
   </div>
 </div>

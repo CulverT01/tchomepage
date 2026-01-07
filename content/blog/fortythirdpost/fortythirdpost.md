@@ -184,7 +184,7 @@ tags:
             </div>
         </div>
     </div>
-        {% image "./tdiad_1.JPG", "Cover of volume 1 of The Detective is Already Dead" %}
+    <p><img src="tdiad_1.JPG" alt="Cover of volume 1 of The Detective is Already Dead"></p>
     </div>
   </div>
 </div>

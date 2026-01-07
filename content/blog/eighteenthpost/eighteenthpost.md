@@ -26,10 +26,10 @@ tags:
     The reasons for the class' creation is in the Changes and Clarifications, while KeyFunction class and SupportCardSerIs class are shown below.
     </p>
     <p>
-    <img src="keyfunction_1.png"  alt="Screenshot of the shuffle deck behaviour method and the first part of the display front line method of the key function class">
-    <img src="keyfunction_2.png" alt="Screenshot of the second part of the display front line method and the first part of the display wasteland method of the key function class">
-    <img src="keyfunction_3.png", alt="Screenshot of the second part of the display wasteland method and the first part of the display deck method of the key function class">
-    <img src="keyfunction_4.png", alt="Screenshot of the second part of the display deck method of the key function class">
+    <img src="keyfunction_1.png"  alt="Screenshot of the shuffle deck behaviour method and the first part of the display front line method of the key function class"><br/>
+    <img src="keyfunction_2.png" alt="Screenshot of the second part of the display front line method and the first part of the display wasteland method of the key function class"><br/>
+    <img src="keyfunction_3.png", alt="Screenshot of the second part of the display wasteland method and the first part of the display deck method of the key function class"><br/>
+    <img src="keyfunction_4.png", alt="Screenshot of the second part of the display deck method of the key function class"><br/>
     <img src="supportcardseris.png", alt="Screenshot of the effect behaviour method of the support card ser is class">
     </p>
   </div>
