@@ -62,5 +62,5 @@ eleventyNavigation:
   </div>
   <h2 class="col align-self-center">Picture</h2>
   <div class="row justify-content-center">
-    {% image "./profile photo 25 percent.jpg", "A headshot of Toby Culverwell, author of this website" %}
+  <p><img src="profile photo 25 percent.jpg" alt="A head shot of Toby Culverwell, author of this website"></p>
   </div>
