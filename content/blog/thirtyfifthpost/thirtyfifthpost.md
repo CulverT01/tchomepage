@@ -25,45 +25,45 @@ tags:
     Under the Formula E's current point format, Pascal Wehrlein wins the title with 198 points; 6 points more than Mitch Evans who finishes 2nd with 192 points. My alternate format also has Pascal winning the title from Mitch, but with more points and a smaller gap back to Mitch in 2nd as Pascal has 202 points, while Mitch has 200. The difference between the 2 comes down to finishes as both have the same amount of bonus points, as Pascal has 3 pole positions and led a lap in 10 races, while Mitch also 3 pole positions and has a fastest lap but only led a lap in 9 races.<br/>
     Every driver bar 1 score more points under my format than under the current format, with the biggest gainer, in terms of points being Stoffel Vandoorne, scoring 48 more points under the alternate format than he did with the current format. The driver who didn't beat their points total under my alternate format is Caio Collet, as his 2 finishes in Portland are outside the top 15 and he fails to score any bonus points, so he matches his total from under the current format. <br/>
     The driver who gained the most positions compared to their final standings under the current format is Lucas Di Grassi who gains 5 places to finish 18th under my alternate format with 47 points, as compared to 23rd with 4 points which is where he finishes under the current points format. The driver who loses the most positions compared to where they finished under Formula E's current format is Sam Bird, who falls from a 13th position in the standings with 48 points, to a 16th position in the standings with 61 points under my alternate format. <br/>
-    Below are the overall Drivers' Championship standings:
+    Below are the overall Drivers' Championship standings:<br/>
+    <img src="afepf_drivers_p1-10.png" alt="Screenshot of the first 10 positions of the Drivers' Championship, outputted by afepf_viewer_program.py"><br/>
+    <img src="afepf_drivers_p11-20.png" alt="Screenshot of the positions 11 to 20 of the Drivers' Championship, outputted by afepf_viewer_program.py"><br/>
+    <img src="afepf_drivers_p21-28.png" alt="Screenshot of the positions 21 to 28 of the Drivers' Championship, outputted by afepf_viewer_program.py">
     </p>
-    {% image "./afepf_drivers_p1-10.png", "Screenshot of the first 10 positions of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
-    {% image "./afepf_drivers_p11-20.png", "Screenshot of the positions 11 to 20 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
-    {% image "./afepf_drivers_p21-28.png", "Screenshot of the positions 21 to 28 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Trophy for Drivers</h3>
     <p class="col-8">
     Jake Dennis handily wins this championship, sealing it with a round to spare and leads the championship from round 2, the first of the 2 Diriyah ePrixs. His teammate Norman Nato finishes 2nd, despite only winning the class once, in Monaco, he was always classified at the end of an ePrix, so always scored points. As there can only be 8 competitors in this class, finishing and scoring points is crucial, so Norman can finish ahead of Sebastien Buemi and Robin Frijns in the Customer Trophy, despite scoring less points in overall Drivers' Championship. Another example is Sam Bird, who finishes 8th, so far off everyone else, because he failed score points 9 times, which are: 3 missed races due to injury, 5 retirements and 1 non-classified finish.<br/>
-    Below are the Customer Trophy for Drivers standings:
-    </p>
-    {% image "./afepf_customer_drivers_p1-10.png", "Screenshot of the first 10 positions of the Customer Trophy for Drivers, outputted by afepf_viewer_program.py" %}
-    {% image "./afepf_customer_drivers_p11-12.png", "Screenshot of positions 11 and 12 of the Customer Trophy for Drivers, outputted by afepf_viewer_program.py" %}
+    Below are the Customer Trophy for Drivers standings:<br/>
+    <img src="afepf_customer_drivers_p1-10.png" alt="Screenshot of the first 10 positions of the Customer Trophy for Drivers, outputted by afepf_viewer_program.py"><br/>
+    <img src="afepf_customer_drivers_p11-12.png" alt="Screenshot of positions 11 and 12 of the Customer Trophy for Drivers, outputted by afepf_viewer_program.py">
+    </p> 
     <h3 class="row">Nelson Piquet Jr Trophy</h3>
     <p class="col-8">
     Sacha Fenestraz wins this championship with a round to go, thanks to strong results and a lack of non-scores with only Dan Ticktum has less non-scores than Sacha. A driver you would have expected to be winning this based on their overall points total would be Jake Hughes, however he has the joint worst non-score record in the class. This combined with some poor results means he falls to 3rd in the championship despite looking to be in a comfortable 1st or 2nd for most of the season.<br/>
     If we were to account for running this championship in earlier seasons, then we would have to remove Dan Ticktum from this championship as he would be the season 9 Nelson Piquet Jr Trophy champion. The top three don't change and everyone below Dan in the standings (bar Caio Collet, Jordan King, Kelvin van der Linde and Paul Aron) move up a place in the standings, with Caio moving up 2 to 6th, Jordan moving up 2 to 8th and Paul staying in 9th. Only Paul and Kelvin don't gain any points from Dan's exclusion as they always finished ahead of him.<br/>
-    Below are the Nelson Piquet Jr Trophy standings:
-    </p>
-    {% image "./afepf_npjt_drivers_p1-10.png", "Screenshot of the first 10 positions of the Nelson Piquet Jr Trophy, outputted by afepf_viewer_program.py" %}
-    {% image "./afepf_npjt_drivers_p11.png", "Screenshot of position 11 of the Nelson Piquet Jr Trophy, outputted by afepf_viewer_program.py" %}
+    Below are the Nelson Piquet Jr Trophy standings:<br/>
+    <img src="afepf_npjt_drivers_p1-10.png" alt="Screenshot of the first 10 positions of the Nelson Piquet Jr Trophy, outputted by afepf_viewer_program.py"><br/>
+    <img src="afepf_npjt_drivers_p11.png" alt="Screenshot of position 11 of the Nelson Piquet Jr Trophy, outputted by afepf_viewer_program.py">
+    </p> 
     <h3 class="row">Overall Teams' Championship</h3>
     <p class="col-8">
     Jaguar wins this championship with 343 points from Porsche who have 316 points. 9 of the 11 teams score more points under my alternate format compared to what they score under the current points format. The 2 which don't are Jaguar and Porsche, who combined win 12 of 16 ePrixs and miss out on the bigger points totals for higher finishing positions as well as all the bonus points for pole position and fastest lap that teams cannot score under my alternate format. There is a change of position in the final standings under my alternate points format compared to the current format as Maserati and ABT switch positions courtesy of ABT's drivers' consistent finishes and Max Guenther's unreliability in the last few ePrixs and Jehan Daruvala's poor performance throughout the season - he scores points 4 times.<br/>
-    Below are the overall Teams' Championship standings:
+    Below are the overall Teams' Championship standings:<br/>
+    <img src="afepf_teams_p1-6.png" alt="Screenshot of the first 6 positions of the Teams' Championship, outputted by afepf_viewer_program.py"><br/>
+    <img src="afepf_teams_p7-11.png" alt="Screenshot of the positions 7 to 11 of the Teams' Championship, outputted by afepf_viewer_program.py">
     </p>
-    {% image "./afepf_teams_p1-6.png", "Screenshot of the first 6 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
-    {% image "./afepf_teams_p7-11.png", "Screenshot of the positions 7 to 11 of the Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Teams' Championship </h3>
     <p class="col-8">
     Like with the other BTCC exclusive championships, this one is also sealed a round early and this time it is won by Andretti. The point totals here are lot less compared to both the Overall Teams' championship as only the highest finisher in the class can score points for the team. In the BTCC this makes sense, as often there can be Independent teams that only field 1 car (such as Unlimited Motorsport in 2024), so are given a fighting chance against the multi-car operations and I had considered ignoring this as there is always 2 entries from a Customer team, so no-one is at a disadvantage, but kept as-is I wanted to keep the alterations I made to be limited to only the highest placed finishing cars for a manufacturer will score points for them; as normally in the BTCC, manufacturers/constructors must nominate 2 cars before a race to score points for them in that race. Like their drivers, McLaren's poor end-of-season form results them finishing 4th, despite outscoring ABT in the overall Teams' Championship.<br/>
-    Below are the Customer Teams' Championship standings:
-    </p>
-    {% image "./afepf_customer_teams_p1-4.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}
+    Below are the Customer Teams' Championship standings:<br/>
+    <img src="afepf_customer_teams_p1-4.png" alt="Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py">
+    </p> 
     <h3 class="row">Manufacturers' Cup</h3>
     <p class="col-8">
     Jaguar wins the cup with 415 points from Stellantis, who has 390 points, while Jaguar and Porsche are the only ones who fail to outscore their real life total. In their defence, the championship in real life awards points based the top 2 overall finishing positions for a manufacturer (customer entrants are included, so Porsche get to claim the points from Jake Dennis' win in Diriyah), whereas in the BTCC it is similar to Customer Teams' Championship, in that they score points based on where they finished respective to their fellow manufacturer competitors. Also customer teams can't score points for their manufacturers, so using the example given earlier, Jake Dennis' win would not contribute to Porsche's manufacturer's points. Mahindra and Electric Racing Technologies switch places for a similar reason to what happened to McLaren in the Customer Teams' Championship: poor reliability costs them in championships that require consistency to those who finish behind them in the overall Teams' Championship.<br/>
-    Below are the Manufacturers' Cup standings:
+    Below are the Manufacturers' Cup standings:<br/>
+    <img src="afepf_manufacturers_p1-6.png" alt="Screenshot of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py">
     </p>
-    {% image "./afepf_manufacturers_p1-6.png", "Screenshot of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>

@@ -22,16 +22,16 @@ tags:
     <h2 class="row">Updates</h2>
     <p class="col-8"> 
     The viewer and admin programs have new function called finish that asks a user if they're finished what they're doing and returns a boolean True value if yes, otherwise returns a boolean False value. For example for the viewer program, the 2 options available to users are now in while loops, along with one that surround both options, which ends if a boolean variable no longer not True. This also applies to the admin program, but with more while loops and variables due it having more options available to the user.<br/>
-    Below is the afepf viewer program which evidences these changes.
+    Below is the afepf viewer program which evidences these changes.<br/>
+   <img src="afepf_viewer_finish.png" alt="Screenshot of the function finish in afepf_viewer_program.py that takes a users input, to check if they are finished with either viewing a single competitor's details or the current standings for a championship, a Formula E season"><br/>
+   <img src="afepf_viewer_program_new1.png" alt="Screenshot of the first part of afepf_viewer_program.py that evidences the use of while loops to allow easy switching between options the user can do with the program"><br/>
+   <img src="afepf_viewer_program_new2.png" alt="Screenshot of the second part of afepf_viewer_program.py that evidences the use of while loops to allow easy switching between options the user can do with the program">
     </p>
-    {% image "./afepf_viewer_finish.png", "Screenshot of the function finish in afepf_viewer_program.py that takes a users input, to check if they are finished with either viewing a single competitor's details or the current standings for a championship, a Formula E season" %}
-    {% image "./afepf_viewer_program_new1.png", "Screenshot of the first part of afepf_viewer_program.py that evidences the use of while loops to allow easy switching between options the user can do with the program" %}
-     {% image "./afepf_viewer_program_new2.png", "Screenshot of the second part of afepf_viewer_program.py that evidences the use of while loops to allow easy switching between options the user can do with the program" %}
     <p class="col-8">
     The afepf_function program has 2 new functions that check if a driver/team is eligible for a secondary championship (Customer Driver/Team, Nelson Piquet Jr Trophy Driver) and these are the checkDriver and checkTeam respectively. The former takes 2 arguments when called (init and either 'customer' or 'npjt') and performing a search query that outputs either all driver initials for documents whose customer driver points or npjt driver points are more than equal to 0 as well as sorting in ascending order according to those points totals and stores each item in the cursor in a list. The program checks if the value that the init argument stores is in the list and if so, then it returns True otherwise it returns False. The latter function operates the same except it only takes 1 argument (init) and searches the Team collection instead of the Driver collection. The functions are called where the user is asked if the competitor they are entering the results for is a customer driver/team or npjt driver with the if statement below checking i the are equal to True instead of 'yes'.<br/>
-    The 2 functions are displayed below.
+    The 2 functions are displayed below.<br/>
+    <img src="afepf_function_checkDriver_checkTeam.png" alt="Screenshot of the functions check driver and check team in afepf_functions.py that searches the driver or team collection for all initials of drivers/teams that have more than or equal to 0 customer/npjt points, stores the results in a list and checks if a passed argument is in that list and if so, returns a boolean True value else it returns a boolean False value">
     </p>
-     {% image "./afepf_function_checkDriver_checkTeam.png", "Screenshot of the functions check driver and check team in afepf_functions.py that searches the driver or team collection for all initials of drivers/teams that have more than or equal to 0 customer/npjt points, stores the results in a list and checks if a passed argument is in that list and if so, returns a boolean True value else it returns a boolean False value" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>

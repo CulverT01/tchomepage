@@ -21,18 +21,18 @@ tags:
     <h2 class="row">Updates</h2>
     <p class="col-8"> 
     I'll first explain App's new methods then KeyFunctions. The planStage method runs a while loop that will continuously call Player class's playCardsFromHand method until either the player is finished or has no more cards in their hand. The battleStage method runs a for loop that will call CreatureCard's creatureAttack method, if the player wants that creature to attack, until either the player is finished or each creature on their frontline has had a chance to attack. OpeningHandDraw draws the the 4 initial 4 cards needed to start to game as well as following the correct mulligan procedures outlined in the Game Rules section of the design document. the playGame method puts all this together, along with code for the draw stage and end stage.
-    <br />The planStage method and OpeningHandDraw methods are shown below.
+    <br />The planStage method and OpeningHandDraw methods are shown below.<br/>
+    <img src="app_1.png" alt="Screenshot of the plan stage method of the app class"><br/>
+    <img src="app_2.png" alt="Screenshot of the first part of the opening hand draw method of the app class"><br/>
+    <img src="app_3.png" alt="Screenshot of the second part of the opening hand draw method of the app class"><br/>
+    <img src="app_4.png" alt="Screenshot of the third part of the opening hand draw method of the app class">
     </p>
-    {% image "./app_1.png", "Screenshot of the plan stage method of the app class" %}
-    {% image "./app_2.png", "Screenshot of the first part of the opening hand draw method of the app class" %}
-    {% image "./app_3.png", "Screenshot of the second part of the opening hand draw method of the app class" %}
-    {% image "./app_4.png", "Screenshot of the third part of the opening hand draw method of the app class" %}
     <p class="col-8">
     KeyFunctions new methods do exactly what they say: displayHand method displays a player's hand, displayField method displays a player's frontline and wasteland, drawFourCards method runs a for loop that calls the player's draw function by looping 4 times, and shuffleFourCards method returns the four cards in a player's hand to the deck and then shuffles their deck.<br />
-    The displayField method and shuffleFourCards methods are shown below.
+    The displayField method and shuffleFourCards methods are shown below.<br/>
+    <img src="keyfunction_7.png" alt="Screenshot of the display field method method of the key function class"><br/>
+    <img src="keyfunction_8.png" alt="Screenshot of the shuffle four cards method of the key function class">
     </p>
-    {% image "./keyfunction_7.png", "Screenshot of the display field method method of the key function class" %}
-    {% image "./keyfunction_8.png", "Screenshot of the shuffle four cards method of the key function class" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>

@@ -71,10 +71,10 @@ tags:
     </p>
     <h2 class="row">Data Dictionary, E-R Diagram and Use-Case example</h2>
     <p class="col-8">
-    Below are examples of: a data dictionary, a E-R diagram and a Use-Case scenario, which should illustrate further how the program would work.
-    </p>
-    {% image "./data_dictionary.jpg", "Screenshot of a Data Dictionary showing the initial entities of the database: Drivers, Teams, and Manufacturers" %}
-    {% image "./er_diagram.png", "Screenshot of the E-R Diagram detailing the relationships between the various entities of the database" %}
-    {% image "./use_case_scenario.jpg", "Screenshot of a Use-Case Scenario detailing how viewing a Teams championship would work" %}
+    Below are examples of: a data dictionary, a E-R diagram and a Use-Case scenario, which should illustrate further how the program would work.<br/>
+    <img src="data_dictionary.jpg" alt="Screenshot of a Data Dictionary showing the initial entities of the database: Drivers, Teams, and Manufacturers"><br/>
+    <img src="er_diagram.png" alt="Screenshot of the E-R Diagram detailing the relationships between the various entities of the database"><br/>
+    <img src="use_case_scenario.jpg" alt="Screenshot of a Use-Case Scenario detailing how viewing a Teams championship would work">
+    </p> 
   </div>
 </div>

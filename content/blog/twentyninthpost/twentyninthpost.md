@@ -21,15 +21,15 @@ tags:
   <div class="row justify-content-center">
     <h2 class="row">Updates</h2>
     <p class="col-8"> 
-    The tables (which MongoDB refers to as collections will be for the rest of this post and future ones) for Drivers, Teams, and Manufacturers have been created and populated with records (which MongoDB refers to as documents will be for the rest of this post and future ones).<br />The Manufacturers Collection in shown below as it appears in MongoDB Atlas (the cloud service in which the database is stored in). 
+    The tables (which MongoDB refers to as collections will be for the rest of this post and future ones) for Drivers, Teams, and Manufacturers have been created and populated with records (which MongoDB refers to as documents will be for the rest of this post and future ones).<br />The Manufacturers Collection in shown below as it appears in MongoDB Atlas (the cloud service in which the database is stored in).<br/>
+    <img src="manufacturers_collection_atlas_1.png" alt="Screenshot of Mongo DB Atlas website displaying first 3 documents of the Manufacturers collection"><br/>
+    <img src="manufacturers_collection_atlas_2.png" alt="Screenshot of Mongo DB Atlas website displaying last 3 documents of the Manufacturers collection">
     </p>
-    {% image "./manufacturers_collection_atlas_1.png", "Screenshot of Mongo DB Atlas website displaying first 3 documents of the Manufacturers collection" %}
-    {% image "./manufacturers_collection_atlas_2.png", "Screenshot of Mongo DB Atlas website displaying last 3 documents of the Manufacturers collection" %}
     <p class="col-8">
     The collection and documents were created using the afepf_admin_program Python file, which will be updated to allow other CRUD methods to be implemented. The 'add' option requires users to enter details regarding a either a team, or a driver or a manufacturer and those details are stored into a dictionary that is then inserted into the appropriate collection as document, as a JSON document and a Python dictionary are same in appearance. The program loops, providing the user has more drivers, or teams, or manufacturers they wish to enter and ends if they don't.<br />
-    Below is the code from afepf_admin_program.py which allows teams to be added to the Teams collection.
+    Below is the code from afepf_admin_program.py which allows teams to be added to the Teams collection.<br/>
+    <img src="afepf_admin_add_teams.png" alt="Screenshot of the code in afepf_admin_program.py that takes users input, stores it in a dictionary and inserts it into the Teams collection in the Mongo DB Atlas server">
     </p>
-    {% image "./afepf_admin_add_teams.png", "Screenshot of the code in afepf_admin_program.py that takes users input, stores it in a dictionary and inserts it into the Teams collection in the Mongo DB Atlas server" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>

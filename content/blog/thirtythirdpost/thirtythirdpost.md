@@ -21,20 +21,21 @@ tags:
   <div class="row justify-content-center">
     <h2 class="row">Updates</h2>
     <p class="col-8"> 
-    The readDriver, readTeam, and readManufacturer functions allow the user to select a document to view and will show all the fields stored in that document.<br/>The readManufacturer function is displayed below as an example. 
+    The readDriver, readTeam, and readManufacturer functions allow the user to select a document to view and will show all the fields stored in that document.<br/>
+    The readManufacturer function is displayed below as an example.<br/> 
+    <img src="afepf_function_read_manufacturer.png" alt="Screenshot of the function read manufacturer in afepf_functions.py that takes a users input, to output all the fields for a document stored in the Manufacturer collection in the Mongo DB Atlas server, whose manufacturer initial matches the users input">
     </p>
-    {% image "./afepf_function_read_manufacturer.png", "Screenshot of the function read manufacturer in afepf_functions.py that takes a users input, to output all the fields for a document stored in the Manufacturer collection in the Mongo DB Atlas server, whose manufacturer initial matches the users input" %}
     <p class="col-8">
     The readDriverResult, readTeamResult, and readManufacturerResult functions allow the user view the current standings of one of the 6 championships (Drivers' Championship, Customer Trophy for Drivers, Nelson Piquet Jr Trophy, Teams' Championship, Customer Teams' Championship, Manufacturers' Cup). The program only displays the competitors in a selected championship's: name, current points total, their current position in the championship, and their current finishes in the championship. For Manufacturers the finishes will be from the 2 highest finishing cars that use the manufacturer's powertrains.<br/>
-    The readDriverResult is displayed below as an example as well as the viewer program.
+    The readDriverResult is displayed below as an example as well as the viewer program.<br/>
+    <img src="afepf_function_read_driver_result.png" alt="Screenshot of the first part of the function read_driver_result in afepf_functions.py that takes an users input, to output the name, points, championship position and finishes in the class that championship is for, for all documents that are stored in the Drivers collection in the Mongo DB Atlas server that have scored at least 0 points in that championship"><br/>
+    <img src="afepf_viewer_program1.png" alt="Screenshot of the first part of the afepf_viewer_program.py that allows users to run the read functions stored in afepf_functions.py"><br/>
+    <img src="afepf_viewer_program2.png" alt="Screenshot of the second part of the afepf_viewer_program.py that allows users to run the read functions stored in afepf_functions.py">
     </p>
-     {% image "./afepf_function_read_driver_result.png", "Screenshot of the first part of the function read_driver_result in afepf_functions.py that takes an users input, to output the name, points, championship position and finishes in the class that championship is for, for all documents that are stored in the Drivers collection in the Mongo DB Atlas server that have scored at least 0 points in that championship" %}
-    {% image "./afepf_viewer_program1.png", "Screenshot of the first part of the afepf_viewer_program.py that allows users to run the read functions stored in afepf_functions.py" %}
-    {% image "./afepf_viewer_program2.png", "Screenshot of the second part of the afepf_viewer_program.py that allows users to run the read functions stored in afepf_functions.py" %}
-     <p class="col-8">
-      The deleteDriver, deleteTeam, and deleteManufacturer functions allow the user to select a document to delete and that document, with the filter being based of the ObjectId of the document which the user will have input themself.<br/>The deleteTeam function is displayed below as an example.
-     </p>
-     {% image "./afepf_function_delete_team.png", "Screenshot of the function delete_team in afepf_functions.py that takes an users input, to delete a document in the Teams collection in the Mongo DB Atlas server, whose Object Id matches the users input" %}
+    <p class="col-8">
+    The deleteDriver, deleteTeam, and deleteManufacturer functions allow the user to select a document to delete and that document, with the filter being based of the ObjectId of the document which the user will have input themself.<br/>The deleteTeam function is displayed below as an example.<br/>
+    <img src="afepf_function_delete_team.png" alt="Screenshot of the function delete_team in afepf_functions.py that takes an users input, to delete a document in the Teams collection in the Mongo DB Atlas server, whose Object Id matches the users input">
+    </p>
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>

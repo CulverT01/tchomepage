@@ -21,15 +21,15 @@ tags:
   <div class="row justify-content-center">
     <h2 class="row">Updates</h2>
     <p class="col-8"> 
-    The updateDriver, updateTeam, and updateManufacturer functions allow the user to select a field and a document to update and will stop when the user wishes to no longer update to a collection.<br/>The updateDriver function is displayed below as an example. 
+    The updateDriver, updateTeam, and updateManufacturer functions allow the user to select a field and a document to update and will stop when the user wishes to no longer update to a collection.<br/>The updateDriver function is displayed below as an example.<br/>
+   <img src="afepf_function_update_driver_1.png" alt="Screenshot of the first part of the function update driver in afepf_functions.py that takes users input, to update a field in a document that is stored in the Drivers collection in the Mongo DB Atlas server"><br/>
+   <img src="afepf_function_update_driver_2.png" alt="Screenshot of the second part of the function update driver in afepf_functions.py that takes users input, to update a field in a document that is stored in the Drivers collection in the Mongo DB Atlas server">
     </p>
-    {% image "./afepf_function_update_driver_1.png", "Screenshot of the first part of the function update driver in afepf_functions.py that takes users input, to update a field in a document that is stored in the Drivers collection in the Mongo DB Atlas server" %}
-    {% image "./afepf_function_update_driver_2.png", "Screenshot of the second part of the function update driver in afepf_functions.py that takes users input, to update a field in a document that is stored in the Drivers collection in the Mongo DB Atlas server" %}
     <p class="col-8">
     The updateDriverResult, updateTeamResult, and updateManufacturerResult functions allow the user update the points and championship position a driver or team or manufacturer is entered in. The program uses a for loop to go through every competitor and adds the points they have earned in a championship, before using a while loop to allow the user to update the competitor's championship position as well.<br/>
-    The updateTeamResult is displayed below as an example.
+    The updateTeamResult is displayed below as an example.<br/>
+   <img src="afepf_function_update_team_result.png" alt="Screenshot of the first part of the function update team result in afepf_functions.py that takes users input, to update the team points, team championship position, customer team points, and the customer team position in the Teams collection in the Mongo DB Atlas server">
     </p>
-    {% image "./afepf_function_update_team_result.png", "Screenshot of the first part of the function update team result in afepf_functions.py that takes users input, to update the team points, team championship position, customer team points, and the customer team position in the Teams collection in the Mongo DB Atlas server" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>
