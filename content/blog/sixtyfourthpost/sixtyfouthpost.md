@@ -43,32 +43,33 @@ tags:
     <p class="col-8">
     The class is won by overall race winner Jake Dennis with 2nd in class going to Joel Eriksson and 3rd to Sebastien Buemi. Felipe Drugovich initially finishes 2nd in class, but drops to 4th the after 5 second time penalty for speeding under Full Course Yellow. For the majority of the race, Jake leads the class and only initially stops on lap 12, as he is overtaken by Sebastien on the exit of turn 5, while the latter is in Attack Mode. Jake retakes the lead going into turn 1 on lap 15 and maintains it for the rest of the Prix as he is under no threat by any of his fellow competitors in the class and his teammate is only one who gets anywhere close to him.<br/>
     Below are the Customer Trophy for Drivers standings:
-    {% image "afepf12_r1_customer_drivers_p1-6.png", "Screenshot of the Customer Trophy for Drivers standings, outputted by afepf_viewer_program.py" %}
     </p>
+    {% image "afepf12_r1_customer_drivers_p1-6.png", "Screenshot of the Customer Trophy for Drivers standings, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Nelson Piquet Jr Trophy</h3>
     <p class="col-8">
     The winner of the class is Nico Muller with 2nd going to Joel Eriksson and 3rd to Zane Maloney. Felipe Drugovich had initially won the class, meaning we were at least guaranteed that Nico wouldn't sweep all the races for the trophy as: he is in the best equipment and has the most experience by far. However, that speeding under Full Course Yellow penalty sees Felipe drop to 4th in class and Nico to win it. Nico leads from the get go and only relinquishes the lead to Josep Maria Marti on lap 15 after going through Attack Mode loop, before retaking the lead on lap 17 through turn 3. He maintains this until lap 23, when taking his 2nd Attack Mode, he briefly loses the class lead to Joel Eriksson, who also is in his 2nd Attack Mode as well, but beats him into turn 4 on the same lap. He loses the class lead on the road on lap 28 as Felipe, in Attack Mode, breezes past him down the pit straight and into turn 1.<br/>
     Below are the Nelson Piquet Jr Trophy standings:
-    {% image "afepf12_r1_npjt_drivers_p1-5.png", "Screenshot of the Nelson Piquet Jr Trophy standings, outputted by afepf_viewer_program.py" %}
     </p>
+    {% image "afepf12_r1_npjt_drivers_p1-5.png", "Screenshot of the Nelson Piquet Jr Trophy standings, outputted by afepf_viewer_program.py" %} 
     <h3 class="row">Overall Teams' Championship</h3>
     <p class="col-8">
     With the win, Andretti Formula E lead the standings under both formats and are tied with Porsche Formula E Team in terms of points under both formats as well. They and Nissan Formula E Team (3rd place under both formats) are the only team to score less points under the alternative format, with the former 2 being 1 point down under the alternative format and the latter 2 points off under the alternative format. Citroen Racing Formula E Team and Cupra Kiro are the only teams to tie points totals across both formats as Kiro cars retire (one more spectacularly than the other) so score 0 points under both formats and Citroen's only finishing car finishes 3rd, scores the same amount of points across both formats. Everyone else scores more points, which benefits Envision Racing as they score 17 points and thus tie with Nissan, so are ahead of Citroen under the alternative format to be 4th instead of 5th like they are in real life. There are no other changes between the 2 formats in terms of the standings. Envision gained most points under the alternative format compared to real life as they gain 7 points over their real life total.<br/>
-    Below are the overall Teams' Championship standings:<br/>
+    Below are the overall Teams' Championship standings:
+    </p>
     {% image "afepf12_r1_teams_p1-5.png", "Screenshot of the first 5 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
     {% image "afepf12_r1_teams_p6-10.png", "Screenshot of the first positions 6 to 10 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
-    </p>
     <h3 class="row">Customer Teams' Championship </h3>
     <p class="col-8">
-    As Jake Dennis won the Customer Driver class, Andretti Formula E lead the class with 20 points over Envision Racing who have 17. Before Felipe's Drugovich's penalty, Envision only had 15, as Andretti claimed a class 1-2, so are now 2 points closer which doesn't seem like much, but remember that last year 3 points (the current gap) separated NEOM McLaren Formula E Team (1st) from Andretti (4th), so those points that Envision gained could matter come London. Also, don't rule Kiro out of title contention already, as Andretti had a woeful start to Season 11 in the Customer class and almost won the teams title at the final race.<br/>
-    Below are the Customer Teams' Championship standings:<br/>
-    {% image "afepf12_r1_customer_teams_p1-3.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}
+    As Jake Dennis won the Customer Driver class, Andretti Formula E lead the class with 20 points over Envision Racing who have 17. Before Felipe's Drugovich's penalty, Envision only had 15, as Andretti claimed a class 1-2, so are now 2 points closer which doesn't seem like much, but remember that last year 3 points (the current gap) separated NEOM McLaren Formula E Team (1st) from Andretti (4th), so those points that Envision gained could matter come London. Also, don't rule Kiro out of title contention already, as Andretti had a woeful start to Season 11 in the Customer class and almost won the teams' title at the final race.<br/>
+    Below are the Customer Teams' Championship standings:
     </p>
+    {% image "afepf12_r1_customer_teams_p1-3.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Manufacturers' Cup</h3>
     <p class="col-8">
     Stellantis lead the standings in Manufacturers' Cup under the alternative format with points total of 28 over Porsche, who tie with them, but lose on countback as Stellantis have a 2nd to Porsche's 3rd as their best result. 3rd goes to Nissan who have 20 points under the alternative format. Only Porsche and Jaguar have less points under the alternative format as their best performing (or Jaguar's case best 2) driver is a customer driver, who cannot score points for a manufacturer under the alternative format. This means there are changes between the standings, with only Nissan maintaining the same standing position across both formats. Porsche and Stellantis swap as Porsche have 37 points in real life to Stellantis' 25 in real life and Jaguar drop to 6th and push Mahindra and Lola-Yamaha up a place to finish 4th and 5th respectively. Lola has the biggest positive points difference between their alternative points total and their real life total at 7 (9 point under the alternative format and 2 in real life).<br/>
-    Below are the Manufacturers' Cup standings:<br/>
-    {% image "afepf12_r1_manufacturers_p1-6.png", "Screenshot of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
+    Below are the Manufacturers' Cup standings:
     </p>
+    {% image "afepf12_r1_manufacturers_p1-6.png", "Screenshot of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
+    
   </div>
 </div>
