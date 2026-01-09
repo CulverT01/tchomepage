@@ -1,6 +1,6 @@
 const path = require("path");
 const eleventyImage = require("@11ty/eleventy-img");
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+//const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = eleventyConfig => {
 	function relativeToInputPath(inputPath, relativeFilePath) {
@@ -32,5 +32,5 @@ module.exports = eleventyConfig => {
 		};
 		return eleventyImage.generateHTML(metadata, imageAttributes);
 	});
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin);
+	//eleventyConfig.addPlugin(eleventyImageTransformPlugin);
 };
