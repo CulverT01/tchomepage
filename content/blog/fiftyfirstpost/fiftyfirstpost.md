@@ -408,7 +408,7 @@ tags:
             </div>
         </div>
     </div>
-   {% "hebppaw.jpg", "Cover of The Hero and His Elf Bride Open a Pizza Parlor in Another World" %}
+   {% image "hebppaw.jpg", "Cover of The Hero and His Elf Bride Open a Pizza Parlor in Another World" %}
     </div>
   </div>
 </div>

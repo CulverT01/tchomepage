@@ -12,8 +12,8 @@ tags:
   <h1 class="col align-self-center">Support of Cards</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-    Hello all!<br />
-    This is the third update to the Card Game Player Project and this week I've been finishing the other SupportCard classes. The plan after this is to rework all SupportCard's effect method to be boolean rather than void, as I need to be able to take into account whether or not the Support Card's effect can go through because there's an appropriate target for the effect. Also make the skill attribute that CreatureCard has an attribute of Card instead, so powerful Support Cards can also be restricted.<br />
+    Hello all!<br/>
+    This is the third update to the Card Game Player Project and this week I've been finishing the other SupportCard classes. The plan after this is to rework all SupportCard's effect method to be boolean rather than void, as I need to be able to take into account whether or not the Support Card's effect can go through because there's an appropriate target for the effect. Also make the skill attribute that CreatureCard has an attribute of Card instead, so powerful Support Cards can also be restricted.<br/>
     As always, the entire project is available at this GitHub repository: <a href="https://github.com/CulverT01/cardgameplayer">https://github.com/CulverT01/cardgameplayer</a>
     </p>
   </div>
@@ -24,11 +24,11 @@ tags:
     There is also a new class called KeyFunction that will store methods that are frequently used, such as displaying Frontlines, Wastelands, etc as well as a method to shuffle the decks after they have been through. The display methods are just the for loops seen on the Support Card's methods, which goes through each item in an array/ArrayList and outputs their Name, Attack and Health (if a Creature Card) or Effect Description (if a Support Card) and the Item's position in the array/ArrayList, if the item's cardType is equal to a String value called cardType that will be equal to one of the 4 card types (Magic Creature, Melee Creature, Item Support, Magic Support). <br />
     The shuffleDeck method creates a temporary ArrayList called temp, loops through a player's deck and adds each item to temp, before then clearing the player's deck. It then runs while loop that finishes when the size of temp is 0 and adds the item at a random index in temp to the player's deck, before removing said item from temp. <br />
     The reasons for the class' creation is in the Changes and Clarifications, while KeyFunction class and SupportCardSerIs class are shown below.
-    {% "keyfunction_1.png", "Screenshot of the shuffle deck behaviour method and the first part of the display front line method of the key function class %}
-    {% "keyfunction_2.png", "Screenshot of the second part of the display front line method and the first part of the display wasteland method of the key function class %}
-    {% "keyfunction_3.png", "Screenshot of the second part of the display wasteland method and the first part of the display deck method of the key function class %}
-    {% "keyfunction_4.png", "Screenshot of the second part of the display deck method of the key function class %}
-    {% "supportcardseris.png", "Screenshot of the effect behaviour method of the support card ser is class" %}
+    {% image "keyfunction_1.png", "Screenshot of the shuffle deck behaviour method and the first part of the display front line method of the key function class" %}
+    {% image "keyfunction_2.png", "Screenshot of the second part of the display front line method and the first part of the display wasteland method of the key function class" %}
+    {% image "keyfunction_3.png", "Screenshot of the second part of the display wasteland method and the first part of the display deck method of the key function class" %}
+    {% image "keyfunction_4.png", "Screenshot of the second part of the display deck method of the key function class" %}
+    {% image "supportcardseris.png", "Screenshot of the effect behaviour method of the support card ser is class" %} 
     </p>
   </div>
   <div class="row justify-content-center">

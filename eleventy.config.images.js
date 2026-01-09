@@ -1,6 +1,5 @@
 const path = require("path");
 const eleventyImage = require("@11ty/eleventy-img");
-//const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = eleventyConfig => {
 	function relativeToInputPath(inputPath, relativeFilePath) {
@@ -15,7 +14,7 @@ module.exports = eleventyConfig => {
 	eleventyConfig.addAsyncShortcode("image", async function imageShortcode(src, alt, widths, sizes) {
 		// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
 		// Warning: Avif can be resource-intensive so take care!
-		let formats = ["webp", "auto", "jpeg", "png"];
+		let formats = ["avif", "webp", "auto"];
 		let file = relativeToInputPath(this.page.inputPath, src);
 		let metadata = await eleventyImage(file, {
 			widths: widths || ["auto"],
@@ -32,5 +31,4 @@ module.exports = eleventyConfig => {
 		};
 		return eleventyImage.generateHTML(metadata, imageAttributes);
 	});
-	//eleventyConfig.addPlugin(eleventyImageTransformPlugin);
 };

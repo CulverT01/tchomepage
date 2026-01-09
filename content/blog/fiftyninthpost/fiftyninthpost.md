@@ -148,7 +148,7 @@ tags:
             </div>
         </div>
     </div>
-   {% "iwtw_2.jpg", "Cover of volume 2 of If Witch Then Which" %}
+   {% image "iwtw_2.jpg", "Cover of volume 2 of If Witch Then Which" %}
     </div>
   </div>
 </div>
