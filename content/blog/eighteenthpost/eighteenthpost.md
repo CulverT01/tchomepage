@@ -25,13 +25,11 @@ tags:
     The shuffleDeck method creates a temporary ArrayList called temp, loops through a player's deck and adds each item to temp, before then clearing the player's deck. It then runs while loop that finishes when the size of temp is 0 and adds the item at a random index in temp to the player's deck, before removing said item from temp. <br />
     The reasons for the class' creation is in the Changes and Clarifications, while KeyFunction class and SupportCardSerIs class are shown below.
     </p>
-    <p>
-    <img src="keyfunction_1.png"  alt="Screenshot of the shuffle deck behaviour method and the first part of the display front line method of the key function class"><br/>
-    <img src="keyfunction_2.png" alt="Screenshot of the second part of the display front line method and the first part of the display wasteland method of the key function class"><br/>
-    <img src="keyfunction_3.png", alt="Screenshot of the second part of the display wasteland method and the first part of the display deck method of the key function class"><br/>
-    <img src="keyfunction_4.png", alt="Screenshot of the second part of the display deck method of the key function class"><br/>
-    <img src="supportcardseris.png", alt="Screenshot of the effect behaviour method of the support card ser is class">
-    </p>
+    {% "keyfunction_1.png", "Screenshot of the shuffle deck behaviour method and the first part of the display front line method of the key function class %}
+    {% "keyfunction_2.png", "Screenshot of the second part of the display front line method and the first part of the display wasteland method of the key function class %}
+    {% "keyfunction_3.png", "Screenshot of the second part of the display wasteland method and the first part of the display deck method of the key function class %}
+    {% "keyfunction_4.png", "Screenshot of the second part of the display deck method of the key function class %}
+    {% "supportcardseris.png", "Screenshot of the effect behaviour method of the support card ser is class" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>
