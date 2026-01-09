@@ -8,9 +8,9 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const {EleventyHtmlBasePlugin} = require("@11ty/eleventy");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+//const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
-//const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
@@ -38,7 +38,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(pluginBundle);
 
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin);
+	//eleventyConfig.addPlugin(eleventyImageTransformPlugin);
 
 	// Filters
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
@@ -95,7 +95,8 @@ module.exports = function(eleventyConfig) {
 		});
 	});
 
-	//eleventyConfig.addPlugin(UpgradeHelper);
+	eleventyConfig.addPlugin(UpgradeHelper);
+	
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line
