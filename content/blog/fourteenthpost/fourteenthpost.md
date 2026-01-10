@@ -20,11 +20,10 @@ tags:
     <h2 class="row">Updates</h2>
     <p class="col-8"> 
     I have programmed the Player, Card, Creature Card and Support Card classes with all of the attributes and behaviours listed in the design document along with other necessary methods such as Constructors and Getters and Setters. I have commented all behaviour methods that I have written and will show a few examples below. <br />
-    I have yet to test to test these methods, but I plan to do this next time along with the programming of a few Support Card classes; an explanation as to why will be given in the changes section.<br/>
-    <img src="player_draw_method.png" alt="Screenshot of the draw behaviour method of the player class">
-    <img src="creature_card_attack_method1.png" alt="Screenshot of the first part of the attack behaviour method of the creature card class">
-    <img src="creature_card_attack_method2.png" alt="Screenshot of the second part of the attack behaviour method of the creature card class">
-    </p>
+    I have yet to test to test these methods, but I plan to do this next time along with the programming of a few Support Card classes; an explanation as to why will be given in the changes section.</p>
+    {% image "player_draw_method.png", "Screenshot of the draw behaviour method of the player class" %}
+    {% image "creature_card_attack_method1.png", "Screenshot of the first part of the attack behaviour method of the creature card class" %}
+    {% image "creature_card_attack_method2.png", "Screenshot of the second part of the attack behaviour method of the creature card class" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>
