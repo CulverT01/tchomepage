@@ -51,7 +51,7 @@ tags:
     The winner of the class is Nico Muller with 2nd going to Joel Eriksson and 3rd to Zane Maloney. Felipe Drugovich had initially won the class, meaning we were at least guaranteed that Nico wouldn't sweep all the races for the trophy as: he is in the best equipment and has the most experience by far. However, that speeding under Full Course Yellow penalty sees Felipe drop to 4th in class and Nico to win it. Nico leads from the get go and only relinquishes the lead to Josep Maria Marti on lap 15 after going through Attack Mode loop, before retaking the lead on lap 17 through turn 3. He maintains this until lap 23, when taking his 2nd Attack Mode, he briefly loses the class lead to Joel Eriksson, who also is in his 2nd Attack Mode as well, but beats him into turn 4 on the same lap. He loses the class lead on the road on lap 28 as Felipe, in Attack Mode, breezes past him down the pit straight and into turn 1.<br/>
     Below are the Nelson Piquet Jr Trophy standings:
     </p>
-    {% image "afepf12_r2_npjt_drivers_p1-5.png", "Screenshot of the Nelson Piquet Jr Trophy standings, outputted by afepf_viewer_program.py" %} 
+    {% image "afepf12_r2_npjt_drivers_p1-5.png", "Screenshot of the Nelson Piquet Jr Trophy standings, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Overall Teams' Championship</h3>
     <p class="col-8">
     With the win, Andretti Formula E lead the standings under both formats and are tied with Porsche Formula E Team in terms of points under both formats as well. They and Nissan Formula E Team (3rd place under both formats) are the only team to score less points under the alternative format, with the former 2 being 1 point down under the alternative format and the latter 2 points off under the alternative format. Citroen Racing Formula E Team and Cupra Kiro are the only teams to tie points totals across both formats as Kiro cars retire (one more spectacularly than the other) so score 0 points under both formats and Citroen's only finishing car finishes 3rd, scores the same amount of points across both formats. Everyone else scores more points, which benefits Envision Racing as they score 17 points and thus tie with Nissan, so are ahead of Citroen under the alternative format to be 4th instead of 5th like they are in real life. There are no other changes between the 2 formats in terms of the standings. Envision gained most points under the alternative format compared to real life as they gain 7 points over their real life total.<br/>
@@ -71,6 +71,5 @@ tags:
     Below are the Manufacturers' Cup standings:
     </p>
     {% image "afepf12_r2_manufacturers_p1-6.png", "Screenshot of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
-    
   </div>
 </div>
