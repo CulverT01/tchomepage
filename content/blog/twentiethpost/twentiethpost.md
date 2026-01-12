@@ -12,22 +12,23 @@ tags:
   <h1 class="col align-self-center">Any more 4 Any More?</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-    Hello and welcome to the fourth update to the Card Game Player Project.<br />
-    This week I've been finishing changing the Support Card classes' effect method to boolean as well as making skill an attribute of Card rather than Creature Card. The next thing to make is the Runner class, so finally we can play a game of Castles of Cards. This means the methods to start and play a game as well as to play the 4 stages of a turn (one for each stage).<br />
+    Hello and welcome to the fourth update to the Card Game Player Project.<br/>
+    This week I've been finishing changing the Support Card classes' effect method to boolean as well as making skill an attribute of Card rather than Creature Card. The next thing to make is the Runner class, so finally we can play a game of Castles of Cards. This means the methods to start and play a game as well as to play the 4 stages of a turn (one for each stage).<br/>
     As always, the entire project is available at this GitHub repository: <a href="https://github.com/CulverT01/cardgameplayer">https://github.com/CulverT01/cardgameplayer</a>
     </p>
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Updates</h2>
     <p class="col-8"> 
-    All Support Card classes' effect method is now boolean, so the effect can fail and the card not be wasted. Player's playCardFromHand method has also changed to reflect this change and now only sends a Support Card to the wasteland if the effect method returns true boolean value. There is also new methods for KeyFunction class, which checks the wasteland or deck to see if there is a possible target to select within that array. The examples shown below are the updated SupportCardResMa class and its test as well as the checkWasteland and checkDeck methods of KeyFunction.<br/>
-   <img src="supportcardresma_1.png" alt="Screenshot of the constructor and the first part of the effect behaviour method of the support card res ma class"><br/>
-   <img src="supportcardresma_2.png" alt="Screenshot of the second part of the effect behaviour method of the support card res ma class"><br/>
-   <img src="supportcardresmatest_1.png" alt="Screenshot of the set up for the tests, the test to check support card res mas effect behaviour method works successfully and the first part of the test to check it fails when there is no magic creatures in the wasteland"><br/>
-   <img src="supportcardresmatest_2.png" alt="Screenshot of the second part of the test to check support card res mas effect behaviour method fails when there is no magic creatures in the wasteland and the test to check it fails when the frontline is full"><br/>
-   <img src="keyfunction_5.png" alt="Screenshot of the check wasteland method and the first part of the check display deck method of the key function class"><br/>
-   <img src="keyfunction_6.png" alt="Screenshot of the second part of the check display deck method of the key function class">
-    </p> 
+    All Support Card classes' effect method is now boolean, so the effect can fail and the card not be wasted. Player's playCardFromHand method has also changed to reflect this change and now only sends a Support Card to the wasteland if the effect method returns true boolean value. There is also new methods for KeyFunction class, which checks the wasteland or deck to see if there is a possible target to select within that array. The examples shown below are the updated SupportCardResMa class and its test as well as the checkWasteland and checkDeck methods of KeyFunction.
+    </p>
+    {% image "supportcardresma_1.png", "Screenshot of the constructor and the first part of the effect behaviour method of the support card res ma class" %}
+    {% image "supportcardresma_2.png", "Screenshot of the second part of the effect behaviour method of the support card res ma class" %}
+    {% image "supportcardresmatest_1.png", "Screenshot of the set up for the tests, the test to check support card res mas effect behaviour method works successfully and the first part of the test to check it fails when there is no magic creatures in the wasteland" %}
+    {% image "supportcardresmatest_2.png", "Screenshot of the second part of the test to check support card res mas effect behaviour method fails when there is no magic creatures in the wasteland and the test to check it fails when the frontline is full" %}
+    {% image "keyfunction_5.png", "Screenshot of the check wasteland method and the first part of the check display deck method of the key function class" %}
+    {% image "keyfunction_6.png", "Screenshot of the second part of the check display deck method of the key function class" %}
+     
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>

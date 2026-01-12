@@ -21,11 +21,11 @@ tags:
   <div class="row justify-content-center">
     <h2 class="row">Updates</h2>
     <p class="col-8"> 
-    I have tested the Player, CreatureCard, SupportCard1 and SupportCard2 classes' behaviour methods with Card and SupportCard classes not being tested as they have no methods apart from Getters and Setters. All tests have passed, with the alterations in order to make sure those tests pass being listed in the Changes and Clarifications section<br/>
-    <img src="support_card_1_test.png" alt="Screenshot of the draw behaviour method of the player class"><br/>
-    <img src="creature_card_test1.png" alt="Screenshot of the first part of the creature_attack behaviour method of the creature card class"><br/>
-    <img src="creature_card_test2.png" alt="Screenshot of the second part of the creature_attack behaviour method of the creature card class"><br/>
+    I have tested the Player, CreatureCard, SupportCard1 and SupportCard2 classes' behaviour methods with Card and SupportCard classes not being tested as they have no methods apart from Getters and Setters. All tests have passed, with the alterations in order to make sure those tests pass being listed in the Changes and Clarifications section
     </p>
+    {% image "support_card_1_test.png", "Screenshot of the draw behaviour method of the player class" %}
+    {% image "creature_card_test1.png", "Screenshot of the first part of the creature_attack behaviour method of the creature card class" %}
+    {% image "creature_card_test2.png", "Screenshot of the second part of the creature_attack behaviour method of the creature card class" %}
   </div>
   <div class="row justify-content-center">
     <h2 class="row">Changes and Clarifications</h2>

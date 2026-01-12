@@ -48,11 +48,11 @@ tags:
     </p>
     <h3 class="row">Flowchart</h3>
     <div class="col-8">
-    <img src="playCardFromHandPlayerMethod.jpg" alt="Flowchart detailing the playing card from hand method of the Player class">
+    {% image "playCardFromHandPlayerMethod.jpg", "Flowchart detailing the playing card from hand method of the Player class" %}
     </div>
     <h3 class="row">Diagrams</h3>
     <div class="col-8">
-    <img src="PlayerCardrelationAndRunnerCreatCardPlayerrelationDiagram.jpg" alt="Diagrams showing the relationship between the Player and Card classes as well as the relationship between the Runner, the Creature Card and the Player classes.">
+    {% image "PlayerCardrelationAndRunnerCreatCardPlayerrelationDiagram.jpg", "Diagrams showing the relationship between the Player and Card classes as well as the relationship between the Runner, the Creature Card and the Player classes." %}
     </div>
   </div>
 </div>
