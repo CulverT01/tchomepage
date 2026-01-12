@@ -16,7 +16,7 @@ tags:
    The next Formula E race will be the 2026 Miami ePrix on 31st January 2026 at 19:00 UTC and you can find out where to watch it <a href="https://www.fiaformulae.com/en/ways-to-watch">here</a>. 
     </p>
   </div>
-  <div>
+  <div class="row justify-content-center">
     <h2 class="row">Qualifying</h2>
     <p class="col-8">
     Group A consisted of: Jake Dennis, Nick Cassidy, Nico Mueller, Joel Eriksson, Nyck de Vries, Antonio Felix da Costa, Taylor Barnard, Jean-Eric Vergne, Edoardo Mortara, and Norman Nato. There weren't any issues on track, with the exception for Nick who had a lap-time deleted for track limits Very few made improvements on their final runs, with only the Citroens and Taylor making improvements on their final laps. Jean-Eric also had a 3-place grid penalty to serve after overtaking under Full-Course Yellow in the previous race. The 4 from the group that would move onto the Duel stage were: Jake, Nico, Taylor and Edoardo.<br/>
@@ -40,7 +40,7 @@ tags:
     <li> Nico Mueller (=0)</li>
     <li> Edoardo Mortara (+12)</li>
     </ol>
-    <p>
+    <p class="col-8">
     3 drivers have less points under the alternative format compared to real life: Nick, Jake, and Oliver, whose points totals under the alternative format are 36, 33, and 33 respectively (Jake's win puts him ahead on countback) which compares to real life points totals of 40, 36, and 34 respectively. Edoardo and Dan to match their points totals across both formats and the driver who has the most points compared to real life is Nico, who has 8 more points under the alternative format (20) compared to real life (12). There are differences between the standings and the driver who gains the most position's under the alternative format is Nico, who gains 2 to be 5th under alternative format compared to 7th in real life, while the driver who loses the most positions is Sebastien who is 11th under the alternative format, but 9th in real life.<br/>
     Below are the overall Drivers' Championship standings:
     </p>
@@ -49,7 +49,7 @@ tags:
     {% image "afepf12_r2_drivers_p15-20.png", "Screenshot of the positions 15 to 20 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Trophy for Drivers</h3>
     <p class="col-8">
-    The class is won by  Jake Dennis again with 2nd in class going to a redeemed Pepe Marti and 3rd to Joel Eriksson. . There is no change in the standings compared to before this race<br/>
+    The class is won by Jake Dennis again with 2nd in class going to a redeemed Pepe Marti and 3rd to Joel Eriksson. . There is no change in the standings compared to before this race<br/>
     Below are the Customer Trophy for Drivers standings:
     </p>
     {% image "afepf12_r2_customer_drivers_p1-6.png", "Screenshot of the Customer Trophy for Drivers standings, outputted by afepf_viewer_program.py" %}

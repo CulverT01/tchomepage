@@ -15,7 +15,7 @@ tags:
    The next Formula E race will be the 2026 Hankook Mexico City ePrix on 10th January 2026 at 20:00 UTC and you can find out where to watch it <a href="https://www.fiaformulae.com/en/ways-to-watch">here</a>. 
     </p>
   </div>
-  <div>
+  <div class="row justify-content-center">
     <h2 class="row">Qualifying</h2>
     <p class="col-8">
     There is a slight change to qualifying this year compared to previous years as now the Group stage of qualifying is now 10 minutes rather than 12 as well as the removal of the need to set a lap time within the first half of their group's time on track is removed as well. Group A went out first and consisted of: Oliver Rowland, Josep Maria Marti, Max Guenther, Antonio Felix da Costa, Joel Eriksson, Zane Maloney, Jean-Eric Vergne, Jake Dennis, Edoardo Mortara, Nico Mueller. It was a clean session, with everyone but Zane (Driveshaft issues that had plagued his team throughout free practice came up again) getting proper laps in, but the shock from qualifying was that defending champion Oliver missed the duel stage by finishing 5th in the group and he had 3 place grid penalty from a crash he had with Nico at the final race of last season in London. The 4 from the group that would move onto the Duel stage were: Antonio, Jean-Eric, Edoardo, and Jake.<br/>
@@ -42,11 +42,10 @@ tags:
     <li> Nico Mueller</li>
     <li> Maximilian Guenther</li>
     </ol>
-    <p>
+    <p class="col-8">
     2 drivers have less points under the alternative format compared to real life, Jake and Oliver, as the former has 21 points under the alternative format compared to 25 in real life and the latter has 18 under the alternative format compared to 19 in real life. Nick, Pascal Wehrlein, and all drivers who finished 14th or lower match their points totals across both formats and the driver who has the most points compared to real life is Antonio, who has 6 more points under the alternative format compared to real life. The standings are the same across both formats as it is quite hard to have a difference after 1 race.<br/>
     Below are the overall Drivers' Championship standings:
     </p>
-    {% image "afepf12_r1_drivers_p1-7.png", "Screenshot of the first 7 positions of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     {% image "afepf12_r1_drivers_p1-7.png", "Screenshot of the first 7 positions of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     {% image "afepf12_r1_drivers_p8-14.png", "Screenshot of the positions 8 to 14 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     {% image "afepf12_r1_drivers_p15-20.png", "Screenshot of the positions 15 to 20 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
