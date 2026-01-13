@@ -2,7 +2,6 @@
 title: 2026 Hankook Mexico City ePrix Review
 description: Review of 2026 Hankook Mexico City ePrix 
 date: 2025-01-13
-draft: true
 tags:
   - alternative formula e points format project
   - Formula E race review
@@ -28,8 +27,9 @@ tags:
     <h2 class="row">Race</h2>
     <h3 class="row">Overall Drivers' Championship</h3>
     <p class="col-8"> 
-    Nick Cassidy wins the race from Edoardo Mortara in 2nd and Oliver Rowland in 3rd. The race was billed as one of the harder to overtake, so the fact the race winner started 13th suggests that qualifying means less than the commentary team thinks.<br/>
-    The race is fairly clean, with the problem area being Turns 5 and 6. That said, a few moments occur in turn 1, such as off the start as Sebastien Buemi out-brakes himself going into said corner on the first lap and drops all the way to the back. He fights back, but<br/>
+    Nick Cassidy wins the race from Edoardo Mortara in 2nd and Oliver Rowland in 3rd. The race was billed as one of the harder to overtake at, so the fact the race winner started 13th suggests that qualifying means less than the commentary team thinks.<br/>
+    The race is fairly clean, with the problem area being turns 5 and 6. That said, a few moments occur in turn 1, such as off the start as Sebastien Buemi out-brakes himself going into said corner on the first lap and drops all the way to the back. He fights back, but picks up a puncture after sudden bunch up when the FCY called on lap 18 (later transitioned to a safety car lap 20) is called when Nyck de Vries loses power going into to turn 1 on lap 17 and thus ends up almost lap down in the end as the puncture is discovered lap 20 and safety car comes in on lap 21. There are 2 noteworthy incidents in turns 5 and 6 with the first 1 occurring on lap 18 as the FCY is called, where Antonio Felix da Costa and Oliver make wheel-to-wheel contact as Antonio moves left before braking for turn 5 to avoid running into the back of Max Guenther and into the trajectory of Oliver. This sends the pair wide, with Oliver having to go off-road for a bit. The next incident at turns 5 and 6 is on lap 25 where a late dive by Nick on Antonio, who in turn moves across to defend, sees the pair collide and sends Antonio into Max. Max then spins around and in the ensuing chaos, an innocent Dan Ticktum is clipped by an out of control Antonio which effectively ends the race for the pair as both pull into the pits to retire. There is another incident turn 4 at lap 33 between Edoardo and Jake Dennis, as the latter makes a late dive into the turn with the last of his attack mode and the former moves late and clips Jake's front wing, damaging it.<br/>
+    Nick spent most of the race between 9th-11th position (he made 2 places on lap 1) and despite using up his attack mode allocation before those around him, he could win because he had more energy available than his closest challenger as well as the fighting behind meant that those faster drivers wasted precious time and energy that they couldn't get back.<br/>
     Here is the top 6 under the alternative format and in brackets is a number indicating how many positions they have gained or lost compared to where they were going into the race.
     </p>
     <ol>
@@ -49,13 +49,13 @@ tags:
     {% image "afepf12_r2_drivers_p15-20.png", "Screenshot of the positions 15 to 20 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Trophy for Drivers</h3>
     <p class="col-8">
-    The class is won by Jake Dennis again with 2nd in class going to a redeemed Pepe Marti and 3rd to Joel Eriksson. . There is no change in the standings compared to before this race<br/>
+    The class is won by Jake Dennis again with 2nd in class going to a redeemed Pepe Marti and 3rd to Joel Eriksson. Jake Leads from lap 1, having overtaken Dan Ticktum into turn 1 at the start. Dan gets back on lap 10, overtaking Jake on the exit of turn 8 thanks to attack mode. Jake responds on lap 16 with an overtaking manoeuvre through turn 4 and that is the last move for the class lead for the rest of the race as after Dan's demise, no one else gets close to Jake Dennis. The standings are the same as they were going into this race.<br/>
     Below are the Customer Trophy for Drivers standings:
     </p>
     {% image "afepf12_r2_customer_drivers_p1-6.png", "Screenshot of the Customer Trophy for Drivers standings, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Nelson Piquet Jr Trophy</h3>
     <p class="col-8">
-    The winner of the class is a redeemed Pepe Marti with 2nd going to Nico Mueller and 3rd to Joel Eriksson. . Like with the Customer Trophy for Drivers, there is no change of championship position compared to before the race. Another thing to note is that Joel and Felipe Drugovich have the same amount points across both BTCC exclusive driver championships as well as being in the same position in both championships.<br/>
+    The winner of the class is Pepe Marti with 2nd going to Nico Mueller and 3rd to Joel Eriksson. Having ostensibly out-qualifying everyone else in the class, Nico holds a commanding lead from lap 1 until the final lap where Pepe makes his move (it's not clear where as we don't see it, but it's before turn 5) and wins the class in his 2nd start. Like with the Customer Trophy for Drivers, there is no change of championship position compared to before the race. Another thing to note is that Joel and Felipe Drugovich have the same amount points across both BTCC exclusive driver championships as well as being in the same position in both championships.<br/>
     Below are the Nelson Piquet Jr Trophy standings:
     </p>
     {% image "afepf12_r2_npjt_drivers_p1-5.png", "Screenshot of the Nelson Piquet Jr Trophy standings, outputted by afepf_viewer_program.py" %}
@@ -74,7 +74,7 @@ tags:
     {% image "afepf12_r2_customer_teams_p1-3.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Manufacturers' Cup</h3>
     <p class="col-8">
-    Stellantis continues to lead the standings in Manufacturers' Cup under the alternative format with points total of 61 and now also leads in real life too with aa points total of 62. Porsche are still 2nd under the alternative format with 48 points and maintain the same position in real life too, with a points total of 55. 3rd under both formats goes to Nissan who have 43 points under the alternative format and 39 in real life. Stellantis, Porsche and Jaguar have less points under the alternative format, with Jaguar having 15 points under alternative format compared to 18 in real life. There are changes between the standings, as Jaguar and Lola swap places so Jaguar is ahead of Lola in real life but behind under the alternative format. Lola has the biggest positive points difference between their alternative points total and their real life total at 14 (18 point under the alternative format and 4 in real life) while Porsche has biggest negative points difference between the points totals at 7.<br/>
+    Stellantis continues to lead the standings in Manufacturers' Cup under the alternative format with points total of 61 and now also leads in real life too with a points total of 62. Porsche are still 2nd under the alternative format with 48 points and maintain the same position in real life too, with a points total of 55. 3rd under both formats goes to Nissan who have 43 points under the alternative format and 39 in real life. Stellantis, Porsche and Jaguar have less points under the alternative format, with Jaguar having 15 points under alternative format compared to 18 in real life. There are changes between the standings, as Jaguar and Lola swap places so Jaguar is ahead of Lola in real life but behind under the alternative format. Lola has the biggest positive points difference between their alternative points total and their real life total at 14 (18 point under the alternative format and 4 in real life) while Porsche has biggest negative points difference between the points totals at 7.<br/>
     Below are the Manufacturers' Cup standings:
     </p>
     {% image "afepf12_r2_manufacturers_p1-6.png", "Screenshot of the Manufacturers' Cup standings, outputted by afepf_viewer_program.py" %}
