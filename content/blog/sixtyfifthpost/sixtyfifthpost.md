@@ -1,7 +1,7 @@
 ---
 title: 2026 Hankook Mexico City ePrix Review
 description: Review of 2026 Hankook Mexico City ePrix 
-date: 2025-01-13
+date: 2026-01-13
 tags:
   - alternative formula e points format project
   - Formula E race review
