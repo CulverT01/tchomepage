@@ -68,7 +68,7 @@ tags:
     {% image "afepf12_r2_teams_p6-10.png", "Screenshot of the first positions 6 to 10 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Teams' Championship </h3>
     <p class="col-8">
-    As Jake Dennis won the Customer Driver class again, Andretti Formula E lead the class with 40 points over Envision Racing who have 32 and Cupra Kiro in 3rd with 17. Only the results of 1 driver for each team has contributed the points for their team and they are: Jake Dennis (Andretti), Joel Eriksson, (Envision), and Pepe Marti (Kiro). There are no changes in terms of positions compared to before and probably won't be any until both Andrettis and/or both Envisions retire from a race.<br/>
+    As Jake Dennis won the Customer Driver class again, Andretti Formula E lead the class with 40 points over Envision Racing who have 32 and Cupra Kiro in 3rd with 17. Only the results of 1 driver for each team has contributed the points for their team and they are: Jake Dennis (Andretti), Joel Eriksson (Envision), and Pepe Marti (Kiro). There are no changes in terms of positions compared to before and probably won't be any until both Andrettis and/or both Envisions retire from a race.<br/>
     Below are the Customer Teams' Championship standings:
     </p>
     {% image "afepf12_r2_customer_teams_p1-3.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}
