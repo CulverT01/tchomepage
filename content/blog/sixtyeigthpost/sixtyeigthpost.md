@@ -1,6 +1,6 @@
 ---
-title: 2026 Miami City ePrix Review
-description: Review of 2026 Miami City ePrix Review
+title: 2026 Miami ePrix Review
+description: Review of 2026 Miami ePrix Review
 date: 2026-02-03
 tags:
   - alternative formula e points format project
@@ -11,7 +11,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">2026 Miami City ePrix Review</h1>
+  <h1 class="col align-self-center">2026 Miami ePrix Review</h1>
   <div class="row justify-content-center">
     <p class="col-8">
    Hello all! For the double-header weekends (the first of 6 is next time out in Jeddah) each race will have its own individual blog post, and the second of which will come out on the day after the first. This means the review of the first 2026 Jeddah ePrix race will come out on the 17th February and the review of the second 2026 Jeddah ePrix race will be on the 18th. While this track has not hosted a Formula E race before, it is not new to Formula E as last year's Evo Sessions were held at this circuit. This year's Evo Sessions will be at Jeddah and will take place a day after the ePrix there.<br/>
@@ -90,5 +90,5 @@ tags:
     The updatePoints function is still in the if statement as it was before as it is possible for a driver to be non-classified despite having a top 15 finish - e.g: Pepe Marti in this season's Sa Paulo ePrix. Not shown is the updateBonusPoints function, which is a function that creates a filter doc and an update doc to be used by the update function as there's no need for repeating lines of code as a good programming practice to refactor code.<br/>
     Below is an image of part of the updateDriverResult function, specifically where the majority of changes made are.
     {% image "afepf_functions_updateDriverResult2.png", "Screenshot of the updateDriverResult function in afepf_functions.py, which now asks for the recipients of the bonus points and updates the database accordingly" %}
-  </div>
+  </div> 
 </div>
