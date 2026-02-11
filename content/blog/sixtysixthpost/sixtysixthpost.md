@@ -4,7 +4,7 @@ description: Review of I Want to Be a Wall Volume 1.
 date: 2026-01-20
 tags:
   - manga review
-  -  I Want to Be a Wall
+  - I Want to Be a Wall
   - Honami Shirono
   - manga romance
   - manga comedy
