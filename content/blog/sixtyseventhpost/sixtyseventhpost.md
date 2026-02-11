@@ -153,6 +153,4 @@ tags:
         </div>
     </div>
    {% image "iwbw_2.jpg", "Cover of volume 2 of I Want to Be a Wall" %}
-    </div>
-  </div>
 </div>

@@ -151,6 +151,4 @@ tags:
         </div>
     </div>
     {% image "iwtw_3.jpg", "Cover of volume 3 of If Witch Then Which" %}
-    </div>
-  </div>
 </div>

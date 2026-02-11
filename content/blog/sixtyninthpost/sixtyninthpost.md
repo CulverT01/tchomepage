@@ -127,7 +127,6 @@ tags:
                     </div>
                 </div>
             </div>
-            </div>
             <div class="accordion-item">
             <h2 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed" 
@@ -175,6 +174,4 @@ tags:
         </div>
     </div>
    {% image "iwbw_3.jpg", "Cover of volume 3 of I Want to Be a Wall" %}
-    </div>
-  </div>
 </div>
