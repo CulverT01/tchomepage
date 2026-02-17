@@ -53,7 +53,7 @@ tags:
     {% image "afepf12_r3_drivers_p15-20.png", "Screenshot of the positions 15 to 20 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Trophy for Drivers</h3>
     <p class="col-8">
-    The class is won by Joel Eriksson again with 2nd in class going to Sebastien Buemi for a Envision Racing 1-2 in class and 3rd to Pepe Marti. Felipe Drugovich is the early leader for the class, leading from the start all the way until lap 26, where his crash into Antonio Felix da Costa hands Joel the lead which he does not relinquish. The standings are the same as they were going into this race.<br/>
+    The class is won by Joel Eriksson with 2nd in class going to Sebastien Buemi for a Envision Racing 1-2 in class and 3rd to Pepe Marti. Felipe Drugovich is the early leader for the class, leading from the start all the way until lap 26, where his crash into Antonio Felix da Costa hands Joel the lead which he does not relinquish. The standings are the same as they were going into this race.<br/>
     Below are the Customer Trophy for Drivers standings:
     </p>
     {% image "afepf12_r3_customer_drivers_p1-6.png", "Screenshot of the Customer Trophy for Drivers standings, outputted by afepf_viewer_program.py" %}
