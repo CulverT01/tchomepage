@@ -1,7 +1,7 @@
 ---
 title: 2026 CUPRA Raval Madrid ePrix Review
 description: Review of 2026 CUPRA Raval Madrid ePrix Review
-date: 2026-02-18
+date: 2026-03-23
 tags:
   - alternative formula e points format project
   - Formula E race review
@@ -13,7 +13,7 @@ tags:
     <p class="col-8">
     Hello all! This is my review of 2026 CUPRA Raval Madrid ePrix and this is the first ePrix that will have PitBoost and not be a doubleheader. Another thing of note is a letter signed by all Formula E drivers was sent to FIA president Mohammed Ben Sulayem asking for "internal evaluation of (the) race director (sic) understanding and reasoning of the sporting rules" as they believe that the race director is "without the capacity – and humility – to acknowledge and learn from mistakes, there is little evidence of continuous improvement". The Race has a few articles about this letter and link to the article detailing the letter is provided <a href="https://www.the-race.com/formula-e/formula-e-drivers-send-bombshell-letter-to-fia-president-calling-for-change/">here</a>.<br/> 
     There is also another rookie test on the Sunday 22nd March and everyone is fielding 2 drivers for this test with notable names include: Audi development driver Freddie Slater (Andretti), 2023 Formula 2 Champion Theo Pourchaire (Citroen Racing), Formula 1 podium finisher Daniil Kvyat (DS Penske), 2019 Macau Grand Prix winner Richard Verschoor (Lola Yamaha ABT), 2025 Macau Grand Prix Winner Theophile Nael (Mahindra Racing), and 2025 DTM Champion Ayhancan Guven (Porsche).<br/>
-    The next Formula E race will be the 2026 Berlin ePrix doubleheader with the first race on 2nd May 2026 at 15:00 UTC and the second race on 3rd May 2026 at 15:00 UTC. You can find out where to watch it <a href="https://www.fiaformulae.com/en/ways-to-watch">here</a> and I will see you again in 6 weeks.
+    The next Formula E race will be the 2026 Berlin ePrix doubleheader with the first race on 2nd May 2026 at 15:00 UTC and the second race on 3rd May 2026 at 15:00 UTC. You can find out where to watch it <a href="https://www.fiaformulae.com/en/ways-to-watch">here</a> and I will see you again in 2 weeks time as I am away all this week.
     </p>
   </div>
   <div class="row justify-content-center">
