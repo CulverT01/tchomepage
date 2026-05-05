@@ -12,7 +12,9 @@ tags:
   <h1 class="col align-self-center">2026 Hankook Berlin ePrix Race 2 Review</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-   I will go into more detail about Gen 4 and the new Porsche livery during the introduction to the review of the 2nd race of this doubleheader. <br/>
+   Hello and welcome to my review of race 2 of 2026 Hankook Berlin ePrix, although I want to start with 2 news items that I mentioned in yesterday's post: the reveal of Gen 4 and Porsche special livery.<br/>
+   I'll start with Gen 4 and in my opinion the car look okay, as the sidepods are too close to the wheels and that makes the car look like more of a box than sleek single-seater open-wheel racecar. The car will have max power output of 600kw (approximately 804bhp) available via Attack Mode and (one assumes) certain parts of qualifying as well as capable of accelerating to 100kph (62mph) in 1.8 seconds with a top speed of at least 335kph (208mph). Also the car: is 100% reusable, 20% of its key components are also 100% recyclable, has no rare earth materials in its battery, has tyres which are 65% natural and recycled materials and 30% of that is natural rubber.<br/>
+   The Porsche 917/20 was a combination of 917 variants: the 917LH (rear bodywork extended beyond the rear wheels, giving a long tail or in german, Langheck) and the 917K (Kurz, german for short) that ran as a one-off at 1971 Le Mans and has that pig livery because supposedly the owner of Martini (sponsor of the team set to run the car) thought it looked ugly and would not allow his brand to be on an ugly car and the front of the looked like a pig's snout, thus a pig livery. The livery details the names (in german) of the cuts of meat you can off a pig as well as where those cuts are so for example, the front bodywork has the word Rüssel which is german for snout.<br/>
    The next Formula E race will be the 2026 Monaco ePrix on 16th May 2026 at 13:00 UTC and you can find out where to watch it <a href="https://www.fiaformulae.com/en/ways-to-watch">here</a>.
     </p>
   </div>
@@ -28,15 +30,15 @@ tags:
     <h2 class="row">Race</h2>
     <h3 class="row">Overall Drivers' Championship</h3>
     <p class="col-8"> 
-    Nico Mueller wins his maiden ePrix from Nick Cassidy in 2nd and Oliver Rowland in 3rd. <br/>
+    Mitch Evans wins his 16th ePrix, extending the all-time record, from Oliver Rowland in 2nd and Pascal Wehrlein in 3rd. <br/>
     </p>
     <ol class="col-8">
-    <li> Edoardo Mortara (+1)</li>
-    <li> Pascal Wehrlein (-1)</li>
-    <li> Mitch Evans (=0)</li>
-    <li> Nico Mueller (+1)</li>
-    <li> Antonio Felix da Costa (-1)</li>
-    <li> Oliver Rowland (+1)</li>
+    <li> Pascal Wehrlein (+1)</li>
+    <li> Mitch Evans (+1)</li>
+    <li> Edoardo Mortara (-2)</li>
+    <li> Oliver Rowland (+2)</li>
+    <li> Nico Mueller (-1)</li>
+    <li> Jake Dennis (+2)</li>
     </ol>
     <p class="col-8">
     Only 3 drivers has less points under the alternative format compared to real life and they are Pascal Wehrlein, Nick Cassidy and Edoardo Mortara who have 62 and 46 points respectively (Nick and Edoardo are tied along with Jake Dennis) under the alternative format whereas in real life they has 64, 48, and 47 respectively. No driver match their points totals across both formats and the driver who has the most points compared to real life is Taylor Barnard, who has 13 more points under the alternative format (26) compared to real life (13). There are differences between the standings and the drivers who gains the most position's under the alternative format are Nico Mueller, Jake, and Taylor who all gains 2 places to be 2nd, 4th and 9th respectively under alternative format compared to 4th, 6th and 11th in real life, while the drivers who loses the most positions are Edoardo and Joel Eriksson who both drop 2 places to be 5th and 1th respectively under the alternative format, but are 3rd and 9th respectively in real life.<br/>
