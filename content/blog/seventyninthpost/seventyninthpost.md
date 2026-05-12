@@ -1,14 +1,15 @@
 ---
-title: An Electric Influence
-description: Opinion on who I believe is the most influential Formula E Manufacturer
-date: 2026-04-07 
+title: Mitched Out
+description: Opinion on whether Mitch Evans is that good of a Formula E driver
+date: 2026-05-12
+draft: true
 tags:
   - personal
   - Formula E race review
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">An Electric Influence</h1>
+  <h1 class="col align-self-center">Mitched Out</h1>
   <div class="row justify-content-center">
     <h2 class="row">Introduction</h2>
     <p class="col-8">
@@ -16,40 +17,27 @@ tags:
     </p>
   </div>
   <div class="row justify-content-center">
-    <h2 class="row">Renault's Time in Formula E</h2>
+    <h2 class="row">Statistically Speaking</h2>
     <p class="col-8">
     Renault was part of Formula E for the entirety of its first technical generation (from now on referred to as Gen 1) which were the first 4 seasons of the sport (September 2014 to July 2018). They were a initial technical partner of Formula E and built the spec powertrains for season 1, so the sport could not exist without their involvement because the cars would nothing more than an elaborate battery container. They also built powertrains for Renault e.dams team (shocker) and Techeetah when they entered in season 3. They would pull out of Formula E at the end of season 4 to be replaced by 'sister' marque Nissan (the same parent company owns both marques) as the brand would focus on their recently returned factory presence in Formula 1. They finish their tenure in Formula E with 16 wins, 34 podiums, and 4 titles (2 driver and 2 teams) and this excludes season 1 (which sees them win an extra: 4 races, 7 podiums, and 1 teams' title) as Renault isn't a direct competitor in the sport for that season, although they very much do count those season's achievements as a part of their Formula E accolades. Also, if we backdate the manufacturers' title all the way back to season 2, then Renault would sweep all Manufacturer championships run under Gen 1 regulations.
     </p>
   </div>
   <div class="row justify-content-center">
-    <h2 class="row">Comparison Between the 2 Marques</h2>
+    <h2 class="row">Reason for Absence</h2>
     <p class="col-8"> 
     While their real life stats are less than DS's it is worth reminding that seasons 2-4 comprise of 34 races, while, as of the time of writing, DS has taken 143 races (and counting up to 154) to achieve their records. Also, the podium stat is tad misleading as they weren't scoring a podium every race as sometimes they would have 2 drivers on the podium, but instead averaged 1 per race and won 47.06% of the races in that timespan. For comparison, in that timespan (season 2-4), DS has: 5 wins, 16 podiums, no titles, averaged 0.47 podiums per race, and won 17.65% of those 34 races. It would take 93 races for them to tie Renault's win record, 65 races to tie Renault's podium record, and 57 races to match the number of titles. As for backdated manufacturers' titles, DS would have 1 title from season 6 which puts them joint 4th all-time so far with Audi (season 5) and Porsche (season 11). Now DS were not involved in any capacity with Formula E during its inaugural season and their first powertrain - a cumbersome, twin motor design - was more of a draft solution that was quick in qualifying but could be easily out-raced by its lighter, single motor designed competitors <i>Ironically Nissan, who were formally Renault, would also use a twin motor design in season 5 that had the same advantages and disadvantages DS's first powertrain</i> and the short lead times they had from committing to Formula E in 2015 meant that they were always going to be on the back-foot compared to Renault, but those 2 weren't the only car marques in Formula E during this time.
     </p>
   </div>
   <div class="row justify-content-center">
-    <h2 class="row">Other Competitors in Gen 1</h2>
+    <h2 class="row">Comparison of Champions</h2>
     <p class="col-8"> 
     There were 2 other car marques in Formula E with similar levels of involvement: Mahindra and Audi, who like Renault, have been involved since in Formula E since season 1, albeit with differing levels of involvement and a lot less success. Audi only sponsor longtime customer ABT for the first 3 seasons, before properly committing to Formula E in season 4 and win 5 races and score 11 podiums that season along with a team title; while ABT themselves won 5 races, scored 17 podiums, and a driver title with their own powertrain. This means after season 4, DS are less successful than a German Tuning and Aftermarket company who did 12 less races and only just beat their OEM replacement who does 22 less races than them. Mahindra isn't a sporting division by Mahindra and Mahindra (the automobile manufacturer that makes cars for the Indian market) but rather owned by the same parent company, Mahindra Group, but has been involved in Formula E since the first season. While in this timespan they have only 3 wins and 15 podiums, that is enough for 5th in terms of wins in this timespan. Also, by the start of season 4 they have scored more podiums using their own powertrain than DS has with their own powertrain (12 compared to 10).
     </p>
   </div>
   <div class="row justify-content-center">
-    <h2 class="row">Gen 2</h2>
+    <h2 class="row">Does It Even Matter</h2>
     <p class="col-8"> 
     DS's halcyon days come in seasons 5 and 6 as they would: win 7 races, score 16 podiums, win 4 titles (2 drivers and 2 teams), win a backdated manufacturers' title (season 6) across 24 races. Only Audi can claim a better record for one of these stats as they have more podiums at 17, but they supplied 2 more cars than DS due to Virgin Racing using Audi powertrains for these 2 seasons as well as the rest of Gen 2 (seasons 5-8). However, the final 2 seasons of Gen 2 (seasons 7 and 8) aren't so kind as they can only: win 3 races, 12 podiums, and no titles across 31 races. Whereas in that same timeframe (seasons 7 and 8), Mercedes-Benz would: win 13 races, score 33 podiums, win 4 titles (2 drivers and 2 teams), win 2 backdated manufacturers' titles in the same timeframe, with the factory effort alone responsible for 6 wins, 18 podiums and the 4 titles, they also win 1 race and 4 podiums (all from the factory team) in season 6 as well. So DS doesn't even finish the Gen 3 era (their most successful era) 1st in terms of wins. 
-    </p>
-  </div>
-  <div class="row justify-content-center">
-    <h2 class="row">Stolen Valour</h2>
-    <p class="col-8"> 
-    While DS isn't the most successful manufacturer in the Gen 2 era, Techeetah is the most successful team in this era with: 10 wins, 28 podiums, and 4 titles (2 drivers and 2 teams) meaning the majority of DS's success comes from their partnership with Techeetah who were arguably more successful than DS in Gen 1 as despite doing 10 less races than DS, they tie DS for wins (5), have 1 less podium (15), and have a drivers' title in season 4 for Jean-Eric Vergne. For all but 1 season, Techeetah are a Chinese team as their owners are SECA - China Media Capital, who birthed the team after buying out Team Aguri at the end of Season 2. The season they aren't Chinese, Season 8, they are French as DS has taken more of an operational role rather just simply supplier/technical partner as SECA couldn't find the necessary funding to keep the team going and looked for a buyer of the team although none have materialised (sounds like McLaren). That said, lack of investment was a problem that Techeetah suffered from 2019 as they were operating on budgets that were about 20-25% smaller than their rivals, so the team did a lot with a little. While DS had more operational freedom with Techeetah than they have now with Penske and based off of the Virgin Racing's hiring of an Audi factory driver (Robin Frijns) for season 5 when they began to use Audi powertrains, I assume the relationship DS had with them was satisfactory and wasn't as restrictive as it was with Penske. What they did not have is a proper colour scheme, so took Techeetah's colour scheme of black and gold to Penske along with most of the technical staff.<br/>
-    I think the biggest form of stolen valour is less from the team itself, but from Sam Smith's reporting as he claims that the team is the most successful in Formula E history. This is true for drivers' titles, as Techeetah has 3, but e.dams team (in both its Renault and Nissan guises) has more teams' titles at 3, which were claimed consecutively. However, he claims this is an accolade reserved for DS Techeetah and I will not stand for this Audi Sport ABT Schaeffler erasure (they won the season 4 teams' title that Sam thinks is Techeetah's), and e.dams isn't even the most successful in terms of wins is Jaguar Racing had 22 wins <b>going into season 12</b> (the current season at the time of writing) as a team. <i>If you were wondering, Envision Racing's successes in Gen 3 as Jaguar customer team mean as a manufacturer, Jaguar had 27 wins at the start of season 12 - a Formula E record.</i> Another example is found at the end of the article in which Sam lists 3 of DS's greatest wins with one of them being the 2018 Punta del Este ePrix, which was won by Jean-Eric Vergne driving for Techeetah - which were powered by Renault at the time as the 2018 Punta del Este ePrix is a season 4 event (oops).
-    </p>
-  </div>
-  <div class="row justify-content-center">
-    <h2 class="row">Lost examples</h2>
-    <p class="col-8"> 
-    Probably the biggest flaw with this article is the lack of examples of DS's influence on Formula E and most obviously shown by the fact the only 2 contributors to the article are its author, Sam Smith, and Thomas Chevaucher, a former senior member of staff at DS Performance. There are no quotes from, say for example Phil Charles, who now works at DS Penske but was a longtime Jaguar employee and could have provided an anecdote or 2 on how DS's success in Seasons 5 and 6 influenced Jaguar to take that necessary step forward that would see them become the competitive force in Formula E that they have ben since Season 8 (Season 11 notwithstanding). For comparison, if The-Race were to write an article on the influence Ayrton Senna had on Formula 1, then there would be a quote from Lewis Hamilton, who saw the late Ayrton as his racing hero and obviously was influenced by him to become a Formula 1 driver. However, there maybe no influence to be had at all as the majority of OEMs in Formula E usually own their team outright either from the outset (Mahindra, Jaguar, Porsche) or by taking over their initial partner team (Audi, Nissan, Lola) rather than supplying a team with engineers and a powertrain and in fact, Stellantis are going to own their own team outright from Season 13 with the Opel GSE Formula E Team. 
     </p>
   </div>
    <div class="row justify-content-center">
