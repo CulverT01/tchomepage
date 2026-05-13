@@ -1,7 +1,7 @@
 ---
 title: 2026 Hankook Berlin ePrix Race 2 Review
 description: Review of 2026 Hankook Berlin ePrix Race 2 Review
-date: 2026-06-05
+date: 2026-05-06
 tags:
   - alternative formula e points format project
   - Formula E race review
