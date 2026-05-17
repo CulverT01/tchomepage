@@ -42,7 +42,7 @@ tags:
     <li> Oliver Rowland (+1)</li>
     </ol>
     <p class="col-8">
-    Only 1 driver does not have less points under the alternative format compared to real life and that is the championship leader Edoardo Mortara as he ties his points total. The driver who has the most points compared to real life is Max Guenther, who has 27 more points under the alternative format (35) compared to real life (8). There are differences between the standings and the driver who gains the most position's under the alternative format is Max who gains 4 places to be 12th under alternative format compared to 16th in real life, while the drivers who loses the most positions is Dan Ticktum who drops 3 places to be 14th under the alternative format, but is 11th in real life.<br/>
+    Only 1 driver does not have less points under the alternative format compared to real life and that is the championship leader Edoardo Mortara as he ties his points total. The driver who has the most points compared to real life is Max Guenther, who has 27 more points under the alternative format (35) compared to real life (8). There are differences between the standings and the driver who gains the most position's under the alternative format is Max who gains 4 places to be 12th under alternative format compared to 16th in real life, while the driver who loses the most positions is Dan Ticktum who drops 3 places to be 14th under the alternative format, but is 11th in real life.<br/>
     Below are the overall Drivers' Championship standings:
     </p>
     {% image "afepf12_r7_drivers_p1-7.png", "Screenshot of the first 7 positions of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
