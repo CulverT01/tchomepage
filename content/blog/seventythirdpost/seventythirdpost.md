@@ -4,6 +4,7 @@ description: Review of My Neighbour Seki Volume 2
 date: 2026-03-17
 tags:
   - manga review
+  - My Neighbour Seki
   - Takuma Morishige
   - manga comedy
   - manga 13+

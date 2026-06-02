@@ -4,6 +4,7 @@ description: Review of My Neighbour Seki Volume 1
 date: 2026-03-10
 tags:
   - manga review
+  - My Neighbour Seki
   - Takuma Morishige
   - manga comedy
   - manga 13+
@@ -110,7 +111,7 @@ tags:
                     aria-labelledby="headingFive"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Seki has poured sand on his desk and places a flag on top of the mound of sand that forms. Rumi assumes he is playing a version of 'Topple the Pole' (Bo-taoshi) a game where 2 teams of 150 each (split in 2 groups of 75: offence and defence) try to knock the opposing team's pole down 30 degrees with the defending forming a sort of human pyramid around their pole and the attacking team clambering over. This version obviously replaces the people with sand as the attacking player tries to remove sand to knock the flag down while the defending player attempts to put sand back to right the flag. After removing some sand, Seki begins to spray what's left with water to harden the sand and begins to chip away at the sand whilst also spraying the sand in an effort to maintain its rigidity. He finishes with a long thin column of sand and places some miniature 'keep out' fencing around it. Seki is then called to solve a problem at the front of the class so slowly and gingerly tries to get up, but is taking too long so Rumi is called instead and her getting up is too quick and the subsequent shock-waves generated causes the sand column to collapse, which angers Seki and Rumi si angry back because she did nothing wrong an all of this could have been avoided if he was studying and properly concentrating on the class like a proper student.
+                    Seki has poured sand on his desk and places a flag on top of the mound of sand that forms. Rumi assumes he is playing a version of 'Topple the Pole' (Bo-taoshi) a game where 2 teams of 150 each (split in 2 groups of 75: offence and defence) try to knock the opposing team's pole down 30 degrees with the defending forming a sort of human pyramid around their pole and the attacking team clambering over. This version obviously replaces the people with sand as the attacking player tries to remove sand to knock the flag down while the defending player attempts to put sand back to right the flag. After removing some sand, Seki begins to spray what's left with water to harden the sand and begins to chip away at the sand whilst also spraying the sand in an effort to maintain its rigidity. He finishes with a long thin column of sand and places some miniature 'keep out' fencing around it. Seki is then called to solve a problem at the front of the class so slowly and gingerly tries to get up, but is taking too long so Rumi is called instead and her getting up is too quick and the subsequent shock-waves generated causes the sand column to collapse, which angers Seki and Rumi is angry back because she did nothing wrong an all of this could have been avoided if he was studying and properly concentrating on the class like a proper student.
                     </div>
                 </div>
             </div>
