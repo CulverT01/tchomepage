@@ -299,19 +299,19 @@ tags:
                 </div>
             </div>
             <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFourteen">
+            <h2 class="accordion-header" id="headingFifteen">
                 <button class="accordion-button collapsed" 
                 type="button" 
                 data-bs-toggle="collapse" 
-                data-bs-target="#collapseFourteen" 
+                data-bs-target="#collapseFifteen" 
                 aria-expanded="false" 
-                aria-controls="collapseFourteen">
+                aria-controls="collapseFifteen">
                 Bonus Chapters
                 </button>
                 </h2>
-                <div id="collapseFourteen" 
+                <div id="collapseFifteen" 
                     class="accordion-collapse collapse" 
-                    aria-labelledby="headingFourteen"
+                    aria-labelledby="headingFifteen"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     The first bonus chapter is about Rumi discovering that her chair isn't properly balanced (not all legs touch the floor) and subtly makes it known to Seki, whose own chair has height adjusters fitted to the bottom to prevent his chair from having the same problem.<br/>
