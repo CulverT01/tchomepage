@@ -31,7 +31,7 @@ tags:
                     aria-labelledby="headingOne"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Welcome back to my review of My Neighbour Seki and today we are on Volume 4 and I apologise for the long gap between reviews. Given that the majority of chapters are 10-12 pages long, that makes them really easy to summarise as there is not a lot that can be ignored and everything flows together.
+                    Hello! This is my review of Volume 5 of My Neighbour Seki and or the first time in this series we have c0lour pages as the first few pages of the 56th Period chapter are in colour, so we can see what colours make up Seki and Rumi (if you ignore the artworks on the covers of the volumes).
                     </div>
                 </div>
             </div>
