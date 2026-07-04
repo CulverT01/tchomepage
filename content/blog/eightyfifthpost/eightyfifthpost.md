@@ -2,7 +2,6 @@
 title: Final 6
 description: Statistical look at the performance of select Formula E competitors at the final 3 circuits
 date: 2026-06-30
-draft: true
 tags:
   - personal
   - Formula E race review
