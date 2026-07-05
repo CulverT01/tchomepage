@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">Final 7</h1>
+  <h1 class="col align-self-center">Final 6</h1>
   <div class="row justify-content-center">
     <h2 class="row">Introduction</h2>
     <p class="col-8">
