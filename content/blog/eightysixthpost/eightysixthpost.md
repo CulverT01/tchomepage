@@ -1,7 +1,7 @@
 ---
 title: 2026 Shanghai ePrix Race 1 Review
 description: Review of 2026 Shanghai ePrix Race 1 Review
-date: 2026-07-7
+date: 2026-07-07
 draft: true
 tags:
   - alternative formula e points format project
