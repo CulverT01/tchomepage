@@ -1,17 +1,18 @@
 ---
-title: 2026 Shanghai ePrix Race 1 Review
-description: Review of 2026 Shanghai ePrix Race 1 Review
-date: 2026-07-07
+title: 2026 Shanghai ePrix Race 2 Review
+description: Review of 2026 Shanghai ePrix Race 2 Review
+date: 2026-07-08
+draft: true
 tags:
   - alternative formula e points format project
   - Formula E race review
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">2026 Shanghai ePrix Race 1 Review</h1>
+  <h1 class="col align-self-center">2026 Shanghai ePrix Race 2 Review</h1>
   <div class="row justify-content-center">
     <p class="col-8">
-   This is my review of race 1 of 2026 Shanghai ePrix and in between this race and the last one out in Sanya we got both the calendar for next season as well as key sporting changes. I will go over the calendar in this review and the sporting changes in the review for race 2.<br/>
+   This is my review of race 2 of 2026 Shanghai ePrix and in between this race and the last one out in Sanya we got both the calendar for next season as well as key sporting changes. I will go over the calendar in this review and the sporting changes in the review for race 2.<br/>
    The calender has now expanded to 21 races with: new events in Zandvoort, Netherlands (Circuit Zandvoort) and Austin, USA (Circuit of the Americas or COTA), a change in venue for another as the London ePrix will move out of the tight confines of the EXCEL and to the proper race circuit in Brands Hatch (Celebrate!!), no loss of events either. As we do not know the exact circuit layouts yet for any of the circuits on next year's calendar, but I think the likely layouts (National or NASCAR) that will be used at COTA will provide the kind racing that Formula E wants and Brands Hatch probably also will, although modifications are planned to give the driver's more of a chance to recover energy (insert chicane here). Zandvoort is a unique case as the Grand Prix layout is slightly too long, as at 2.646 miles it would be the longest circuit in Formula E history and this includes the upcoming races at Brands Hatch and COTA which are about 2.433* and 2.3.65/2.4 miles in length (* = current length of the Grand Prix layout) and while there is a National layout available, I cannot find any information on its length and when it was last used, so I can only assume that it won't be used come next season. Overall I have no problem with the venues for the ePrixs next year, however, I am concerned about some circuit layouts that we have used this year (e.g: Miami, Berlin) so I would like some alterations made to them to lengthen them and slow the average speed around the circuit. Another thing about the Circuit I am very happy about is that large gaps between ePrixs have been largely done away with as there is only 2 5-week breaks although, there are 2 occasions in which ePrixs are on back-to-back weeks and there is 1 race each in both March and April before 3 ePrix doubleheaders in May. This congested section of the schedule is of no issue for a fan like me it will be a struggle for the teams who haven't really had to deal with such a quick turnaround between races, although I think effects of this will only show that if a car crashes in the race which 6 days before the next then that won't be rebuilt until the team arrives at the next venue and will miss Free Practice 1. Also this a PitBoost race.<br/>
    The next Formula E race will be the 2026 TDK Tokyo ePrix, with the race 1 on 25th July 2026 at 11:00 UTC and race 2 on 26th July also at 11:00 UTC. You can find out where to watch it <a href="https://www.fiaformulae.com/en/ways-to-watch">here</a>.
     </p>
