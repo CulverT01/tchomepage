@@ -2,7 +2,6 @@
 title: 2026 Shanghai ePrix Race 2 Review
 description: Review of 2026 Shanghai ePrix Race 2 Review
 date: 2026-07-08
-draft: true
 tags:
   - alternative formula e points format project
   - Formula E race review
