@@ -45,7 +45,7 @@ tags:
             </button>
         </h2>
             <div id="collapseTwo" 
-                class="accordion-collapse collapse show" 
+                class="accordion-collapse collapse" 
                 aria-labelledby="headingTwo"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
@@ -78,7 +78,7 @@ tags:
             </button>
         </h2>
             <div id="collapseThree" 
-                class="accordion-collapse collapse show" 
+                class="accordion-collapse collapse" 
                 aria-labelledby="headingThree"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
@@ -117,7 +117,7 @@ tags:
             </button>
         </h2>
             <div id="collapseFour" 
-                class="accordion-collapse collapse show" 
+                class="accordion-collapse collapse" 
                 aria-labelledby="headingFour"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
@@ -153,7 +153,7 @@ tags:
             </button>
         </h2>
             <div id="collapseFive" 
-                class="accordion-collapse collapse show" 
+                class="accordion-collapse collapse" 
                 aria-labelledby="headingFive"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
@@ -188,7 +188,7 @@ tags:
             </button>
         </h2>
             <div id="collapseSix" 
-                class="accordion-collapse collapse show" 
+                class="accordion-collapse collapse" 
                 aria-labelledby="headingSix"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
@@ -215,19 +215,19 @@ tags:
             </div>
         </div>
         <div class="accordion-item">
-        <h2 class="accordion-header" id="headingSix">
+        <h2 class="accordion-header" id="headingSeven">
             <button class="accordion-button" 
             type="button" 
             data-bs-toggle="collapse" 
-            data-bs-target="#collapseSix" 
+            data-bs-target="#collapseSeven" 
             aria-expanded="true" 
-            aria-controls="collapseSix">
+            aria-controls="collapseSeven">
             Season 6 (2019-2020)
             </button>
         </h2>
-            <div id="collapseSix" 
-                class="accordion-collapse collapse show" 
-                aria-labelledby="headingSix"
+            <div id="collapseSeven" 
+                class="accordion-collapse collapse" 
+                aria-labelledby="headingSeven"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
                 <div>
