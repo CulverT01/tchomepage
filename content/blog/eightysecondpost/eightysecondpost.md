@@ -11,8 +11,8 @@ tags:
 ---
 
 <div class="container fluid">
-  <h1 class="col align-self-center">My Neighbour Seki Volume 4</h1>
-  <div class="row justify-content-center">
+    <h1 class="col align-self-center">My Neighbour Seki Volume 4</h1>
+    <div class="row justify-content-center">
     <div class="col-8">  
         <div class="accordion" id="accordionObject">
             <div class="accordion-item">

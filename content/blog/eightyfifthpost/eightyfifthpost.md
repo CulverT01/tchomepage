@@ -132,5 +132,6 @@ tags:
     </p>
     <ul class="col-8">
     <li> FIA, Formula E. (no date) 'Timing Results', <i>formulae.fia.com</i>, [Online]. Available at: <a href="https://results.formulae.fia.com/results">https://results.formulae.fia.com/results</a> (Accessed 27th June 2026)</li>
+    </ul>
   </div>
 </div>
