@@ -35,7 +35,7 @@ tags:
         </div>
         <div class="accordion-item">
         <h2 class="accordion-header" id="headingTwo">
-            <button class="accordion-button" 
+            <button class="accordion-button collapsed" 
                 type="button" 
                 data-bs-toggle="collapse" 
                 data-bs-target="#collapseTwo" 
@@ -68,7 +68,7 @@ tags:
         </div>
         <div class="accordion-item">
         <h2 class="accordion-header" id="headingThree">
-            <button class="accordion-button" 
+            <button class="accordion-button collapsed" 
             type="button" 
             data-bs-toggle="collapse" 
             data-bs-target="#collapseThree" 
@@ -107,7 +107,7 @@ tags:
         </div>
         <div class="accordion-item">
         <h2 class="accordion-header" id="headingFour">
-            <button class="accordion-button" 
+            <button class="accordion-button collapsed" 
             type="button" 
             data-bs-toggle="collapse" 
             data-bs-target="#collapseFour" 
@@ -143,7 +143,7 @@ tags:
         </div>
         <div class="accordion-item">
         <h2 class="accordion-header" id="headingFive">
-            <button class="accordion-button" 
+            <button class="accordion-button collapsed" 
             type="button" 
             data-bs-toggle="collapse" 
             data-bs-target="#collapseFive" 
@@ -178,7 +178,7 @@ tags:
         </div>
         <div class="accordion-item">
         <h2 class="accordion-header" id="headingSix">
-            <button class="accordion-button" 
+            <button class="accordion-button collapsed" 
             type="button" 
             data-bs-toggle="collapse" 
             data-bs-target="#collapseSix" 
@@ -216,7 +216,7 @@ tags:
         </div>
         <div class="accordion-item">
         <h2 class="accordion-header" id="headingSeven">
-            <button class="accordion-button" 
+            <button class="accordion-button collapsed" 
             type="button" 
             data-bs-toggle="collapse" 
             data-bs-target="#collapseSeven" 
@@ -252,6 +252,7 @@ tags:
                 </div>
             </div>
         </div>
+    </div>
     </div>
     </div>
 </div>
