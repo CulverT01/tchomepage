@@ -2,7 +2,6 @@
 title: 2026 TDK Tokyo ePrix Race 2 Review
 description: Review of 2026 TDK Tokyo ePrix Race 2 Review
 date: 2026-07-29
-draft: true
 tags:
   - alternative formula e points format project
   - Formula E race review
@@ -28,7 +27,11 @@ tags:
     <h2 class="row">Race</h2>
     <h3 class="row">Overall Drivers' Championship</h3>
     <p class="col-8"> 
-    Nyck de Vries wins the ePrix from Nick Cassidy in 2nd and Jake Dennis in 3rd.<br/>
+    Nyck de Vries wins the ePrix from Nick Cassidy in 2nd and Jake Dennis in 3rd. Despite starting in wet conditions that necessitated 1 lap behind the safety car, the race was relatively clean, although turn 7 did cause another incident that was larger than what had happened in the previous race. However, that was not the first incident as on lap 14 Sebastien would dive on Pepe Marti in turn 17 and get alongside the Cupra Kiro driver, but clatters the kerb on the inside of the corner and understeered into Pepe, putting the Spaniard into the wall and nearly himself as well. Sebastien gets a 5-second time penalty and now has 10 points on his licence. The Full Course Yellow flies at the end of lap 15 and Felipe fails slow down quickly enough and receives a 5-second time penalty which is initially converted to a 3-place grid drop, as he provisionally finishes 11th but moves up to 10th after Sebastien's penalty, so has the grid drop rescinded and finishes 16th instead. This rescinding is done late enough that the final race results and standings had already been published, so needed amending (thanks, stewards!).
+    The main incident this race happens on lap 32 when Joel Eriksson makes a late, robust move on the inside of Edoardo Mortara into turn 6, which damages the latter's rear right suspension. On the entry to turn 7 however, Edoardo taps the rear of Joel's car, spinning the Swede around, which he hits and the 2 block the track, necessitating a red flag. Edoardo gets a 10-second time penalty converted to a 5-place grid drop for the incident and the conversion is because he retires from the ePrix. There seems to be some confusion under this red flag, as Jean-Eric Vergne decides to line up on the grid rather than heading into the pit lane, like you are supposed to do, so gets a warning from the stewards. Also Lucas di Grassi speeds under the red flag and picks up a 5-second penalty converted to a 3-place grid drop due to finishing outside the top 10. <br/>
+    The problem with this race is with the tyres as a lot of drivers were handicapped by having the wrong pressures which caused their tyres to overheat and lose grip, preventing them from maintaining the track position they had for the majority of the race. A good example of a driver who suffered from th is Mitch Evans, who struggled to whilst in Attack Mode on laps 20-23 to pass Oliver Rowland, despite the latter not being in Attack Mode, as he couldn't put the power down to out-accelerate oliver down straights and suffered enough that Oliver could pull away slightly. The reason for this is that the Hankook tyres are slow to heat up, so with cooler track temperatures, you run higher pressures to make the tyre contact patch smaller which helps to generate tyre temperatures, but the Hankook tyres can't handle temperature fluctuations very well compared to its predecessor Michelin, so you have guess what the track temperature is going to be for most of the race and aim your pressures to work in those conditions. The problem is for the frontrunners is that a low tyre pressure would see them be swallowed by the pack early on and would trapped behind slower cars and lose precious track position, while those further back it is ok if they run slow initially because they are already out of the points and they can hang back and save energy, so they can pounce if a safety car or red flag occur. Luckily, we are going to get a new tyre supplier for Gen 4 as Bridgestone have been selected, so all they need to do is make a tyre that isn't so temperature sensitive. <br/>
+    The top 6 in the driver's standings under the alternative format: 
+    <br/>
     </p>
     <ol class="col-8">
     <li> Jake Dennis (+2)</li>
@@ -47,15 +50,13 @@ tags:
     {% image "afepf12_r15_drivers_p15-20.png", "Screenshot of the positions 15 to 20 of the Drivers' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Trophy for Drivers</h3>
     <p class="col-8">
-    The class is won Jake Dennis with 2nd in class to Dan Ticktum, and 3rd in class to Sebastien Buemi. . 
-    The retirement for Pepe Marti eliminates him from Trophy contention.<br/>
+    The class is won Jake Dennis with 2nd in class to Dan Ticktum, and 3rd in class to Sebastien Buemi. Dan leads after the standing start all the way until lap 28, where he is passed by Jake Dennis presumably in turn 10 as we don't see the overtake. Jake leads until the end. The retirement for Pepe Marti eliminates him from Trophy contention.<br/>
     Below are the Customer Trophy for Drivers standings:
     </p>
     {% image "afepf12_r15_customer_drivers_p1-6.png", "Screenshot of the Customer Trophy for Drivers standings, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Nelson Piquet Jr Trophy</h3>
     <p class="col-8">
-    The winner of the class is Pepe Marti, with 2nd going to Joel Eriksson and 3rd to Felipe Drugovich. 
-    The retirement for Pepe Marti eliminates him from Trophy contention and if you were wondering, I write these comments on the standings after each race so that is why yesterday's comment for this championship has aged poorly.<br/>
+    The winner of the class is Nico Mueller, with 2nd going to Zane Maloney and 3rd to Felipe Drugovich. Pepe Marti leads from the standing start but is passed by Nico in Attack Mode into turn 1 on lap 4, who leads until the end. The retirement for Pepe Marti eliminates him from Trophy contention and if you were wondering, I write these comments on the standings after each race so that is why yesterday's comment for this championship has aged poorly.<br/>
     Below are the Nelson Piquet Jr Trophy standings:
     </p>
     {% image "afepf12_r15_npjt_drivers_p1-5.png", "Screenshot of the Nelson Piquet Jr Trophy standings, outputted by afepf_viewer_program.py" %}
@@ -68,7 +69,7 @@ tags:
     {% image "afepf12_r15_teams_p6-10.png", "Screenshot of the positions 6 to 10 positions of the Teams' Championship, outputted by afepf_viewer_program.py" %}
     <h3 class="row">Customer Teams' Championship </h3>
     <p class="col-8">
-    Cupra Kiro are now mathematically eliminated from winning the championship while Andretti hold the biggest advantage a leader has had so far this season in this championship.<br/>
+    Cupra Kiro are now mathematically eliminated from winning the championship while Andretti hold the biggest advantage a leader has had so far this season in this championship at 16 points.<br/>
     Below are the Customer Teams' Championship standings:
     </p>
     {% image "afepf12_r15_customer_teams_p1-3.png", "Screenshot of the Customer Teams' Championship, outputted by afepf_viewer_program.py" %}

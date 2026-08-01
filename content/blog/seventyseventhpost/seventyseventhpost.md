@@ -32,6 +32,8 @@ tags:
     <h3 class="row">Overall Drivers' Championship</h3>
     <p class="col-8"> 
     Nico Mueller wins his maiden ePrix from Nick Cassidy in 2nd and Oliver Rowland in 3rd. It was a fairly clean race, as we continue our streak of no added laps to the ePrix. However, this circuit rewards energy saving and so their were occasional slight contact between drivers as they all lifted early at different points, such as between Jake Dennis and Pascal Wehrlein on lap 19 (unseen on TV, as Pascal had dropped back early to save an extreme amount of energy) which broke a tyre valve on the latter's front right tyre. The only retirement was Dan Ticktum, who suffered a temporary loss of power around lap 24/25 (the only shot we see of him is on lap 24 off-line on through turn 8 which isn't a corner, it's just the brake zone for turn 9) and by the time it rebooted itself, he was dead last and he retired on lap 37 as any safety car intervention from then on was not going to save his race. The winning strategy today was extreme energy-saving as our Nico Mueller spent exactly 15 laps inside the top 5 and 13 of those were: a; consecutive, and b; the last 13 laps! Energy-saving was so great that the 2 Lola-Yamaha cars led 8 laps before the pits stops and the drivers crawled off the dummy grid in an effort not spend energy! I think the more available energy thanks to PitBoost made this race less extreme than race 2, but not by much. The 8 different lap leaders ties with Sao Paulo for most this season so far - we have another race coming up at this circuit.<br/>
+    The top 6 in the driver's standings under the alternative format: 
+    <br/>
     </p>
     <ol class="col-8">
     <li> Edoardo Mortara (+1)</li>
