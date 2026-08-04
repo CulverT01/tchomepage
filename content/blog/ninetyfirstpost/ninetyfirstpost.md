@@ -120,8 +120,8 @@ tags:
                     </div>
                 <h3 class="row">Real Life</h3>
                     <div>
-                    For the Drivers' Championship, the point of Mathematical ineligibility is after race 2 of the New York City ePrix, the 12th race of the season. Stoffel Vandoorne is the leader at this point with 155 points and goes on to win the championship with 213 points.<br/>
-                    For the Teams' Championship, the point of Mathematical ineligibility is also after race 2 of the New York City ePrix, with Mercedes-EQ Formula E Team leading the standings with 238 points and they go on to win the Teams' Championship with 319 points.<br/>
+                    For the Drivers' Championship, the point of Mathematical ineligibility is after qualifying for race 2 of the New York City ePrix, the 12th race of the season. Stoffel Vandoorne is the leader at this point with 144 points and goes on to win the championship with 213 points.<br/>
+                    For the Teams' Championship, the point of Mathematical ineligibility is also after race 2 of the New York City ePrix,  but only once the race has ended. Mercedes-EQ Formula E Team leading the standings with 238 points and they go on to win the Teams' Championship with 319 points.<br/>
                     For the hypothetical Manufacturers' Cup, the point of Mathematical ineligibility would have been after the Marrakesh ePrix, the 10th race of the season. The leader at this point would have been Mercedes-Benz and they would have comfortably defended this lead as they would have won the championship with 3 races to go and their final points total would have been 548.
                     </div>
                 </div>
