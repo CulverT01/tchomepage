@@ -105,25 +105,24 @@ tags:
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
                 <div>
-                With the opening of development on powertrains, a manufacturers' championship is available for both formats although it will be hypothetical for real life format as Formula E would not implement such championship until partway through season 10.<br/>
-                Specifically for the alternative format, as 3 teams do not build their powertrain and instead are supplied by a registered manufacturer (Dragon Racing) or are supplied by an unregistered manufacturer (Amlin Andretti Formula E Team and Team Aguri); we have Customer championships for those 3 teams and their drivers. Also we have Nelson Piquet Jr Trophy (NPJT), which has different eligibility rules compared to today (at the time of posting) as for this season in order to be eligible for the NPJT you must not have made a start in Formula E prior to this season. The championships are scored the same way as they are today.<br/>
-                For the real life format, the points system in place is the same as last season minus existence of dropped scores. 
+                In real life, a change in qualifying format to the format we currently use means a slight change to the maximum points available. Now, if you top the group stage you are no longer awarded an extra point, so the maximum points available for a race is back down to 29.<br/>
+                The format is the same as the previous season for alternative format.  
                 </div>
                 <h3 class="row">Alternative Format</h3>
                     <div> 
                     <div> 
-                    For the Overall Drivers' Championship, the point of Mathematical ineligibility is after <br/>
-                    For the Customer Trophy for Drivers Championship, the point of Mathematical ineligibility is after <br/>
-                    For the Nelson Piquet Jr Trophy Championship, the point of Mathematical ineligibility is also after <br/>
-                    For the Overall Teams' Championship, the point of Mathematical ineligibility is also after <br/>
-                    For the Customer Teams' Championship, the point of Mathematical ineligibility is also after <br/>
-                    For the Manufacturers' Cup, the point of Mathematical ineligibility is also after 
+                    For the Overall Drivers' Championship, the point of Mathematical ineligibility is after race 1 of the New York City ePrix, the 11th race of the season. The leader at this point is Stoffel Vandoorne, who leads with 145 points and goes on to win the championship with a race to spare and 221 points. Points-wise, the point of Mathematical ineligibility should come in after qualifying for race 1 of the New York City ePrix as Jean-Eric Vergne has 137 points which is exactly the amount of points available, but because he had yet to win at that point you could rank ahead of him as you would have the better finishes (5 wins to his 0).<br/>
+                    For the Customer Trophy for Drivers Championship, the point of Mathematical ineligibility is after the Jakarta ePrix, the 9th race of the season. The leader at this point is Robin Frijns, who leads with 146 points and would go on to win the Customer Trophy for Drivers with 247 points.<br/>
+                    For the Nelson Piquet Jr Trophy Championship, the point of Mathematical ineligibility is also after the Jakarta ePrix, with Oliver Askew the leader of the class standings with 170 points. Oliver would win the Trophy, but Sergio Sette Camara gets close despite Oliver winning 10 races overall, including 7 of the first 9.<br/>
+                    For the Overall Teams' Championship, the point of Mathematical ineligibility is also after race 1 of the New York City ePrix, with ROKiT Venturi Racing leading the standings with 232 points, but do not win the Teams' Championship as instead it would go to Mercedes-EQ Formula E Team, who wins with 336 points. Mercedes were 2nd at the point of Mathematical ineligibility with 227 points and win the title thanks to strong results from both of their drivers while Venturi has 2 DNFs in the next 5 races.<br/>
+                    For the Customer Teams' Championship, the point of Mathematical ineligibility is also after the Jakarta ePrix, with ROKiT Venturi Racing leading the championship with 161 points. They would defend this lead and win with a race to spare and 293 points.<br/>
+                    For the Manufacturers' Cup, the point of Mathematical ineligibility is after the Marrakesh ePrix, the 10th race of the season. The leader at this point is DS Automobiles, who lead with 264 points but it is Mercedes-Benz who win the Cup with a race to spare and 408 points. They were 2nd at the point of Mathematical ineligibility with 243 points and they are able to completely overhaul DS Automobiles as over the next 4 races (New York City ePrix doubleheader and London ePrix doubleheader) both of their cars finish top 5 in the manufacturer class, while DS Automobiles have 3 top 5s in that timespan.
                     </div>
                 <h3 class="row">Real Life</h3>
                     <div>
-                    For the Drivers' Championship, the point of Mathematical ineligibility is after <br/>
-                    For the Teams' Championship, the point of Mathematical ineligibility is also after <br/>
-                    For the hypothetical Manufacturers' Cup, the point of Mathematical ineligibility would have also been after
+                    For the Drivers' Championship, the point of Mathematical ineligibility is after race 2 of the New York City ePrix, the 12th race of the season. Stoffel Vandoorne is the leader at this point with 155 points and goes on to win the championship with 213 points.<br/>
+                    For the Teams' Championship, the point of Mathematical ineligibility is also after race 2 of the New York City ePrix, with Mercedes-EQ Formula E Team leading the standings with 238 points and they go on to win the Teams' Championship with 319 points.<br/>
+                    For the hypothetical Manufacturers' Cup, the point of Mathematical ineligibility would have been after the Marrakesh ePrix, the 10th race of the season. The leader at this point would have been Mercedes-Benz and they would have comfortably defended this lead as they would have won the championship with 3 races to go and their final points total would have been 548.
                     </div>
                 </div>
             </div>
