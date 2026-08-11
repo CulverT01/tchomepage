@@ -2,7 +2,6 @@
 title: Mathematical Ineligibility - Part 2
 description:
 date: 2026-08-11
-draft: true
 tags:
   - personal
   - Formula E race review
@@ -66,24 +65,23 @@ tags:
                 aria-labelledby="headingTwo"
                 data-bs-parent="#accordionObject">
                 <div class="accordion-body">
-                    <div>
-                    For the alternative points format, the differences between Season 1 and the current Season, Season 12, is that their are no: Customer championships, Nelson Piquet Jr Trophy, nor Manufacturer championship as this season a spec powertrain is used by all competitors and this is the first season of the championship, so all competitors have 1 or less podium in the sport.<br/>
-                    For current real life format, the differences between Season 1 and the current Season, Season 12, is that along with no Manufacturers' championship (due to the use of spec powertrains) the fastest lap is worth 2 points and is earned by the driver who sets the fastest lap regardless of their eventual finishing position. Also, dropped scores exist for drivers this season, meaning you drop your worst finish, excluding disqualifications.
-                    </div>  
+                <div>
+                There are no sporting changes between this season and the previous season and this is true for both formats.
+                </div>  
                 <h3 class="row">Alternative Format</h3>
                     <div> 
-                    For the Overall Drivers' Championship, the point of Mathematical ineligibility is after <br/>
-                    For the Customer Trophy for Drivers Championship, the point of Mathematical ineligibility is after <br/>
-                    For the Nelson Piquet Jr Trophy Championship, the point of Mathematical ineligibility is also after <br/>
-                    For the Overall Teams' Championship, the point of Mathematical ineligibility is also after <br/>
-                    For the Customer Teams' Championship, the point of Mathematical ineligibility is also after <br/>
-                    For the Manufacturers' Cup, the point of Mathematical ineligibility is also after 
+                    For the Overall Drivers' Championship, the point of Mathematical ineligibility is after race 1 of the London ePrix, the 12th race season. The leader at this point is Jean-Eric Vergne, who leads with 90 points and he goes on to win the championship with 111 points. However, Jean-Eric loses the lead after the next race and only reclaims it after the dramatic accident for Mitch Evans and Edoardo Mortara at the start of the final race.<br/>
+                    For the Customer Trophy for Drivers Championship, the point of Mathematical ineligibility is after race 2 of the Puebla ePrix, the 9th race of the season. The leader at this point is Robin Frijns, who leads with 152 points and goes on to win the championship with 249 points, sealing it with a race to spare.<br/>
+                    For the Nelson Piquet Jr Trophy Championship, the point of Mathematical ineligibility is after race 1 of the New York City ePrix, the 10th race of the season. The leader at this point id Nick Cassidy, who leads with 129 points before going on to win the trophy with final points total of 207 points.<br/>
+                    For the Overall Teams' Championship, the point of Mathematical ineligibility is after race 2 of the New York City ePrix, the 11th race of the season. The leader at this point is DS Techeetah with 162 points and they go on to win the Overall Teams' Championship with 202 points. However, they do not maintain this lead throughout the remaining races as Envision Virgin Racing briefly take the lead in the standings after race 2 of the London ePrix, but Techeetah take it back after the next race in Berlin.<br/>
+                    For the Customer Teams' Championship, the point of Mathematical ineligibility is after race 1 of the Puebla ePrix, the 8th race of the season. The leader at this point is Envision Virgin Racing, who lead with 147 points and they go on to win the championship with 268 points.<br/>
+                    For the Manufacturers' Cup, the point of Mathematical ineligibility is also after race 2 of the New York City ePrix, with DS Automobiles leading the championship with 182 points and they go on to win the Cup with 233 points.
                     </div>
                 <h3 class="row">Real Life</h3>
                     <div>
-                    For the Drivers' Championship, the point of Mathematical ineligibility is after <br/>
-                    For the Teams' Championship, the point of Mathematical ineligibility is also after <br/>
-                    For the hypothetical Manufacturers' Cup, the point of Mathematical ineligibility would have also been after 
+                    For the Drivers' Championship, the point of Mathematical ineligibility is after race 2 of the London ePrix, the 13th race of the season. The leader at this point is Nyck de Vries with 95 points and he goes on to win the Drivers' Championship with final points total of 99.<br/>
+                    For the Teams' Championship, the point of Mathematical ineligibility is after race 1 of the London ePrix, the 12th race of the season. DS Techeetah lead the standings at this point with 148 points, but do not go on to win the championship as instead it is Mercedes-EQ Formula E Team who win with 181 points, despite being 4th with 137 points at the point of Mathematical ineligibility. Mercedes are 5th going into the final race, but emerge the winner as they are only team inside the top 5 in the standings to have both cars finish inside the top 10 and the only one to have a car on the podium.<br/>
+                    For the hypothetical Manufacturers' Cup, the point of Mathematical ineligibility would have been after race 2 of the New York City ePrix, the 11th race of the season. The leader at this point would have been Audi, who lead on 222 points but they would not ending up winning the championship if it had run as they lose it to Mercedes-Benz in the last race and they win the championship with 298 points. Mercedes-Benz were 2nd at the point of Mathematical ineligibility with 186 points and the deciding factor is the final race as the Audi-powered cars are uncompetitive and Mercedes-Benz walk away with a 1-3, meaning a 25 point deficit for Mercedes-Benz turns into a 9 point advantage in the span of 1 race.
                     </div>
                 </div>
             </div>

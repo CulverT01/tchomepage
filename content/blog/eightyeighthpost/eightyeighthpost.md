@@ -60,7 +60,7 @@ tags:
                     </div>
                 <h3 class="row">Real Life</h3>
                     <div>
-                    For the Drivers' Championship the point of mathematical ineligibility is the conclusion of 2015 Berlin ePrix and the championship leader at this point being Nelson Piquet Jr with 103 points, a position he inherits after Lucas di Grassi's disqualification. Nelson eventually wins the Drivers' championship by 1 point over Sebastien Buemi with a points total of 144.<br/>
+                    For the Drivers' Championship the point of mathematical ineligibility is the conclusion of 2015 Berlin ePrix, the 8th race of the season. The championship leader at this point being Nelson Piquet Jr with 103 points, a position he inherits after Lucas di Grassi's disqualification. Nelson eventually wins the Drivers' championship by 1 point over Sebastien Buemi with a points total of 144.<br/>
                     For the Teams' Championship the point of mathematical ineligibility is also the conclusion of the 2015 Berlin ePrix and the championship leader for this championship at this point is Team e.dams Renault, who lead on 179 points. They continue to lead until the end of the season, even sealing the title with a race to spare, to win with 232 points.
                     </div>
                 </div>
