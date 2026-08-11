@@ -108,7 +108,6 @@ tags:
                 </div>
                 <h3 class="row">Alternative Format</h3>
                     <div> 
-                    <div> 
                     For the Overall Drivers' Championship, the point of Mathematical ineligibility is after race 1 of the New York City ePrix, the 11th race of the season. The leader at this point is Stoffel Vandoorne, who leads with 145 points and goes on to win the championship with a race to spare and 221 points. Points-wise, the point of Mathematical ineligibility should come in after qualifying for race 1 of the New York City ePrix as Jean-Eric Vergne has 137 points which is exactly the amount of points available, but because he had yet to win at that point you could rank ahead of him as you would have the better finishes (5 wins to his 0).<br/>
                     For the Customer Trophy for Drivers Championship, the point of Mathematical ineligibility is after the Jakarta ePrix, the 9th race of the season. The leader at this point is Robin Frijns, who leads with 146 points and would go on to win the Customer Trophy for Drivers with 247 points.<br/>
                     For the Nelson Piquet Jr Trophy Championship, the point of Mathematical ineligibility is also after the Jakarta ePrix, with Oliver Askew the leader of the class standings with 170 points. Oliver would win the Trophy, but Sergio Sette Camara gets close despite Oliver winning 10 races overall, including 7 of the first 9.<br/>
