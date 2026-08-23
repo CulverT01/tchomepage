@@ -1,7 +1,7 @@
 ---
 title: 2026 Hankook London ePrix Race 2 Review
 description: Review of 2026 Hankook London ePrix Race 2 Review
-date: 2026-07-19
+date: 2026-08-19
 tags:
   - alternative formula e points format project
   - Formula E race review

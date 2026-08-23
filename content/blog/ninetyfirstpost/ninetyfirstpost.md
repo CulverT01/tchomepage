@@ -1,6 +1,6 @@
 ---
 title: Mathematical Ineligibility - Part 2
-description:
+description: A look at the point of Mathematical ineligibility for the championships run in seasons 7-9 across both the real life contemporary and the alternative formats
 date: 2026-08-11
 tags:
   - personal
