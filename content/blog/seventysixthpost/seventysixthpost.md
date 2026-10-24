@@ -296,19 +296,19 @@ tags:
                 </div>
             </div>
             <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFourteen">
+            <h2 class="accordion-header" id="headingFifteen">
                 <button class="accordion-button collapsed" 
                 type="button" 
                 data-bs-toggle="collapse" 
-                data-bs-target="#collapseFourteen" 
+                data-bs-target="#collapseFifteen" 
                 aria-expanded="false" 
-                aria-controls="collapseFourteen">
+                aria-controls="collapseFifteen">
                 42nd Period
                 </button>
                 </h2>
-                <div id="collapseFourteen" 
+                <div id="collapseFifteen" 
                     class="accordion-collapse collapse" 
-                    aria-labelledby="headingFourteen"
+                    aria-labelledby="headingFifteen"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     Seki is panning for gold, which Rumi assumes is fake but is very real to him. He eventually gathers enough gold dust to make is own bar of gold, using a tiny mould, a tiny presser, and his own strength. Happy with one bar, he begins panning for more gold to make more bars, but during this panning session, he notices his bar has gone missing. He suspects Rumi to have taken it, but the accusation bring her to tears and he backs off, only to find the bar stuck in the right cuff of his shirt sleeve. He takes the gold bar and throws it outside before moving onto a new game that incorporates bowling.
@@ -316,19 +316,19 @@ tags:
                 </div>
             </div>
             <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFourteen">
+            <h2 class="accordion-header" id="headingSixteen">
                 <button class="accordion-button collapsed" 
                 type="button" 
                 data-bs-toggle="collapse" 
-                data-bs-target="#collapseFourteen" 
+                data-bs-target="#collapseSixteen" 
                 aria-expanded="false" 
-                aria-controls="collapseFourteen">
+                aria-controls="collapseSixteen">
                 Bonus Chapters
                 </button>
                 </h2>
-                <div id="collapseFourteen" 
+                <div id="collapseSixteen" 
                     class="accordion-collapse collapse" 
-                    aria-labelledby="headingFourteen"
+                    aria-labelledby="headingSixteen"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     The first bonus chapter sees Seki completing a transaction with delinquent student (Rumi’s words, not mine) for which the payment is a Yakisoba sandwich from the delinquent student.<br/>
