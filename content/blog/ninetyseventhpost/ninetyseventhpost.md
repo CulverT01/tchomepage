@@ -314,7 +314,7 @@ tags:
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
                     The first bonus chapter Goto and Rumi discussing Seki and Rumi's idea of getting evidence of catching Seki in the act, which Goto obviously misinterprets and shoots said idea.<br/>
-                    The final bonus chapter is autobiographical as Takuma Morishige answers the question: Did you goof off in class as student? The answer is no, he saved such antics for break times and was never as elaborate as Seki although he did get into obsidian honing, which seemed to be school-wide trend that concerned the teachers enough to ban sharpening stones at school.
+                    The final bonus chapter is autobiographical as Takuma Morishige answers the question: Did you goof off in class as student? The answer is no, he saved such antics for break times and was never as elaborate as Seki although he did get into obsidian honing, which seemed to be school-wide trend in middle school that concerned the teachers enough to ban sharpening stones at school.
                     </div>
                 </div>
             </div>
