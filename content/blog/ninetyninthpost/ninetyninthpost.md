@@ -31,7 +31,7 @@ tags:
                     aria-labelledby="headingOne"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Hello and welcome to my review of volume 8 of My Neighbour Seki. This volume contains the series' 100th chapter, which for most series is some form of celebration or acknowledgement for how far the series come (Nisekoi's 100th chapter revolves around Chitoge Kirisaki wanting to confess her feelings to Raku Ichijo, who has realised how used to the dating act he has to put on along with her), but this volume there is nothing.
+                    Hello and welcome to my review of volume 9 of My Neighbour Seki. One of the chapters in this volume is technically set in the future as relates to the 2020 Tokyo Olympic Games, which were about 4 years away from being scheduled to happen (remember they were postponed a year because of COViD-19 pandemic).
                     </div>
                 </div>
             </div>
