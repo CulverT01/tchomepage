@@ -31,7 +31,7 @@ tags:
                     aria-labelledby="headingOne"
                     data-bs-parent="#accordionObject">
                     <div class="accordion-body">
-                    Hello and welcome to my review of volume 9 of My Neighbour Seki. One of the chapters in this volume is technically set in the future as relates to the 2020 Tokyo Olympic Games, which were about 4 years away from being scheduled to happen (remember they were postponed a year because of COViD-19 pandemic).
+                    Hello and welcome to my review of volume 9 of My Neighbour Seki. One of the chapters in this volume is technically set in the future as relates to the 2020 Tokyo Olympic Games, which were about 4 years away from being scheduled to happen (remember they were postponed a year because of COViD-19 pandemic) when this volume was first released in Japan.
                     </div>
                 </div>
             </div>
